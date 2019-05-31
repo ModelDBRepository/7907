@@ -1,0 +1,74 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<pre>
+<font face="Verdana"><font size=+1>
+September 24th, 2015
+
+dendritica-1.0, dendritica-1.1 and the documentation are now available
+directly from ModelDB. Please note that these are the original versions
+from 2001, which will not run without modifications on current versions
+of NEURON. However, the source code may be useful as a collection of
+algorithms for the analysis of structure-function relations in neurons.
+
+Arnd Roth arnd.roth at ucl.ac.uk
+</pre>
+<font face="Verdana">
+May 17th, 2002<br>
+<p />
+
+Installation note:<br> Michael Hines had found that dendritica
+worked at least in its interactive mode with a unix (and
+linux) version (5.2) of Neuron by
+
+<br><p />
+1)installing iv as described at the neuron installation page<br>
+2)after unpacking the nrn source code
+change the  line <br>#if !defined(WORDS_BIGENDIAN)<br> to <br>#if defined(WORDS_BIGENDIAN)<br>
+in ./nrn-5.2/src/ivoc/ivocvect.cpp<br>
+3)finish the installation of neuron as usual.
+<br><p />
+Also note that dendritica "2. Getting Started"  instructions in "2.1 A sample session" has the
+following changes for Neuron 5.2. After nrnivmodl is run in <br><p />
+./dendritica-1.0/batch_back/back/mod/kvz_naz
+<br><p /> the folder (e.g. sparc/ or i686/
+i.e. named after your machine)  created by nrnivmodl, with all its contents and subdirectories, should be moved up to
+the back/ directory.  Then to start Neuron and dendritica cd to the back/ directory and type<br><p />
+nrngui gui.hoc
+<br> <p />(a minus sign on the end of the command is not needed).<br><p />
+<br><p />
+</font>
+<hr>
+
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+   <meta name="generator" content="Adobe GoLive 5">
+   <meta name="GENERATOR" content="Mozilla/4.77 [en] (Windows NT 5.0; U) [Netscape]">
+   <title>Software tools for studying dendritic signalling</title>
+</head>
+<body bgcolor="#FFFFFF">
+
+<center><i><font face="Verdana"><font size=+2>Dendritica</font></font></i></center>
+
+<center><font face="Verdana"><font size=+1>Software tools for studying
+dendritic signalling</font></font></center>
+<font face="Verdana">This page provides links to <i>Dendritica,</i> a package
+of software tools for studying propagation of action potentials in dendrites,
+to be used in conjunction with the simulator <a href="http://www.neuron.yale.edu/">NEURON</a>.
+The programs are based on those used for the simulations described in the
+following paper:</font>
+<p><font face="Verdana"><font size=-1><a href="http://jn.physiology.org/cgi/content/abstract/85/2/926">Vetter,
+P., Roth, A. &amp; H&auml;usser, M. </a>(2001). Action potential propagation
+in dendrites depends on dendritic morphology. <i>Journal of Neurophysiology,</i>
+85: 926-937.</font></font>
+<p><font face="Verdana"><i>Dendritica</i> is available as a complete package
+which will enable you to interactively reproduce the simulations in the
+paper. The programs have been written for the Linux or Unix environments,
+and require <a href="http://www.neuron.yale.edu/ftp/neuron/versions/">NEURON
+4.1.1</a>. You will need approximately 100 MB of disk space for the entire
+installation. Note that to run all the programs successfully, you may also
+need to make several minor modifications to the NEURON source code (see
+documentation above).</font>
+
+</body>
+</html>

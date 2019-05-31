@@ -1,0 +1,17 @@
+/* Relating dendritic geometry and signal propagation   */
+/* Philipp Vetter, Arnd Roth and Michael Hausser        */
+/* figures.hoc Version 1.0                   11.10.1999 */
+
+ActiveModel=act0
+get_data()
+cplot(3014,3003)  // Nathresholdvclamp vs number of branchpoints
+cplot(3014,3013)  // Nathresholdvclamp vs d2area_max
+
+
+
+// remove L2/3 pyramidal cell so that only layer 5 remain for averaging
+
+l23 = new Vector()
+get_data()
+averages(3011)  // passive AP200
+averages(3016)  // AP200 half-distance

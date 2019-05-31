@@ -1,0 +1,142 @@
+
+func kap_set()  { local ds
+			/* set active model parameters  */
+			/* $1 		gkabar_kap	*/
+			/* $2 		kap_end	 	*/
+			/* $3 		kap_steep 	*/
+			/* $4 		kap_half 	*/
+			/* $5 		kap_rel 	*/
+
+		n = numarg()
+		if (n>0)  gbar_kap   = $1 else gbar_kap         = Gbar_kap
+		if (n>1)  kap_end    = $2 else kap_end		= Kap_end 
+		if (n>2)  kap_steep  = $3 else kap_steep 	= Kap_steep
+		if (n>3)  kap_half   = $4 else kap_half		= Kap_half
+		if (n>4)  kap_rel    = $5 else kap_rel		= Kap_rel
+
+
+		if (!Kap_current) return 0 
+
+		forsec all {
+		if (kap_rel) ds = fdistance(0)/tdist.max else ds = distance(0)
+		gkabar_kap=kap_end+(gbar_kap-kap_end)/(1+exp((ds-kap_half)/kap_steep))
+ 		              }
+
+		forsec dendritesI     {	if (Kap_current) gkabar_kap *= actspinescale }
+		forsec dendritesII    {	if (Kap_current) gkabar_kap *= actspinescaleII }
+		forsec dendritesIII   { dendarea = 0		     /* spines Rapp_cells */
+					for(x) dendarea+= area(x)
+					spinarea      	= 10*L
+					spinescaleIII	= (spinarea+dendarea)/dendarea
+					if (!activespine) spinescaleIII = 1
+					if (Kap_current) gkabar_kap *= spinescaleIII }
+		return 1
+	   }
+
+
+
+func kad_set()  { local ds
+			/* set active model parameters  */
+			/* $1 		gkabar_kad	*/
+			/* $2 		kad_end	 	*/
+			/* $3 		kad_steep 	*/
+			/* $4 		kad_half 	*/
+			/* $5 		kad_rel 	*/
+
+		n = numarg()
+		if (n>0)  gbar_kad   = $1 else gbar_kad     = Gbar_kad
+		if (n>1)  kad_end    = $2 else kad_end		= Kad_end 
+		if (n>2)  kad_steep  = $3 else kad_steep 	= Kad_steep
+		if (n>3)  kad_half   = $4 else kad_half		= Kad_half
+		if (n>4)  kad_rel    = $5 else kad_rel		= Kad_rel
+
+
+		if (!Kad_current) return 0 
+
+		forsec all { if (ismembrane("kad") {
+		if (kad_rel) ds = fdistance(0)/tdist.max else ds = distance(0)
+		gkabar_kad=kad_end+(gbar_kad-kad_end)/(1+exp((ds-kad_half)/kad_steep))
+ 		              }}
+
+		forsec dendritesI     {	if (ismembrane("kad") gkabar_kad *= actspinescale }
+		forsec dendritesII    {	if (ismembrane("kad") gkabar_kad *= actspinescaleII }
+		forsec dendritesIII   { dendarea = 0		     /* spines Rapp_cells */
+					for(x) dendarea+= area(x)
+					spinarea      	= 10*L
+					spinescaleIII	= (spinarea+dendarea)/dendarea
+					if (!activespine) spinescaleIII = 1
+					if (ismembrane("kad") gkabar_kad *= spinescaleIII }
+		return 1
+	   }
+
+
+
+func kap_set()  { local ds
+			/* set active model parameters  */
+			/* $1 		gkabar_kap	*/
+			/* $2 		kap_end	 	*/
+			/* $3 		kap_steep 	*/
+			/* $4 		kap_half 	*/
+			/* $5 		kap_rel 	*/
+
+		n = numarg()
+		if (n>0)  gbar_kap   = $1 else gbar_kap         = Gbar_kap
+		if (n>1)  kap_end    = $2 else kap_end		= Kap_end 
+		if (n>2)  kap_steep  = $3 else kap_steep 	= Kap_steep
+		if (n>3)  kap_half   = $4 else kap_half		= Kap_half
+		if (n>4)  kap_rel    = $5 else kap_rel		= Kap_rel
+
+
+		if (!Kap_current) return 0 
+
+		forsec all {
+		if (kap_rel) ds = fdistance(0)/tdist.max else ds = distance(0)
+		gkabar_kap=kap_end+(gbar_kap-kap_end)/(1+exp((ds-kap_half)/kap_steep))
+ 		              }
+
+		forsec dendritesI     {	if (Kap_current) gkabar_kap *= actspinescale }
+		forsec dendritesII    {	if (Kap_current) gkabar_kap *= actspinescaleII }
+		forsec dendritesIII   { dendarea = 0		     /* spines Rapp_cells */
+					for(x) dendarea+= area(x)
+					spinarea      	= 10*L
+					spinescaleIII	= (spinarea+dendarea)/dendarea
+					if (!activespine) spinescaleIII = 1
+					if (Kap_current) gkabar_kap *= spinescaleIII }
+		return 1
+	   }
+
+
+
+func kad_set()  { local ds
+			/* set active model parameters  */
+			/* $1 		gkabar_kad	*/
+			/* $2 		kad_end	 	*/
+			/* $3 		kad_steep 	*/
+			/* $4 		kad_half 	*/
+			/* $5 		kad_rel 	*/
+
+		n = numarg()
+		if (n>0)  gbar_kad   = $1 else gbar_kad     = Gbar_kad
+		if (n>1)  kad_end    = $2 else kad_end		= Kad_end 
+		if (n>2)  kad_steep  = $3 else kad_steep 	= Kad_steep
+		if (n>3)  kad_half   = $4 else kad_half		= Kad_half
+		if (n>4)  kad_rel    = $5 else kad_rel		= Kad_rel
+
+
+		if (!Kad_current) return 0 
+
+		forsec all { if (ismembrane("kad") {
+		if (kad_rel) ds = fdistance(0)/tdist.max else ds = distance(0)
+		gkabar_kad=kad_end+(gbar_kad-kad_end)/(1+exp((ds-kad_half)/kad_steep))
+ 		              }}
+
+		forsec dendritesI     {	if (ismembrane("kad") gkabar_kad *= actspinescale }
+		forsec dendritesII    {	if (ismembrane("kad") gkabar_kad *= actspinescaleII }
+		forsec dendritesIII   { dendarea = 0		     /* spines Rapp_cells */
+					for(x) dendarea+= area(x)
+					spinarea      	= 10*L
+					spinescaleIII	= (spinarea+dendarea)/dendarea
+					if (!activespine) spinescaleIII = 1
+					if (ismembrane("kad") gkabar_kad *= spinescaleIII }
+		return 1
+	   }

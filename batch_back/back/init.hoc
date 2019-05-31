@@ -1,0 +1,15 @@
+/* Relating dendritic geometry and signal propagation   */
+/* Philipp Vetter, Arnd Roth and Michael Hausser        */
+/* init.hoc Version 1.0                      11.10.1999 */
+
+xopen("parse.hoc")
+xopen("settings.hoc")
+xopen("neuronprefs.hoc")
+xopen("electrophysiology.hoc")
+xopen("graphics.hoc")
+xopen("geometry.hoc")
+xopen("impedance.hoc")
+xopen("forward.hoc")
+xopen("output.hoc")
+xopen("statistics.hoc")
+xopen("help.hoc")

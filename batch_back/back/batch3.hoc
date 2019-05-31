@@ -1,0 +1,6 @@
+/* Relating dendritic geometry and signal propagation   */
+/* Philipp Vetter, Arnd Roth and Michael Hausser        */
+/* batch3.hoc Version 1.0                    11.10.1999 */
+
+xopen("init.hoc")
+batch(19,act0)

@@ -1,0 +1,2548 @@
+
+
+geometric correlations
+================
+
+Single correlation against nathresholdvclamp 3014  (act7)
+
+r  0.834  power     1.00  1002  area_max
+r  0.816  power     1.00  1202  exp(area_max)
+r  0.636  power     1.00  2003  asections_max
+r  0.628  power     1.00  1007  sections_max
+r  0.623  power     1.00  1009  sections_mean
+r  0.614  power     1.00  2014  deq_relmax
+r  0.612  power     1.00  2012  adeq_max
+r  0.587  power     1.00  1209  exp(sections_mean)
+r  0.583  power     1.00  2203  exp(asections_max)
+r  0.579  power     1.00  2214  exp(deq_relmax)
+r  0.578  power     1.00  2212  exp(adeq_max)
+r  0.577  power     1.00  1207  exp(sections_max)
+r  0.577  power     1.00  1003  branchpoints_num
+r  0.570  power     1.00  2005  asections_mean
+r  0.562  power     1.00  2000  adarea_max
+r  0.550  power     1.00  1012  dAdr_relmax
+r  0.548  power     1.00  1000  darea_max
+r  0.534  power     1.00  2200  exp(adarea_max)
+r  0.533  power     1.00  2205  exp(asections_mean)
+r  0.532  power     1.00  2218  exp(ddeq_maxAr_ratio)
+r  0.526  power     1.00  1203  exp(branchpoints_num)
+r  0.508  power     1.00  1102  ln(area_max)
+r  0.507  power     1.00  1112  ln(dAdr_relmax)
+r  0.503  power     1.00  2018  ddeq_maxAr_ratio
+r  0.501  power     1.00  2016  ddeq_max
+r  0.495  power     1.00  1100  ln(darea_max)
+r  0.494  power     1.00  1206  exp(distance_max)
+r  0.493  power     1.00  1212  exp(dAdr_relmax)
+r  0.492  power     1.00  1200  exp(darea_max)
+r  0.484  power     1.00  2216  exp(ddeq_max)
+r  0.484  power     1.00  1006  distance_max
+r  0.480  power     1.00  2002  adistance_max
+r  0.470  power     1.00  1013  d2area_max
+r  0.468  power     1.00  2202  exp(adistance_max)
+r  0.467  power     1.00  2114  ln(deq_relmax)
+r  0.460  power     1.00  2112  ln(adeq_max)
+r  0.452  power     1.00  1017  diam_mean
+r  0.450  power     1.00  2100  ln(adarea_max)
+r  0.446  power     1.00  1217  exp(diam_mean)
+r  0.421  power     1.00  1213  exp(d2area_max)
+
+
+Single correlation against nathresholdvclamp 3014  (act7)
+
+r  0.844  power    18.98  1102  ln(area_max)
+r -0.843  power    -1.40  1202  exp(area_max)
+r  0.842  power     0.62  1002  area_max
+r -0.810  power   -10.63  1203  exp(branchpoints_num)
+r  0.764  power     8.46  1103  ln(branchpoints_num)
+r -0.763  power    -5.96  2203  exp(asections_max)
+r -0.757  power    -0.12  1003  branchpoints_num
+r  0.745  power     8.39  2103  ln(asections_max)
+r -0.743  power    -5.53  1207  exp(sections_max)
+r -0.739  power    -0.07  2003  asections_max
+r -0.738  power   -10.11  1200  exp(darea_max)
+r -0.731  power    -9.45  1212  exp(dAdr_relmax)
+r  0.728  power     8.03  1107  ln(sections_max)
+r -0.723  power    -0.10  1007  sections_max
+r  0.710  power     8.07  1100  ln(darea_max)
+r -0.709  power    -0.08  1000  darea_max
+r  0.703  power     9.05  1112  ln(dAdr_relmax)
+r -0.702  power    -8.87  2200  exp(adarea_max)
+r -0.699  power    -0.01  1012  dAdr_relmax
+r -0.694  power    -4.46  2214  exp(deq_relmax)
+r -0.691  power    -4.43  2212  exp(adeq_max)
+r  0.682  power     9.08  2114  ln(deq_relmax)
+r  0.679  power     0.03  2014  deq_relmax
+r  0.679  power     9.22  2112  ln(adeq_max)
+r  0.678  power     9.55  2100  ln(adarea_max)
+r  0.676  power     0.04  2012  adeq_max
+r  0.675  power     0.02  2000  adarea_max
+r -0.666  power    -5.31  2205  exp(asections_mean)
+r -0.664  power    -2.79  1209  exp(sections_mean)
+r  0.662  power    12.36  1109  ln(sections_mean)
+r  0.650  power     0.36  1009  sections_mean
+r  0.650  power     9.50  2105  ln(asections_mean)
+r  0.638  power     0.05  2005  asections_mean
+r -0.619  power    -9.57  1213  exp(d2area_max)
+r  0.582  power    16.69  1113  ln(d2area_max)
+r  0.566  power     0.26  1013  d2area_max
+r  0.554  power     2.26  2018  ddeq_maxAr_ratio
+r  0.552  power     2.76  2218  exp(ddeq_maxAr_ratio)
+r -0.542  power    -4.17  2216  exp(ddeq_max)
+r  0.527  power     0.49  2016  ddeq_max
+r  0.522  power    23.29  1106  ln(distance_max)
+r  0.504  power    19.34  2102  ln(adistance_max)
+r  0.502  power     1.88  1006  distance_max
+r  0.495  power     1.39  1206  exp(distance_max)
+r -0.481  power    -0.33  2202  exp(adistance_max)
+r  0.481  power     1.10  2002  adistance_max
+r  0.465  power     4.21  1117  ln(diam_mean)
+r -0.460  power    -0.22  1017  diam_mean
+r -0.454  power    -0.93  1217  exp(diam_mean)
+
+
+
+
+functional correlations
+================
+
+Single correlation against nathresholdvclamp 3014  (act7)
+
+r  1.000  power     1.00  3014  nathresholdvclamp
+r  0.997  power     1.00  3214  exp(nathresholdvclamp)
+r  0.907  power     1.00  3000  nathreshold
+r  0.858  power     1.00  3021  nathresholdvclamp2
+r  0.854  power     1.00  3200  exp(nathreshold)
+r  0.854  power     1.00  3221  exp(nathresholdvclamp2)
+r -0.844  power     1.00  3012  APhalf
+r -0.841  power     1.00  3212  exp(APhalf)
+r  0.776  power     1.00  3001  st_intensity
+r  0.767  power     1.00  3100  ln(nathreshold)
+r  0.766  power     1.00  3114  ln(nathresholdvclamp)
+r  0.751  power     1.00  3201  exp(st_intensity)
+r -0.710  power     1.00  3030  aZfwd_min
+r -0.710  power     1.00  3034  aRfwd_min
+r  0.697  power     1.00  3121  ln(nathresholdvclamp2)
+r -0.685  power     1.00  3015  input_resistance
+r  0.683  power     1.00  3137  ln(daRfwd_min)
+r -0.657  power     1.00  3130  ln(aZfwd_min)
+r -0.654  power     1.00  3134  ln(aRfwd_min)
+r -0.653  power     1.00  3230  exp(aZfwd_min)
+r -0.652  power     1.00  3234  exp(aRfwd_min)
+r -0.634  power     1.00  3115  ln(input_resistance)
+r -0.627  power     1.00  3215  exp(input_resistance)
+r -0.626  power     1.00  3022  Zfwd_min
+r -0.614  power     1.00  3237  exp(daRfwd_min)
+r -0.597  power     1.00  3026  Rfwd_min
+r  0.591  power     1.00  3037  daRfwd_min
+r  0.584  power     1.00  3032  daZfwd_max
+r -0.576  power     1.00  3222  exp(Zfwd_min)
+r  0.572  power     1.00  3232  exp(daZfwd_max)
+r  0.572  power     1.00  3135  ln(aRfwd_max)
+r  0.571  power     1.00  3133  ln(daZfwd_min)
+r -0.553  power     1.00  3126  ln(Rfwd_min)
+r -0.550  power     1.00  3226  exp(Rfwd_min)
+r -0.549  power     1.00  3233  exp(daZfwd_min)
+r  0.548  power     1.00  3231  exp(aZfwd_max)
+r  0.547  power     1.00  3031  aZfwd_max
+r  0.534  power     1.00  3035  aRfwd_max
+r  0.532  power     1.00  3131  ln(aZfwd_max)
+r -0.527  power     1.00  3112  ln(APhalf)
+r  0.526  power     1.00  3136  ln(daRfwd_max)
+r  0.511  power     1.00  3033  daZfwd_min
+r -0.493  power     1.00  3219  exp(AP200_basis)
+r  0.488  power     1.00  3132  ln(daZfwd_max)
+r  0.488  power     1.00  3235  exp(aRfwd_max)
+r -0.479  power     1.00  3011  AP200_pass
+r -0.469  power     1.00  3211  exp(AP200_pass)
+r  0.458  power     1.00  3036  daRfwd_max
+r -0.446  power     1.00  3240  exp(cRfwd_min)
+r  0.444  power     1.00  3101  ln(st_intensity)
+r  0.426  power     1.00  3236  exp(daRfwd_max)
+r -0.418  power     1.00  3122  ln(Zfwd_min)
+r -0.410  power     1.00  3229  exp(dRfwd_min)
+r -0.410  power     1.00  3225  exp(dZfwd_min)
+r  0.401  power     1.00  3025  dZfwd_min
+r  0.401  power     1.00  3029  dRfwd_min
+
+
+Single correlation against nathresholdvclamp 3014  (act7)
+
+r  1.000  power     1.00  3014  nathresholdvclamp
+r  1.000  power     0.01  3214  exp(nathresholdvclamp)
+r -0.965  power    -3.40  3200  exp(nathreshold)
+r -0.962  power    -0.71  3000  nathreshold
+r  0.961  power     5.57  3100  ln(nathreshold)
+r  0.889  power     2.48  3114  ln(nathresholdvclamp)
+r -0.866  power    -0.03  3012  APhalf
+r  0.859  power     0.35  3021  nathresholdvclamp2
+r  0.858  power    -0.54  3221  exp(nathresholdvclamp2)
+r -0.843  power    -1.49  3212  exp(APhalf)
+r -0.791  power    -0.53  3015  input_resistance
+r  0.788  power     2.45  3121  ln(nathresholdvclamp2)
+r -0.783  power     0.10  3030  aZfwd_min
+r  0.782  power     0.66  3001  st_intensity
+r -0.781  power     0.12  3034  aRfwd_min
+r  0.775  power    -1.53  3201  exp(st_intensity)
+r  0.766  power     0.06  3036  daRfwd_max
+r -0.755  power     2.74  3115  ln(input_resistance)
+r -0.739  power     3.36  3112  ln(APhalf)
+r  0.737  power    -0.01  3037  daRfwd_min
+r  0.723  power     0.13  3035  aRfwd_max
+r -0.720  power     2.49  3130  ln(aZfwd_min)
+r -0.718  power     0.05  3022  Zfwd_min
+r -0.717  power     2.51  3134  ln(aRfwd_min)
+r  0.707  power     0.03  3032  daZfwd_max
+r -0.707  power    -1.45  3234  exp(aRfwd_min)
+r -0.706  power    -1.40  3230  exp(aZfwd_min)
+r -0.699  power     0.05  3026  Rfwd_min
+r  0.695  power     0.71  3137  ln(daRfwd_min)
+r  0.692  power    -0.02  3033  daZfwd_min
+r  0.684  power     3.18  3136  ln(daRfwd_max)
+r -0.682  power    -1.43  3215  exp(input_resistance)
+r  0.661  power     2.40  3135  ln(aRfwd_max)
+r  0.653  power     0.04  3031  aZfwd_max
+r -0.645  power     2.87  3126  ln(Rfwd_min)
+r  0.637  power     3.25  3132  ln(daZfwd_max)
+r -0.636  power     4.05  3237  exp(daRfwd_min)
+r -0.625  power    -1.59  3222  exp(Zfwd_min)
+r  0.620  power     3.68  3101  ln(st_intensity)
+r  0.618  power     2.35  3131  ln(aZfwd_max)
+r -0.595  power    -1.57  3226  exp(Rfwd_min)
+r -0.592  power     3.40  3122  ln(Zfwd_min)
+r -0.591  power     3.94  3233  exp(daZfwd_min)
+r  0.585  power     0.77  3133  ln(daZfwd_min)
+r  0.583  power    -1.39  3232  exp(daZfwd_max)
+r  0.549  power     2.44  3231  exp(aZfwd_max)
+r  0.531  power    -1.45  3235  exp(aRfwd_max)
+r -0.495  power     0.70  3219  exp(AP200_basis)
+r -0.487  power    -0.46  3211  exp(AP200_pass)
+r  0.486  power    -0.01  3024  dZfwd_max
+r -0.486  power     0.62  3011  AP200_pass
+r  0.483  power     0.03  3028  dRfwd_max
+r  0.476  power    -0.03  3025  dZfwd_min
+r  0.475  power    -0.02  3029  dRfwd_min
+r -0.467  power     3.93  3240  exp(cRfwd_min)
+r  0.455  power    -1.42  3236  exp(daRfwd_max)
+r  0.453  power     3.76  3124  ln(dZfwd_max)
+r  0.453  power     3.81  3128  ln(dRfwd_max)
+r -0.441  power    -0.48  3017  AP200_steep
+r -0.420  power    -0.54  3016  AP200_half
+r -0.420  power     3.97  3225  exp(dZfwd_min)
+r -0.420  power     3.90  3229  exp(dRfwd_min)
+r -0.415  power     2.71  3117  ln(AP200_steep)
+r -0.407  power     2.94  3116  ln(AP200_half)
+r -0.404  power     0.60  3119  ln(AP200_basis)
+
+
+
+
+geometric correlations
+================
+
+Single correlation against AP200 3010  (act7)
+
+r  0.921  power     1.00  1122  ln(branchdensity_noend)
+r  0.838  power     1.00  1106  ln(distance_max)
+r  0.819  power     1.00  2102  ln(adistance_max)
+r -0.618  power     1.00  1219  exp(branchdensityII)
+r -0.617  power     1.00  2215  exp(deq_ratio)
+r -0.613  power     1.00  2208  exp(abranchdensityII)
+r -0.605  power     1.00  1223  exp(branchdensityII_noend)
+r -0.577  power     1.00  2015  deq_ratio
+r -0.558  power     1.00  1019  branchdensityII
+r -0.547  power     1.00  2008  abranchdensityII
+r -0.524  power     1.00  1023  branchdensityII_noend
+r -0.479  power     1.00  1011  dAdr_ratio
+r -0.467  power     1.00  1213  exp(d2area_max)
+r -0.464  power     1.00  1013  d2area_max
+r -0.438  power     1.00  2210  exp(abranchdensityII_noend)
+r -0.432  power     1.00  2216  exp(ddeq_max)
+r -0.422  power     1.00  1211  exp(dAdr_ratio)
+r -0.415  power     1.00  1110  ln(taper_mean)
+r -0.414  power     1.00  2016  ddeq_max
+
+
+Single correlation against AP200 3010  (act7)
+
+r  0.926  power     0.29  1122  ln(branchdensity_noend)
+r  0.923  power    -0.45  1106  ln(distance_max)
+r  0.922  power    -1.56  2102  ln(adistance_max)
+r -0.729  power     4.10  1023  branchdensityII_noend
+r -0.718  power     3.99  1223  exp(branchdensityII_noend)
+r -0.714  power     3.94  1019  branchdensityII
+r -0.713  power     4.08  1219  exp(branchdensityII)
+r -0.712  power     4.00  2008  abranchdensityII
+r -0.709  power     3.94  2208  exp(abranchdensityII)
+r -0.666  power     3.47  2015  deq_ratio
+r -0.656  power     4.04  2215  exp(deq_ratio)
+r -0.531  power     4.00  2010  abranchdensityII_noend
+r -0.525  power     3.96  2210  exp(abranchdensityII_noend)
+r -0.499  power     0.66  1011  dAdr_ratio
+r  0.493  power    -1.44  1022  branchdensity_noend
+r -0.481  power     1.47  1013  d2area_max
+r -0.476  power    -1.43  1211  exp(dAdr_ratio)
+r -0.468  power     0.67  1213  exp(d2area_max)
+r -0.446  power     2.06  2016  ddeq_max
+r -0.444  power     2.74  2216  exp(ddeq_max)
+r -0.415  power     0.94  1110  ln(taper_mean)
+r  0.400  power     2.93  1210  exp(taper_mean)
+r -0.400  power     2.05  1007  sections_max
+
+
+
+
+functional correlations
+================
+
+Single correlation against AP200 3010  (act7)
+
+r  1.000  power     1.00  3010  AP200
+r  0.991  power     1.00  3210  exp(AP200)
+r  0.932  power     1.00  3110  ln(AP200)
+r  0.767  power     1.00  3108  ln(aRmismatch_mean)
+r  0.745  power     1.00  3109  ln(aZmismatch_mean)
+r  0.693  power     1.00  3118  ln(AP200_range)
+
+
+Single correlation against AP200 3010  (act7)
+
+r  1.000  power     1.00  3010  AP200
+r  0.999  power     0.01  3210  exp(AP200)
+r  0.942  power     3.90  3110  ln(AP200)
+r  0.921  power    -0.52  3109  ln(aZmismatch_mean)
+r  0.921  power    -1.48  3108  ln(aRmismatch_mean)
+r  0.910  power    -1.57  3118  ln(AP200_range)
+r  0.627  power    -0.46  3119  ln(AP200_basis)
+r  0.619  power    -1.54  3111  ln(AP200_pass)
+r  0.598  power    -1.50  3011  AP200_pass
+r  0.522  power    -1.49  3219  exp(AP200_basis)
+r -0.475  power     3.24  3019  AP200_basis
+r  0.440  power     2.27  3112  ln(APhalf)
+r -0.430  power     4.00  3138  ln(cZfwd_min)
+r  0.405  power    -0.52  3017  AP200_steep
+
+
+
+
+geometric correlations
+================
+
+Single correlation against nathreshold 3000  (act7)
+
+r  0.843  power     1.00  1202  exp(area_max)
+r  0.834  power     1.00  1002  area_max
+r  0.740  power     1.00  2003  asections_max
+r  0.720  power     1.00  1009  sections_mean
+r  0.720  power     1.00  2014  deq_relmax
+r  0.719  power     1.00  1007  sections_max
+r  0.719  power     1.00  2012  adeq_max
+r  0.716  power     1.00  2203  exp(asections_max)
+r  0.712  power     1.00  2214  exp(deq_relmax)
+r  0.711  power     1.00  2212  exp(adeq_max)
+r  0.709  power     1.00  1209  exp(sections_mean)
+r  0.707  power     1.00  2005  asections_mean
+r  0.699  power     1.00  2000  adarea_max
+r  0.698  power     1.00  2205  exp(asections_mean)
+r  0.697  power     1.00  2200  exp(adarea_max)
+r  0.690  power     1.00  1207  exp(sections_max)
+r  0.677  power     1.00  1003  branchpoints_num
+r  0.644  power     1.00  1217  exp(diam_mean)
+r  0.634  power     1.00  1203  exp(branchpoints_num)
+r  0.629  power     1.00  2016  ddeq_max
+r  0.626  power     1.00  2216  exp(ddeq_max)
+r  0.615  power     1.00  1012  dAdr_relmax
+r  0.614  power     1.00  1017  diam_mean
+r  0.614  power     1.00  1000  darea_max
+r  0.550  power     1.00  1212  exp(dAdr_relmax)
+r  0.549  power     1.00  1200  exp(darea_max)
+r  0.539  power     1.00  1010  taper_mean
+r  0.524  power     1.00  2006  ataper_mean
+r  0.508  power     1.00  1013  d2area_max
+r  0.472  power     1.00  2106  ln(ataper_mean)
+r  0.469  power     1.00  1112  ln(dAdr_relmax)
+r  0.464  power     1.00  1019  branchdensityII
+r  0.460  power     1.00  1100  ln(darea_max)
+r -0.457  power     1.00  1210  exp(taper_mean)
+r  0.457  power     1.00  1102  ln(area_max)
+r -0.455  power     1.00  2206  exp(ataper_mean)
+r  0.442  power     1.00  2114  ln(deq_relmax)
+r  0.441  power     1.00  1213  exp(d2area_max)
+r  0.435  power     1.00  2112  ln(adeq_max)
+r  0.435  power     1.00  1219  exp(branchdensityII)
+r  0.428  power     1.00  1023  branchdensityII_noend
+r  0.425  power     1.00  2100  ln(adarea_max)
+r  0.416  power     1.00  2015  deq_ratio
+r  0.416  power     1.00  1223  exp(branchdensityII_noend)
+
+
+Single correlation against nathreshold 3000  (act7)
+
+r  0.846  power     1.96  1202  exp(area_max)
+r  0.837  power     1.33  1002  area_max
+r  0.765  power     0.05  1003  branchpoints_num
+r  0.763  power     0.43  2003  asections_max
+r  0.744  power     0.38  1007  sections_max
+r  0.739  power    -1.45  2203  exp(asections_max)
+r  0.729  power     0.56  2014  deq_relmax
+r  0.727  power     0.57  2012  adeq_max
+r  0.725  power     0.44  2000  adarea_max
+r  0.721  power     0.90  1009  sections_mean
+r  0.720  power    -0.44  1209  exp(sections_mean)
+r  0.719  power    -1.56  2214  exp(deq_relmax)
+r  0.718  power    -1.45  2212  exp(adeq_max)
+r  0.717  power    -1.40  1207  exp(sections_max)
+r  0.716  power     0.57  2005  asections_mean
+r  0.715  power     0.24  1000  darea_max
+r  0.708  power     0.27  1012  dAdr_relmax
+r  0.707  power    -1.52  2205  exp(asections_mean)
+r  0.699  power    -1.54  2200  exp(adarea_max)
+r  0.676  power     4.07  1217  exp(diam_mean)
+r  0.675  power    -1.43  1203  exp(branchpoints_num)
+r  0.668  power     4.08  1017  diam_mean
+r  0.638  power     2.38  2006  ataper_mean
+r  0.632  power     0.77  2016  ddeq_max
+r  0.629  power    -1.44  2216  exp(ddeq_max)
+r  0.617  power     3.23  1102  ln(area_max)
+r  0.611  power    -1.45  1212  exp(dAdr_relmax)
+r  0.610  power    -1.40  1200  exp(darea_max)
+r  0.605  power     2.00  2106  ln(ataper_mean)
+r  0.600  power     1.92  1010  taper_mean
+r  0.599  power     0.26  1013  d2area_max
+r  0.582  power     3.29  1100  ln(darea_max)
+r  0.581  power     3.09  2114  ln(deq_relmax)
+r  0.579  power     3.71  1107  ln(sections_max)
+r  0.578  power     3.19  2103  ln(asections_max)
+r  0.577  power     4.01  1103  ln(branchpoints_num)
+r  0.577  power     3.18  2112  ln(adeq_max)
+r  0.572  power     3.30  2100  ln(adarea_max)
+r  0.558  power     2.90  1112  ln(dAdr_relmax)
+r  0.556  power     3.10  1110  ln(taper_mean)
+r -0.522  power    -1.52  2206  exp(ataper_mean)
+r -0.513  power    -1.50  1210  exp(taper_mean)
+r  0.504  power    -1.47  1213  exp(d2area_max)
+r  0.489  power     3.92  2105  ln(asections_mean)
+r  0.475  power     3.47  1109  ln(sections_mean)
+r  0.472  power     0.51  1019  branchdensityII
+r  0.468  power     0.05  2015  deq_ratio
+r  0.467  power     2.63  1117  ln(diam_mean)
+r  0.462  power    -1.53  1219  exp(branchdensityII)
+r  0.441  power     3.96  2211  exp(adiam_mean)
+r  0.439  power    -0.04  1011  dAdr_ratio
+r  0.429  power     2.37  2115  ln(deq_ratio)
+r  0.429  power     1.13  1023  branchdensityII_noend
+r  0.429  power     4.00  2011  adiam_mean
+r  0.428  power    -0.34  1223  exp(branchdensityII_noend)
+r  0.414  power    -1.46  2215  exp(deq_ratio)
+
+
+
+
+functional correlations
+================
+
+Single correlation against nathreshold 3000  (act7)
+
+r  1.000  power     1.00  3000  nathreshold
+r  0.991  power     1.00  3200  exp(nathreshold)
+r  0.911  power     1.00  3214  exp(nathresholdvclamp)
+r  0.907  power     1.00  3014  nathresholdvclamp
+r -0.860  power     1.00  3115  ln(input_resistance)
+r -0.801  power     1.00  3126  ln(Rfwd_min)
+r  0.767  power     1.00  3001  st_intensity
+r  0.763  power     1.00  3201  exp(st_intensity)
+r  0.743  power     1.00  3133  ln(daZfwd_min)
+r -0.740  power     1.00  3012  APhalf
+r -0.736  power     1.00  3212  exp(APhalf)
+r  0.707  power     1.00  3100  ln(nathreshold)
+r  0.707  power     1.00  3021  nathresholdvclamp2
+r  0.703  power     1.00  3221  exp(nathresholdvclamp2)
+r  0.673  power     1.00  3114  ln(nathresholdvclamp)
+r -0.669  power     1.00  3122  ln(Zfwd_min)
+r  0.654  power     1.00  3125  ln(dZfwd_min)
+r  0.654  power     1.00  3129  ln(dRfwd_min)
+r -0.649  power     1.00  3030  aZfwd_min
+r -0.648  power     1.00  3034  aRfwd_min
+r -0.632  power     1.00  3233  exp(daZfwd_min)
+r  0.627  power     1.00  3137  ln(daRfwd_min)
+r -0.626  power     1.00  3015  input_resistance
+r  0.626  power     1.00  3032  daZfwd_max
+r  0.613  power     1.00  3232  exp(daZfwd_max)
+r  0.612  power     1.00  3033  daZfwd_min
+r -0.606  power     1.00  3130  ln(aZfwd_min)
+r  0.605  power     1.00  3231  exp(aZfwd_max)
+r -0.599  power     1.00  3134  ln(aRfwd_min)
+r  0.596  power     1.00  3031  aZfwd_max
+r -0.591  power     1.00  3230  exp(aZfwd_min)
+r -0.590  power     1.00  3234  exp(aRfwd_min)
+r  0.582  power     1.00  3121  ln(nathresholdvclamp2)
+r -0.578  power     1.00  3022  Zfwd_min
+r -0.567  power     1.00  3215  exp(input_resistance)
+r -0.563  power     1.00  3237  exp(daRfwd_min)
+r -0.546  power     1.00  3026  Rfwd_min
+r -0.542  power     1.00  3225  exp(dZfwd_min)
+r -0.542  power     1.00  3229  exp(dRfwd_min)
+r  0.538  power     1.00  3024  dZfwd_max
+r  0.538  power     1.00  3028  dRfwd_max
+r  0.536  power     1.00  3037  daRfwd_min
+r  0.529  power     1.00  3025  dZfwd_min
+r  0.529  power     1.00  3029  dRfwd_min
+r  0.528  power     1.00  3224  exp(dZfwd_max)
+r  0.528  power     1.00  3228  exp(dRfwd_max)
+r -0.525  power     1.00  3222  exp(Zfwd_min)
+r  0.524  power     1.00  3223  exp(Zfwd_max)
+r  0.524  power     1.00  3227  exp(Rfwd_max)
+r -0.520  power     1.00  3107  ln(Zmismatch_mean)
+r  0.507  power     1.00  3027  Rfwd_max
+r  0.507  power     1.00  3023  Zfwd_max
+r -0.497  power     1.00  3226  exp(Rfwd_min)
+r  0.478  power     1.00  3135  ln(aRfwd_max)
+r  0.456  power     1.00  3131  ln(aZfwd_max)
+r  0.456  power     1.00  3136  ln(daRfwd_max)
+r -0.456  power     1.00  3011  AP200_pass
+r -0.442  power     1.00  3112  ln(APhalf)
+r  0.434  power     1.00  3132  ln(daZfwd_max)
+r -0.427  power     1.00  3211  exp(AP200_pass)
+r  0.422  power     1.00  3035  aRfwd_max
+r -0.415  power     1.00  3240  exp(cRfwd_min)
+
+
+Single correlation against nathreshold 3000  (act7)
+
+r  1.000  power     1.00  3000  nathreshold
+r  1.000  power     0.01  3200  exp(nathreshold)
+r  0.911  power     1.22  3214  exp(nathresholdvclamp)
+r  0.911  power     1.83  3014  nathresholdvclamp
+r -0.890  power     1.80  3115  ln(input_resistance)
+r  0.833  power     2.52  3100  ln(nathreshold)
+r -0.818  power     1.71  3126  ln(Rfwd_min)
+r  0.786  power     2.49  3114  ln(nathresholdvclamp)
+r -0.770  power     0.03  3012  APhalf
+r -0.769  power     2.50  3122  ln(Zfwd_min)
+r  0.767  power     1.12  3001  st_intensity
+r  0.767  power     0.19  3201  exp(st_intensity)
+r -0.766  power    -1.41  3015  input_resistance
+r -0.748  power    -0.53  3030  aZfwd_min
+r -0.744  power    -0.45  3034  aRfwd_min
+r  0.744  power     1.07  3133  ln(daZfwd_min)
+r -0.740  power    -0.47  3022  Zfwd_min
+r -0.740  power    -1.56  3212  exp(APhalf)
+r  0.708  power     0.25  3021  nathresholdvclamp2
+r -0.708  power    -0.49  3026  Rfwd_min
+r  0.706  power    -0.47  3221  exp(nathresholdvclamp2)
+r -0.699  power     2.57  3130  ln(aZfwd_min)
+r  0.695  power     0.14  3033  daZfwd_min
+r -0.694  power     2.64  3134  ln(aRfwd_min)
+r  0.685  power     0.26  3032  daZfwd_max
+r  0.668  power     0.06  3036  daRfwd_max
+r  0.662  power     0.01  3037  daRfwd_min
+r -0.660  power     3.47  3112  ln(APhalf)
+r  0.655  power     1.11  3125  ln(dZfwd_min)
+r  0.655  power     1.10  3129  ln(dRfwd_min)
+r  0.654  power     2.35  3121  ln(nathresholdvclamp2)
+r -0.647  power    -1.61  3234  exp(aRfwd_min)
+r -0.646  power    -1.49  3230  exp(aZfwd_min)
+r -0.646  power     2.80  3233  exp(daZfwd_min)
+r  0.637  power     0.72  3137  ln(daRfwd_min)
+r  0.625  power    -1.49  3232  exp(daZfwd_max)
+r -0.623  power    -1.47  3215  exp(input_resistance)
+r  0.613  power     4.05  3231  exp(aZfwd_max)
+r  0.600  power     0.47  3031  aZfwd_max
+r  0.600  power     0.26  3024  dZfwd_max
+r  0.600  power     0.26  3028  dRfwd_max
+r  0.598  power     0.15  3035  aRfwd_max
+r  0.593  power     3.13  3136  ln(daRfwd_max)
+r  0.592  power     0.23  3025  dZfwd_min
+r  0.587  power     0.04  3029  dRfwd_min
+r -0.586  power     4.07  3237  exp(daRfwd_min)
+r -0.576  power    -1.51  3222  exp(Zfwd_min)
+r  0.575  power     3.39  3132  ln(daZfwd_max)
+r  0.566  power     3.78  3101  ln(st_intensity)
+r -0.554  power     4.10  3225  exp(dZfwd_min)
+r -0.553  power     4.02  3229  exp(dRfwd_min)
+r  0.547  power     2.36  3135  ln(aRfwd_max)
+r -0.543  power    -1.49  3226  exp(Rfwd_min)
+r  0.539  power     3.99  3227  exp(Rfwd_max)
+r  0.539  power     3.93  3223  exp(Zfwd_max)
+r  0.537  power    -1.50  3224  exp(dZfwd_max)
+r  0.537  power    -1.44  3228  exp(dRfwd_max)
+r  0.537  power     2.23  3027  Rfwd_max
+r  0.537  power     2.20  3023  Zfwd_max
+r  0.529  power     2.35  3131  ln(aZfwd_max)
+r -0.521  power     1.12  3107  ln(Zmismatch_mean)
+r  0.470  power     4.09  3124  ln(dZfwd_max)
+r  0.470  power     4.06  3128  ln(dRfwd_max)
+r -0.465  power     0.56  3011  AP200_pass
+r -0.453  power     4.06  3240  exp(cRfwd_min)
+r -0.452  power     0.05  3017  AP200_steep
+r -0.443  power    -0.53  3016  AP200_half
+r -0.442  power    -0.27  3211  exp(AP200_pass)
+r  0.421  power    -1.59  3235  exp(aRfwd_max)
+r  0.418  power     0.25  3038  cZfwd_min
+r -0.408  power     3.96  3238  exp(cZfwd_min)
+r -0.405  power     3.04  3116  ln(AP200_half)
+
+
+
+
+
+equivalent cable
+=====================
+
+Single correlation against nathresholdvclamp 3014  (act7)
+
+r  1.000  power     1.00  3014  nathresholdvclamp
+r  0.997  power     1.00  3214  exp(nathresholdvclamp)
+r  0.907  power     1.00  3000  nathreshold
+r  0.854  power     1.00  3200  exp(nathreshold)
+r  0.767  power     1.00  3100  ln(nathreshold)
+r  0.766  power     1.00  3114  ln(nathresholdvclamp)
+r -0.665  power     1.00  3030  aZfwd_min
+r -0.656  power     1.00  3015  input_resistance
+r -0.655  power     1.00  3115  ln(input_resistance)
+r -0.653  power     1.00  3026  Rfwd_min
+r -0.646  power     1.00  3126  ln(Rfwd_min)
+r -0.626  power     1.00  3022  Zfwd_min
+r -0.603  power     1.00  3034  aRfwd_min
+r -0.597  power     1.00  3230  exp(aZfwd_min)
+r  0.594  power     1.00  3002  Rmismatch_peak
+r -0.591  power     1.00  3215  exp(input_resistance)
+r -0.590  power     1.00  3226  exp(Rfwd_min)
+r -0.581  power     1.00  3222  exp(Zfwd_min)
+r -0.556  power     1.00  3122  ln(Zfwd_min)
+r  0.547  power     1.00  3202  exp(Rmismatch_peak)
+r -0.546  power     1.00  3234  exp(aRfwd_min)
+r  0.535  power     1.00  3003  Zmismatch_peak
+r  0.509  power     1.00  3203  exp(Zmismatch_peak)
+r -0.504  power     1.00  3130  ln(aZfwd_min)
+r -0.491  power     1.00  3134  ln(aRfwd_min)
+r -0.446  power     1.00  3240  exp(cRfwd_min)
+r  0.434  power     1.00  3005  aZmismatch_peak
+r  0.429  power     1.00  3004  aRmismatch_peak
+r  0.416  power     1.00  3205  exp(aZmismatch_peak)
+r  0.412  power     1.00  3204  exp(aRmismatch_peak)
+
+
+Single correlation against nathresholdvclamp 3014  (act7)
+
+r  1.000  power     1.00  3014  nathresholdvclamp
+r  1.000  power     0.01  3214  exp(nathresholdvclamp)
+r  0.952  power    -0.42  3000  nathreshold
+r  0.905  power    -1.51  3200  exp(nathreshold)
+r  0.887  power     2.39  3114  ln(nathresholdvclamp)
+r  0.882  power     2.36  3100  ln(nathreshold)
+r -0.790  power    -0.47  3015  input_resistance
+r -0.788  power    -0.45  3026  Rfwd_min
+r -0.764  power     2.57  3115  ln(input_resistance)
+r -0.753  power     2.68  3126  ln(Rfwd_min)
+r -0.746  power     0.30  3030  aZfwd_min
+r -0.709  power     0.02  3022  Zfwd_min
+r -0.683  power     0.27  3034  aRfwd_min
+r -0.661  power    -1.42  3230  exp(aZfwd_min)
+r -0.654  power    -1.51  3215  exp(input_resistance)
+r -0.649  power    -1.48  3226  exp(Rfwd_min)
+r  0.644  power     0.36  3002  Rmismatch_peak
+r -0.640  power     2.77  3122  ln(Zfwd_min)
+r -0.624  power    -1.41  3222  exp(Zfwd_min)
+r -0.617  power     3.73  3130  ln(aZfwd_min)
+r -0.601  power    -1.60  3234  exp(aRfwd_min)
+r  0.592  power    -1.47  3202  exp(Rmismatch_peak)
+r -0.589  power     3.54  3134  ln(aRfwd_min)
+r  0.543  power     0.56  3003  Zmismatch_peak
+r  0.533  power    -1.40  3203  exp(Zmismatch_peak)
+r  0.503  power     3.76  3102  ln(Rmismatch_peak)
+r -0.467  power     4.03  3240  exp(cRfwd_min)
+r  0.435  power     0.83  3005  aZmismatch_peak
+r  0.434  power     0.26  3035  aRfwd_max
+r  0.433  power    -1.51  3205  exp(aZmismatch_peak)
+r  0.430  power     0.85  3004  aRmismatch_peak
+r  0.428  power    -1.53  3204  exp(aRmismatch_peak)
+r  0.428  power     3.48  3103  ln(Zmismatch_peak)
+
+
+Single correlation against AP200 3010  (act7)
+
+r  1.000  power     1.00  3010  AP200
+r  0.991  power     1.00  3210  exp(AP200)
+r  0.932  power     1.00  3110  ln(AP200)
+r -0.780  power     1.00  3206  exp(Rmismatch_mean)
+r -0.775  power     1.00  3209  exp(aZmismatch_mean)
+r -0.771  power     1.00  3207  exp(Zmismatch_mean)
+r -0.737  power     1.00  3009  aZmismatch_mean
+r -0.681  power     1.00  3006  Rmismatch_mean
+r -0.677  power     1.00  3007  Zmismatch_mean
+r -0.501  power     1.00  3202  exp(Rmismatch_peak)
+r -0.432  power     1.00  3002  Rmismatch_peak
+
+
+Single correlation against AP200 3010  (act7)
+
+r  1.000  power     1.00  3010  AP200
+r  0.999  power     0.01  3210  exp(AP200)
+r  0.942  power     4.04  3110  ln(AP200)
+r -0.888  power     2.79  3006  Rmismatch_mean
+r -0.886  power     3.95  3007  Zmismatch_mean
+r -0.879  power     4.07  3206  exp(Rmismatch_mean)
+r -0.869  power     4.05  3207  exp(Zmismatch_mean)
+r -0.819  power     3.92  3209  exp(aZmismatch_mean)
+r -0.814  power     4.00  3009  aZmismatch_mean
+r -0.602  power     4.10  3202  exp(Rmismatch_peak)
+r -0.600  power     3.90  3002  Rmismatch_peak
+r -0.430  power     3.98  3138  ln(cZfwd_min)
+
+
+Single correlation against nathreshold 3000  (act7)
+
+r  1.000  power     1.00  3000  nathreshold
+r  0.991  power     1.00  3200  exp(nathreshold)
+r  0.911  power     1.00  3214  exp(nathresholdvclamp)
+r  0.907  power     1.00  3014  nathresholdvclamp
+r -0.865  power     1.00  3115  ln(input_resistance)
+r -0.843  power     1.00  3126  ln(Rfwd_min)
+r -0.786  power     1.00  3122  ln(Zfwd_min)
+r -0.781  power     1.00  3130  ln(aZfwd_min)
+r -0.772  power     1.00  3134  ln(aRfwd_min)
+r  0.707  power     1.00  3100  ln(nathreshold)
+r  0.673  power     1.00  3114  ln(nathresholdvclamp)
+r -0.630  power     1.00  3030  aZfwd_min
+r -0.595  power     1.00  3015  input_resistance
+r -0.592  power     1.00  3034  aRfwd_min
+r -0.591  power     1.00  3026  Rfwd_min
+r -0.579  power     1.00  3022  Zfwd_min
+r -0.555  power     1.00  3230  exp(aZfwd_min)
+r -0.532  power     1.00  3215  exp(input_resistance)
+r -0.530  power     1.00  3222  exp(Zfwd_min)
+r -0.529  power     1.00  3226  exp(Rfwd_min)
+r -0.525  power     1.00  3234  exp(aRfwd_min)
+r -0.415  power     1.00  3240  exp(cRfwd_min)
+r  0.404  power     1.00  3002  Rmismatch_peak
+
+
+Single correlation against nathreshold 3000  (act7)
+
+r  1.000  power     1.00  3000  nathreshold
+r  1.000  power     0.01  3200  exp(nathreshold)
+r  0.911  power     1.22  3214  exp(nathresholdvclamp)
+r  0.911  power     1.83  3014  nathresholdvclamp
+r -0.888  power     1.65  3115  ln(input_resistance)
+r -0.863  power     1.66  3126  ln(Rfwd_min)
+r  0.832  power     2.49  3100  ln(nathreshold)
+r -0.826  power     2.42  3130  ln(aZfwd_min)
+r -0.812  power    -0.53  3030  aZfwd_min
+r -0.809  power     2.26  3134  ln(aRfwd_min)
+r -0.798  power     1.64  3122  ln(Zfwd_min)
+r  0.786  power     2.50  3114  ln(nathresholdvclamp)
+r -0.769  power    -0.47  3034  aRfwd_min
+r -0.764  power    -1.53  3015  input_resistance
+r -0.756  power    -1.41  3026  Rfwd_min
+r -0.733  power    -0.54  3022  Zfwd_min
+r -0.625  power    -1.42  3230  exp(aZfwd_min)
+r -0.591  power    -1.41  3215  exp(input_resistance)
+r -0.588  power    -1.45  3234  exp(aRfwd_min)
+r -0.587  power    -1.45  3226  exp(Rfwd_min)
+r -0.576  power    -1.54  3222  exp(Zfwd_min)
+r  0.465  power    -0.01  3002  Rmismatch_peak
+r -0.453  power     4.10  3240  exp(cRfwd_min)
+r  0.417  power     0.04  3038  cZfwd_min
+r -0.408  power     3.96  3238  exp(cZfwd_min)
+r  0.403  power    -1.53  3202  exp(Rmismatch_peak)
+
+
+
+
+
+double correlations
+=====================
+
+Double correlation against nathresholdvclamp 3014   (act7)
+
+0.92	1006 2216	distance_max ^0.5	exp(ddeq_max) ^0.9	
+0.91	1006 2212	distance_max ^0.5	exp(adeq_max) ^1.2	
+0.91	1006 2214	distance_max ^0.5	exp(deq_relmax) ^1.2	
+0.91	2002 2216	adistance_max ^0.5	exp(ddeq_max) ^1.1	
+0.91	2002 2214	adistance_max ^0.5	exp(deq_relmax) ^1.4	
+0.91	2002 2212	adistance_max ^0.5	exp(adeq_max) ^1.4	
+0.88	1206 2214	exp(distance_max) ^0.8	exp(deq_relmax) ^0.8	
+0.88	1206 2212	exp(distance_max) ^0.8	exp(adeq_max) ^0.8	
+0.88	2200 2002	exp(adarea_max) ^2.0	adistance_max ^0.7	
+0.88	1206 2216	exp(distance_max) ^1.0	exp(ddeq_max) ^0.9	
+0.87	1006 2014	distance_max ^0.8	deq_relmax ^0.9	
+0.87	1006 2012	distance_max ^0.8	adeq_max ^0.9	
+0.87	1202 1206	exp(area_max) ^0.8	exp(distance_max) ^0.3	
+0.87	1002 2217	area_max ^0.6	exp(ddeq_maxdist) ^0.7	
+0.87	2002 2012	adistance_max ^0.5	adeq_max ^0.8	
+0.87	2002 2014	adistance_max ^0.6	deq_relmax ^0.8	
+0.86	1006 1209	distance_max ^0.4	exp(sections_mean) ^1.1	
+0.86	1002 1006	area_max ^0.7	distance_max ^0.2	
+0.86	1000 1006	darea_max ^0.3	distance_max ^0.3	
+0.86	1002 1206	area_max ^0.5	exp(distance_max) ^0.4	
+0.86	1002 1214	area_max ^0.6	exp(d2area_maxdist) ^0.4	
+0.86	1202 1214	exp(area_max) ^1.1	exp(d2area_maxdist) ^0.4	
+0.86	1206 1209	exp(distance_max) ^0.6	exp(sections_mean) ^0.6	
+0.86	1002 1114	area_max ^0.6	ln(d2area_maxdist) ^1.0	
+0.86	1002 2202	area_max ^0.6	exp(adistance_max) ^0.3	
+0.86	1006 1207	distance_max ^0.5	exp(sections_max) ^1.1	
+0.86	2000 2002	adarea_max ^0.8	adistance_max ^0.8	
+0.86	1002 2213	area_max ^0.7	exp(adeq_maxdist) ^-0.6	
+0.85	1202 2217	exp(area_max) ^1.1	exp(ddeq_maxdist) ^0.5	
+0.85	1002 2211	area_max ^0.6	exp(adiam_mean) ^-0.2	
+0.85	1002 1021	area_max ^0.7	diamratio_mean ^0.4	
+0.85	1002 1221	area_max ^0.7	exp(diamratio_mean) ^0.5	
+0.85	1203 1006	exp(branchpoints_num) ^1.2	distance_max ^0.5	
+0.85	2202 2214	exp(adistance_max) ^0.6	exp(deq_relmax) ^0.6	
+0.85	2202 2212	exp(adistance_max) ^0.6	exp(adeq_max) ^0.6	
+0.85	1006 1212	distance_max ^0.5	exp(dAdr_relmax) ^1.1	
+0.85	1002 1210	area_max ^0.8	exp(taper_mean) ^0.3	
+0.85	1002 1216	area_max ^0.4	exp(d2area_maxAr_percent) ^-0.3	
+0.85	1002 1121	area_max ^0.7	ln(diamratio_mean) ^0.9	
+0.85	1200 1002	exp(darea_max) ^-0.2	area_max ^0.7	
+0.85	1002 2206	area_max ^0.8	exp(ataper_mean) ^0.2	
+0.85	1002 2205	area_max ^0.7	exp(asections_mean) ^-0.3	
+0.85	1002 1209	area_max ^0.6	exp(sections_mean) ^-0.3	
+0.85	1002 1217	area_max ^0.6	exp(diam_mean) ^-0.2	
+0.85	1002 1207	area_max ^0.7	exp(sections_max) ^-0.3	
+0.85	1002 1212	area_max ^0.6	exp(dAdr_relmax) ^-0.3	
+0.85	1002 2215	area_max ^0.6	exp(deq_ratio) ^-0.2	
+0.85	1002 1211	area_max ^0.6	exp(dAdr_ratio) ^-0.2	
+0.85	1002 2208	area_max ^0.6	exp(abranchdensityII) ^-0.2	
+0.85	1002 1203	area_max ^0.6	exp(branchpoints_num) ^-0.3	
+0.85	1002 2212	area_max ^0.7	exp(adeq_max) ^-0.3	
+0.85	1002 2214	area_max ^0.7	exp(deq_relmax) ^-0.3	
+0.85	1206 2014	exp(distance_max) ^1.9	deq_relmax ^1.0	
+0.85	1002 1228	area_max ^0.7	exp(rallratio_noend_mean) ^0.7	
+0.85	1002 1205	area_max ^0.8	exp(rallratio_peak) ^0.4	
+0.85	1206 2012	exp(distance_max) ^1.9	adeq_max ^1.0	
+0.84	1002 2218	area_max ^0.7	exp(ddeq_maxAr_ratio) ^0.2	
+0.84	1202 1014	exp(area_max) ^1.6	d2area_maxdist ^0.3	
+0.84	1002 1028	area_max ^0.7	rallratio_noend_mean ^0.3	
+0.84	1201 1002	exp(darea_maxdist) ^-0.2	area_max ^0.6	
+0.84	1002 2209	area_max ^0.8	exp(abranchdensity_noend) ^0.3	
+0.84	1002 1005	area_max ^0.7	rallratio_peak ^0.2	
+0.84	1002 1227	area_max ^0.7	exp(rallratio_noend_peak) ^0.2	
+0.84	1002 1225	area_max ^0.7	exp(diamratio_noend_mean) ^0.4	
+0.84	1002 1127	area_max ^0.8	ln(rallratio_noend_peak) ^0.8	
+0.84	1003 1006	branchpoints_num ^0.5	distance_max ^0.5	
+0.84	1002 1220	area_max ^0.7	exp(diamratio_peak) ^0.2	
+0.84	1002 1215	area_max ^0.6	exp(d2area_maxAr_ratio) ^-0.2	
+0.84	1002 1102	area_max ^0.7	ln(area_max) ^0.5	
+0.84	1002 1002	area_max ^0.2	area_max ^0.4	
+0.84	1206 1207	exp(distance_max) ^0.6	exp(sections_max) ^0.6	
+0.84	1006 1012	distance_max ^0.8	dAdr_relmax ^0.7	
+0.84	1002 1218	area_max ^0.7	exp(branchdensity) ^-0.4	
+0.84	1002 1202	area_max ^0.5	exp(area_max) ^0.5	
+0.84	2002 2205	adistance_max ^0.4	exp(asections_mean) ^1.2	
+0.84	1206 1012	exp(distance_max) ^0.8	dAdr_relmax ^0.2	
+0.84	1006 1213	distance_max ^0.5	exp(d2area_max) ^1.1	
+-0.84	1003 2118	branchpoints_num ^-0.7	ln(ddeq_maxAr_ratio) ^2.0	
+0.83	2200 2202	exp(adarea_max) ^0.8	exp(adistance_max) ^0.7	
+0.83	1003 1206	branchpoints_num ^0.4	exp(distance_max) ^1.0	
+0.83	1202 1102	exp(area_max) ^0.9	ln(area_max) ^4.6	
+0.83	1102 1202	ln(area_max) ^4.9	exp(area_max) ^1.1	
+0.83	1002 1103	area_max ^0.7	ln(branchpoints_num) ^1.8	
+0.83	1202 1221	exp(area_max) ^1.1	exp(diamratio_mean) ^0.3	
+0.83	1002 1120	area_max ^0.9	ln(diamratio_peak) ^1.4	
+0.83	1002 1128	area_max ^0.9	ln(rallratio_noend_mean) ^0.3	
+0.83	1002 2103	area_max ^0.8	ln(asections_max) ^1.2	
+0.83	1206 1212	exp(distance_max) ^0.6	exp(dAdr_relmax) ^0.7	
+0.83	1002 1107	area_max ^0.8	ln(sections_max) ^0.8	
+0.83	2202 2216	exp(adistance_max) ^0.9	exp(ddeq_max) ^0.7	
+0.83	1203 1206	exp(branchpoints_num) ^0.7	exp(distance_max) ^0.7	
+0.83	1202 1114	exp(area_max) ^1.3	ln(d2area_maxdist) ^1.0	
+0.83	1000 2002	darea_max ^0.4	adistance_max ^0.4	
+0.83	1202 1021	exp(area_max) ^1.4	diamratio_mean ^0.4	
+0.83	1200 1206	exp(darea_max) ^0.7	exp(distance_max) ^0.7	
+0.83	1002 1106	area_max ^0.9	ln(distance_max) ^1.5	
+-0.83	1003 1128	branchpoints_num ^-0.8	ln(rallratio_noend_mean) ^0.8	
+0.82	1006 2015	distance_max ^2.0	deq_ratio ^1.3	
+0.82	1002 2102	area_max ^0.9	ln(adistance_max) ^1.3	
+
+
+
+Double correlation against nathresholdvclamp 3014   (act7)
+
+-0.90	1202 2202	exp(area_max) ^-1.0	exp(adistance_max) ^-1.0	
+-0.90	1202 1206	exp(area_max) ^-1.0	exp(distance_max) ^-1.0	
+-0.90	1206 1209	exp(distance_max) ^-1.0	exp(sections_mean) ^-1.0	
+-0.89	1206 2212	exp(distance_max) ^-1.0	exp(adeq_max) ^-1.0	
+-0.89	1206 2214	exp(distance_max) ^-1.0	exp(deq_relmax) ^-1.0	
+-0.89	1206 2216	exp(distance_max) ^-1.0	exp(ddeq_max) ^-1.0	
+-0.89	2200 2202	exp(adarea_max) ^-1.0	exp(adistance_max) ^-1.0	
+-0.89	2202 2212	exp(adistance_max) ^-1.0	exp(adeq_max) ^-1.0	
+-0.89	2202 2214	exp(adistance_max) ^-1.0	exp(deq_relmax) ^-1.0	
+-0.88	1200 1206	exp(darea_max) ^-1.0	exp(distance_max) ^-1.0	
+-0.88	1206 1212	exp(distance_max) ^-1.0	exp(dAdr_relmax) ^-1.0	
+-0.88	2202 2216	exp(adistance_max) ^-1.0	exp(ddeq_max) ^-1.0	
+-0.88	1206 1207	exp(distance_max) ^-1.0	exp(sections_max) ^-1.0	
+-0.87	1203 1206	exp(branchpoints_num) ^-1.0	exp(distance_max) ^-1.0	
+-0.87	1202 2108	exp(area_max) ^-1.0	ln(abranchdensityII) ^1.0	
+-0.87	1200 2202	exp(darea_max) ^-1.0	exp(adistance_max) ^-1.0	
+-0.87	1206 1213	exp(distance_max) ^-1.0	exp(d2area_max) ^-1.0	
+0.86	1006 2014	distance_max ^1.0	deq_relmax ^1.0	
+0.86	1006 2012	distance_max ^1.0	adeq_max ^1.0	
+-0.86	2202 2203	exp(adistance_max) ^-1.0	exp(asections_max) ^-1.0	
+-0.86	2202 2205	exp(adistance_max) ^-1.0	exp(asections_mean) ^-1.0	
+-0.86	1202 2217	exp(area_max) ^-1.0	exp(ddeq_maxdist) ^-1.0	
+0.86	1002 2217	area_max ^1.0	exp(ddeq_maxdist) ^1.0	
+0.85	2000 2002	adarea_max ^1.0	adistance_max ^1.0	
+-0.85	1003 2105	branchpoints_num ^-1.0	ln(asections_mean) ^1.0	
+-0.85	1003 1109	branchpoints_num ^-1.0	ln(sections_mean) ^1.0	
+0.85	1002 1214	area_max ^1.0	exp(d2area_maxdist) ^1.0	
+-0.85	1103 1003	ln(branchpoints_num) ^1.0	branchpoints_num ^-1.0	
+-0.85	1003 1103	branchpoints_num ^-1.0	ln(branchpoints_num) ^1.0	
+0.84	1002 1221	area_max ^1.0	exp(diamratio_mean) ^1.0	
+-0.84	1003 2103	branchpoints_num ^-1.0	ln(asections_max) ^1.0	
+0.84	1002 1209	area_max ^1.0	exp(sections_mean) ^-1.0	
+0.84	1002 1114	area_max ^1.0	ln(d2area_maxdist) ^1.0	
+0.84	1002 1121	area_max ^1.0	ln(diamratio_mean) ^1.0	
+-0.84	1003 1119	branchpoints_num ^-1.0	ln(branchdensityII) ^1.0	
+-0.84	1202 1202	exp(area_max) ^-1.0	exp(area_max) ^-1.0	
+0.84	1002 1228	area_max ^1.0	exp(rallratio_noend_mean) ^1.0	
+0.84	1002 1205	area_max ^1.0	exp(rallratio_peak) ^1.0	
+0.84	1002 1127	area_max ^1.0	ln(rallratio_noend_peak) ^1.0	
+0.84	1002 1021	area_max ^1.0	diamratio_mean ^1.0	
+0.84	1002 1220	area_max ^1.0	exp(diamratio_peak) ^1.0	
+0.84	1002 1225	area_max ^1.0	exp(diamratio_noend_mean) ^1.0	
+0.84	1002 1216	area_max ^1.0	exp(d2area_maxAr_percent) ^-1.0	
+0.84	1002 1020	area_max ^1.0	diamratio_peak ^1.0	
+0.84	1002 1028	area_max ^1.0	rallratio_noend_mean ^1.0	
+0.84	1202 1002	exp(area_max) ^-1.0	area_max ^1.0	
+0.84	1002 1202	area_max ^1.0	exp(area_max) ^-1.0	
+0.84	1002 1204	area_max ^1.0	exp(rallratio_mean) ^1.0	
+0.84	1002 1025	area_max ^1.0	diamratio_noend_mean ^1.0	
+-0.84	1003 1113	branchpoints_num ^-1.0	ln(d2area_max) ^1.0	
+0.83	1002 1124	area_max ^1.0	ln(diamratio_noend_peak) ^1.0	
+0.83	1002 1105	area_max ^1.0	ln(rallratio_peak) ^1.0	
+0.83	1002 1227	area_max ^1.0	exp(rallratio_noend_peak) ^1.0	
+0.83	1102 1002	ln(area_max) ^1.0	area_max ^1.0	
+0.83	1002 1102	area_max ^1.0	ln(area_max) ^1.0	
+-0.83	1003 1116	branchpoints_num ^-1.0	ln(d2area_maxAr_percent) ^1.0	
+0.83	1002 2211	area_max ^1.0	exp(adiam_mean) ^-1.0	
+-0.83	1003 2110	branchpoints_num ^-1.0	ln(abranchdensityII_noend) ^1.0	
+0.83	1002 2209	area_max ^1.0	exp(abranchdensity_noend) ^1.0	
+-0.83	1003 1115	branchpoints_num ^-1.0	ln(d2area_maxAr_ratio) ^1.0	
+-0.83	1003 2118	branchpoints_num ^-1.0	ln(ddeq_maxAr_ratio) ^1.0	
+0.83	1002 1005	area_max ^1.0	rallratio_peak ^1.0	
+0.83	1002 2213	area_max ^1.0	exp(adeq_maxdist) ^-1.0	
+0.83	1002 1206	area_max ^1.0	exp(distance_max) ^1.0	
+0.83	1002 1108	area_max ^1.0	ln(sections_maxdist) ^1.0	
+0.83	1002 1004	area_max ^1.0	rallratio_mean ^1.0	
+0.83	1002 1211	area_max ^1.0	exp(dAdr_ratio) ^-1.0	
+0.83	1002 1224	area_max ^1.0	exp(diamratio_noend_peak) ^1.0	
+0.83	1002 1120	area_max ^1.0	ln(diamratio_peak) ^1.0	
+0.83	1002 1207	area_max ^1.0	exp(sections_max) ^-1.0	
+0.83	1002 1212	area_max ^1.0	exp(dAdr_relmax) ^-1.0	
+0.83	1200 1002	exp(darea_max) ^-1.0	area_max ^1.0	
+0.83	1002 1213	area_max ^1.0	exp(d2area_max) ^-1.0	
+0.83	1002 2205	area_max ^1.0	exp(asections_mean) ^-1.0	
+-0.83	1202 1214	exp(area_max) ^-1.0	exp(d2area_maxdist) ^-1.0	
+0.83	1002 1027	area_max ^1.0	rallratio_noend_peak ^1.0	
+0.83	1002 1128	area_max ^1.0	ln(rallratio_noend_mean) ^1.0	
+0.83	1002 1024	area_max ^1.0	diamratio_noend_peak ^1.0	
+0.83	1100 1002	ln(darea_max) ^1.0	area_max ^1.0	
+0.83	1002 1103	area_max ^1.0	ln(branchpoints_num) ^1.0	
+0.83	1002 2114	area_max ^1.0	ln(deq_relmax) ^1.0	
+0.83	1002 2112	area_max ^1.0	ln(adeq_max) ^1.0	
+0.83	1002 1218	area_max ^1.0	exp(branchdensity) ^-1.0	
+0.83	1002 1112	area_max ^1.0	ln(dAdr_relmax) ^1.0	
+0.83	1000 1006	darea_max ^1.0	distance_max ^1.0	
+0.83	1002 2103	area_max ^1.0	ln(asections_max) ^1.0	
+0.83	1002 2118	area_max ^1.0	ln(ddeq_maxAr_ratio) ^1.0	
+0.82	1002 2218	area_max ^1.0	exp(ddeq_maxAr_ratio) ^1.0	
+0.82	1002 1107	area_max ^1.0	ln(sections_max) ^1.0	
+0.82	1002 1106	area_max ^1.0	ln(distance_max) ^1.0	
+0.82	1002 2203	area_max ^1.0	exp(asections_max) ^-1.0	
+0.82	1006 1012	distance_max ^1.0	dAdr_relmax ^1.0	
+0.82	1002 1104	area_max ^1.0	ln(rallratio_mean) ^1.0	
+0.82	1002 1117	area_max ^1.0	ln(diam_mean) ^1.0	
+0.82	1002 1113	area_max ^1.0	ln(d2area_max) ^1.0	
+0.82	1002 2113	area_max ^1.0	ln(adeq_maxdist) ^1.0	
+0.82	1002 2102	area_max ^1.0	ln(adistance_max) ^1.0	
+0.82	1002 1217	area_max ^1.0	exp(diam_mean) ^-1.0	
+-0.82	1003 1120	branchpoints_num ^-1.0	ln(diamratio_peak) ^1.0	
+0.82	1002 2105	area_max ^1.0	ln(asections_mean) ^1.0	
+0.82	1002 1123	area_max ^1.0	ln(branchdensityII_noend) ^1.0	
+0.82	1202 1102	exp(area_max) ^1.0	ln(area_max) ^1.0	
+0.82	1102 1202	ln(area_max) ^1.0	exp(area_max) ^1.0	
+0.82	1202 1114	exp(area_max) ^1.0	ln(d2area_maxdist) ^1.0	
+-0.82	1003 1128	branchpoints_num ^-1.0	ln(rallratio_noend_mean) ^1.0	
+0.82	1002 2117	area_max ^1.0	ln(ddeq_maxdist) ^1.0	
+0.82	1003 1006	branchpoints_num ^1.0	distance_max ^1.0	
+0.82	1002 2207	area_max ^1.0	exp(abranchdensity) ^-1.0	
+0.82	1002 1210	area_max ^1.0	exp(taper_mean) ^1.0	
+0.82	1002 1126	area_max ^1.0	ln(mean_stem_dendrite_diam) ^1.0	
+0.82	1002 2202	area_max ^1.0	exp(adistance_max) ^1.0	
+0.82	1002 1109	area_max ^1.0	ln(sections_mean) ^1.0	
+-0.82	1202 1203	exp(area_max) ^-1.0	exp(branchpoints_num) ^-1.0	
+0.82	1201 1002	exp(darea_maxdist) ^-1.0	area_max ^1.0	
+0.82	1002 1222	area_max ^1.0	exp(branchdensity_noend) ^1.0	
+0.82	1002 2215	area_max ^1.0	exp(deq_ratio) ^-1.0	
+0.82	1002 2212	area_max ^1.0	exp(adeq_max) ^-1.0	
+0.82	1002 2214	area_max ^1.0	exp(deq_relmax) ^-1.0	
+-0.82	1202 2203	exp(area_max) ^-1.0	exp(asections_max) ^-1.0	
+-0.82	1206 2215	exp(distance_max) ^-1.0	exp(deq_ratio) ^-1.0	
+0.81	1002 1116	area_max ^1.0	ln(d2area_maxAr_percent) ^1.0	
+0.81	1002 1203	area_max ^1.0	exp(branchpoints_num) ^-1.0	
+0.81	1101 1002	ln(darea_maxdist) ^1.0	area_max ^1.0	
+0.81	1002 2208	area_max ^1.0	exp(abranchdensityII) ^-1.0	
+-0.81	1006 2216	distance_max ^-1.0	exp(ddeq_max) ^-1.0	
+0.81	1002 1223	area_max ^1.0	exp(branchdensityII_noend) ^-1.0	
+0.81	1002 1115	area_max ^1.0	ln(d2area_maxAr_ratio) ^1.0	
+0.81	1002 1226	area_max ^1.0	exp(mean_stem_dendrite_diam) ^-1.0	
+-0.81	1202 1207	exp(area_max) ^-1.0	exp(sections_max) ^-1.0	
+-0.81	1206 1219	exp(distance_max) ^-1.0	exp(branchdensityII) ^-1.0	
+0.81	1002 2110	area_max ^1.0	ln(abranchdensityII_noend) ^1.0	
+0.81	1002 1125	area_max ^1.0	ln(diamratio_noend_mean) ^1.0	
+0.81	1002 1208	area_max ^1.0	exp(sections_maxdist) ^1.0	
+0.81	1002 2210	area_max ^1.0	exp(abranchdensityII_noend) ^-1.0	
+-0.81	2108 2212	ln(abranchdensityII) ^1.0	exp(adeq_max) ^-1.0	
+-0.81	2108 2214	ln(abranchdensityII) ^1.0	exp(deq_relmax) ^-1.0	
+-0.81	1003 1104	branchpoints_num ^-1.0	ln(rallratio_mean) ^1.0	
+0.81	1002 1219	area_max ^1.0	exp(branchdensityII) ^-1.0	
+-0.81	1206 1223	exp(distance_max) ^-1.0	exp(branchdensityII_noend) ^-1.0	
+0.80	2002 2014	adistance_max ^1.0	deq_relmax ^1.0	
+0.80	1002 1122	area_max ^1.0	ln(branchdensity_noend) ^1.0	
+0.80	2002 2012	adistance_max ^1.0	adeq_max ^1.0	
+0.80	1002 1119	area_max ^1.0	ln(branchdensityII) ^1.0	
+-0.80	1200 1202	exp(darea_max) ^-1.0	exp(area_max) ^-1.0	
+-0.80	1202 1212	exp(area_max) ^-1.0	exp(dAdr_relmax) ^-1.0	
+0.80	1100 1202	ln(darea_max) ^1.0	exp(area_max) ^1.0	
+0.80	1002 1215	area_max ^1.0	exp(d2area_maxAr_ratio) ^-1.0	
+0.80	1002 2206	area_max ^1.0	exp(ataper_mean) ^1.0	
+0.80	1202 1204	exp(area_max) ^1.0	exp(rallratio_mean) ^-1.0	
+-0.80	2203 2108	exp(asections_max) ^-1.0	ln(abranchdensityII) ^1.0	
+-0.80	2103 2003	ln(asections_max) ^1.0	asections_max ^-1.0	
+-0.80	2003 2103	asections_max ^-1.0	ln(asections_max) ^1.0	
+0.80	1202 2114	exp(area_max) ^1.0	ln(deq_relmax) ^1.0	
+-0.80	1202 2118	exp(area_max) ^-1.0	ln(ddeq_maxAr_ratio) ^1.0	
+0.80	1202 2112	exp(area_max) ^1.0	ln(adeq_max) ^1.0	
+-0.80	2003 2105	asections_max ^-1.0	ln(asections_mean) ^1.0	
+-0.80	1202 2214	exp(area_max) ^-1.0	exp(deq_relmax) ^-1.0	
+-0.80	1202 2212	exp(area_max) ^-1.0	exp(adeq_max) ^-1.0	
+0.80	1002 1111	area_max ^1.0	ln(dAdr_ratio) ^1.0	
+-0.80	1206 1210	exp(distance_max) ^-1.0	exp(taper_mean) ^1.0	
+0.79	1202 1112	exp(area_max) ^1.0	ln(dAdr_relmax) ^1.0	
+0.79	1002 2115	area_max ^1.0	ln(deq_ratio) ^1.0	
+-0.79	1207 2108	exp(sections_max) ^-1.0	ln(abranchdensityII) ^1.0	
+-0.79	1202 2205	exp(area_max) ^-1.0	exp(asections_mean) ^-1.0	
+-0.79	1202 1209	exp(area_max) ^-1.0	exp(sections_mean) ^-1.0	
+-0.79	1202 1115	exp(area_max) ^-1.0	ln(d2area_maxAr_ratio) ^1.0	
+-0.79	1202 1116	exp(area_max) ^-1.0	ln(d2area_maxAr_percent) ^1.0	
+0.79	1002 2111	area_max ^1.0	ln(adiam_mean) ^1.0	
+0.79	2000 2008	adarea_max ^1.0	abranchdensityII ^-1.0	
+-0.79	2002 2015	adistance_max ^-1.0	deq_ratio ^-1.0	
+-0.79	2202 2215	exp(adistance_max) ^-1.0	exp(deq_ratio) ^-1.0	
+0.79	1002 2013	area_max ^1.0	adeq_maxdist ^-1.0	
+0.79	1202 1108	exp(area_max) ^1.0	ln(sections_maxdist) ^1.0	
+0.79	1202 1225	exp(area_max) ^1.0	exp(diamratio_noend_mean) ^-1.0	
+-0.79	1101 1003	ln(darea_maxdist) ^1.0	branchpoints_num ^-1.0	
+0.79	1202 1121	exp(area_max) ^1.0	ln(diamratio_mean) ^1.0	
+-0.79	1202 1211	exp(area_max) ^-1.0	exp(dAdr_ratio) ^-1.0	
+-0.78	1202 1213	exp(area_max) ^-1.0	exp(d2area_max) ^-1.0	
+-0.78	1206 2206	exp(distance_max) ^-1.0	exp(ataper_mean) ^1.0	
+0.78	1000 2002	darea_max ^1.0	adistance_max ^1.0	
+-0.78	1007 1109	sections_max ^-1.0	ln(sections_mean) ^1.0	
+0.78	1202 1228	exp(area_max) ^1.0	exp(rallratio_noend_mean) ^-1.0	
+0.78	1202 1221	exp(area_max) ^1.0	exp(diamratio_mean) ^1.0	
+0.78	1002 1118	area_max ^1.0	ln(branchdensity) ^1.0	
+-0.78	1003 1125	branchpoints_num ^-1.0	ln(diamratio_noend_mean) ^1.0	
+0.78	1002 2216	area_max ^1.0	exp(ddeq_max) ^-1.0	
+-0.78	1003 1014	branchpoints_num ^-1.0	d2area_maxdist ^-1.0	
+-0.78	1206 2208	exp(distance_max) ^-1.0	exp(abranchdensityII) ^-1.0	
+-0.78	1202 1224	exp(area_max) ^-1.0	exp(diamratio_noend_peak) ^1.0	
+-0.78	1202 1220	exp(area_max) ^-1.0	exp(diamratio_peak) ^1.0	
+-0.78	2200 2108	exp(adarea_max) ^-1.0	ln(abranchdensityII) ^1.0	
+-0.78	1202 1113	exp(area_max) ^-1.0	ln(d2area_max) ^1.0	
+0.78	1202 1127	exp(area_max) ^1.0	ln(rallratio_noend_peak) ^1.0	
+0.78	1002 1002	area_max ^1.0	area_max ^1.0	
+0.78	1206 2014	exp(distance_max) ^1.0	deq_relmax ^1.0	
+-0.78	1203 2108	exp(branchpoints_num) ^-1.0	ln(abranchdensityII) ^1.0	
+-0.78	1002 2011	area_max ^-1.0	adiam_mean ^1.0	
+0.77	1206 2012	exp(distance_max) ^1.0	adeq_max ^1.0	
+-0.77	2003 2118	asections_max ^-1.0	ln(ddeq_maxAr_ratio) ^1.0	
+0.77	1202 1124	exp(area_max) ^1.0	ln(diamratio_noend_peak) ^1.0	
+-0.77	2011 2014	adiam_mean ^1.0	deq_relmax ^-1.0	
+0.77	1202 1117	exp(area_max) ^1.0	ln(diam_mean) ^1.0	
+-0.77	2002 2216	adistance_max ^-1.0	exp(ddeq_max) ^-1.0	
+-0.77	1202 1118	exp(area_max) ^-1.0	ln(branchdensity) ^1.0	
+-0.77	1000 2001	darea_max ^-1.0	adarea_maxdist ^1.0	
+0.77	1202 2218	exp(area_max) ^1.0	exp(ddeq_maxAr_ratio) ^1.0	
+-0.77	1202 2216	exp(area_max) ^-1.0	exp(ddeq_max) ^-1.0	
+-0.77	1003 1107	branchpoints_num ^-1.0	ln(sections_max) ^1.0	
+-0.77	1006 2212	distance_max ^-1.0	exp(adeq_max) ^-1.0	
+-0.77	1006 2214	distance_max ^-1.0	exp(deq_relmax) ^-1.0	
+-0.77	1006 2015	distance_max ^-1.0	deq_ratio ^-1.0	
+0.77	1202 1218	exp(area_max) ^1.0	exp(branchdensity) ^-1.0	
+0.77	1002 1016	area_max ^1.0	d2area_maxAr_percent ^1.0	
+-0.77	1006 1007	distance_max ^-1.0	sections_max ^-1.0	
+-0.77	1202 1219	exp(area_max) ^-1.0	exp(branchdensityII) ^-1.0	
+-0.77	1202 1120	exp(area_max) ^-1.0	ln(diamratio_peak) ^1.0	
+-0.77	1007 1115	sections_max ^-1.0	ln(d2area_maxAr_ratio) ^1.0	
+-0.77	1007 1216	sections_max ^-1.0	exp(d2area_maxAr_percent) ^1.0	
+-0.77	1103 2003	ln(branchpoints_num) ^1.0	asections_max ^-1.0	
+-0.77	1007 1113	sections_max ^-1.0	ln(d2area_max) ^1.0	
+-0.77	1003 2217	branchpoints_num ^-1.0	exp(ddeq_maxdist) ^-1.0	
+0.77	1002 1008	area_max ^1.0	sections_maxdist ^-1.0	
+0.76	1202 1105	exp(area_max) ^1.0	ln(rallratio_peak) ^1.0	
+-0.76	1202 2111	exp(area_max) ^-1.0	ln(adiam_mean) ^1.0	
+-0.76	1101 2003	ln(darea_maxdist) ^1.0	asections_max ^-1.0	
+-0.76	1202 2110	exp(area_max) ^-1.0	ln(abranchdensityII_noend) ^1.0	
+-0.76	2011 2012	adiam_mean ^1.0	adeq_max ^-1.0	
+-0.76	1003 2017	branchpoints_num ^-1.0	ddeq_maxdist ^-1.0	
+-0.76	1007 1116	sections_max ^-1.0	ln(d2area_maxAr_percent) ^1.0	
+
+
+
+Double correlation against AP200 3010   (act7)
+
+-0.95	1106 1116	ln(distance_max) ^-1.1	ln(d2area_maxAr_percent) ^-1.0	
+-0.95	1106 2110	ln(distance_max) ^-1.2	ln(abranchdensityII_noend) ^-1.0	
+-0.94	1106 2118	ln(distance_max) ^-1.1	ln(ddeq_maxAr_ratio) ^-0.9	
+-0.94	2102 2118	ln(adistance_max) ^-1.1	ln(ddeq_maxAr_ratio) ^-1.0	
+-0.94	1106 1109	ln(distance_max) ^-1.2	ln(sections_mean) ^-1.0	
+-0.94	1106 1107	ln(distance_max) ^-1.1	ln(sections_max) ^-0.9	
+-0.93	1013 1022	d2area_max ^1.8	branchdensity_noend ^-0.6	
+-0.93	1007 1022	sections_max ^2.1	branchdensity_noend ^-0.6	
+-0.93	1009 1022	sections_mean ^1.0	branchdensity_noend ^-0.7	
+-0.93	1003 1022	branchpoints_num ^1.2	branchdensity_noend ^-0.7	
+-0.93	2102 2116	ln(adistance_max) ^-1.0	ln(ddeq_max) ^-1.1	
+-0.93	1106 1118	ln(distance_max) ^-1.1	ln(branchdensity) ^-1.0	
+-0.93	2102 2110	ln(adistance_max) ^-1.2	ln(abranchdensityII_noend) ^-0.9	
+-0.93	1106 2017	ln(distance_max) ^-0.6	ddeq_maxdist ^1.3	
+-0.93	2102 2017	ln(adistance_max) ^-0.6	ddeq_maxdist ^1.3	
+-0.93	1207 1022	exp(sections_max) ^1.6	branchdensity_noend ^-0.6	
+-0.93	2008 2109	abranchdensityII ^4.2	ln(abranchdensity_noend) ^-0.9	
+-0.93	1106 1120	ln(distance_max) ^-1.9	ln(diamratio_peak) ^-1.5	
+-0.93	1111 1022	ln(dAdr_ratio) ^2.8	branchdensity_noend ^-0.5	
+-0.93	1211 1022	exp(dAdr_ratio) ^1.4	branchdensity_noend ^-0.7	
+-0.93	1209 1022	exp(sections_mean) ^0.8	branchdensity_noend ^-0.5	
+-0.93	1200 1022	exp(darea_max) ^0.7	branchdensity_noend ^-0.5	
+-0.93	1120 1022	ln(diamratio_peak) ^-0.6	branchdensity_noend ^-0.7	
+-0.93	1203 1022	exp(branchpoints_num) ^0.7	branchdensity_noend ^-0.7	
+-0.93	2102 2103	ln(adistance_max) ^-1.3	ln(asections_max) ^-1.0	
+-0.93	1022 1124	branchdensity_noend ^-0.7	ln(diamratio_noend_peak) ^2.0	
+-0.93	1212 1022	exp(dAdr_relmax) ^0.4	branchdensity_noend ^-0.7	
+-0.93	1213 1022	exp(d2area_max) ^0.4	branchdensity_noend ^-0.7	
+-0.93	1022 1024	branchdensity_noend ^-0.6	diamratio_noend_peak ^2.0	
+-0.93	1022 1223	branchdensity_noend ^-0.3	exp(branchdensityII_noend) ^3.3	
+-0.93	1217 1022	exp(diam_mean) ^0.3	branchdensity_noend ^-0.6	
+-0.93	1022 1224	branchdensity_noend ^-0.7	exp(diamratio_noend_peak) ^2.1	
+-0.93	2102 2105	ln(adistance_max) ^-1.4	ln(asections_mean) ^-0.9	
+-0.93	1022 1022	branchdensity_noend ^-1.1	branchdensity_noend ^0.5	
+-0.93	1216 1022	exp(d2area_maxAr_percent) ^2.6	branchdensity_noend ^-0.7	
+-0.93	1022 1127	branchdensity_noend ^-0.7	ln(rallratio_noend_peak) ^2.0	
+-0.93	1106 1016	ln(distance_max) ^-0.7	d2area_maxAr_percent ^-1.0	
+-0.93	1019 1022	branchdensityII ^2.8	branchdensity_noend ^-0.8	
+-0.93	1106 1011	ln(distance_max) ^-0.4	dAdr_ratio ^0.6	
+-0.93	1022 1123	branchdensity_noend ^-0.6	ln(branchdensityII_noend) ^3.0	
+-0.93	1219 1022	exp(branchdensityII) ^4.1	branchdensity_noend ^-1.0	
+-0.93	1215 1022	exp(d2area_maxAr_ratio) ^2.0	branchdensity_noend ^-0.7	
+-0.93	1106 2116	ln(distance_max) ^-1.0	ln(ddeq_max) ^-1.0	
+-0.93	1022 1225	branchdensity_noend ^-0.7	exp(diamratio_noend_mean) ^3.1	
+-0.93	1022 1125	branchdensity_noend ^-0.7	ln(diamratio_noend_mean) ^2.9	
+-0.93	1022 1228	branchdensity_noend ^-0.9	exp(rallratio_noend_mean) ^3.0	
+-0.93	1106 2018	ln(distance_max) ^-1.0	ddeq_maxAr_ratio ^-1.0	
+-0.93	1022 1026	branchdensity_noend ^-1.0	mean_stem_dendrite_diam ^0.5	
+-0.93	1022 1126	branchdensity_noend ^-1.0	ln(mean_stem_dendrite_diam) ^3.1	
+-0.93	1022 1226	branchdensity_noend ^-1.0	exp(mean_stem_dendrite_diam) ^3.0	
+-0.93	1022 1227	branchdensity_noend ^-0.9	exp(rallratio_noend_peak) ^1.9	
+-0.93	1022 1025	branchdensity_noend ^-1.1	diamratio_noend_mean ^3.0	
+-0.93	1022 1027	branchdensity_noend ^-1.0	rallratio_noend_peak ^1.5	
+-0.93	1106 1215	ln(distance_max) ^-0.5	exp(d2area_maxAr_ratio) ^-1.0	
+-0.93	2102 2018	ln(adistance_max) ^-0.9	ddeq_maxAr_ratio ^-0.5	
+-0.93	1106 1216	ln(distance_max) ^-0.5	exp(d2area_maxAr_percent) ^-0.4	
+-0.93	1106 1217	ln(distance_max) ^-0.5	exp(diam_mean) ^-1.0	
+-0.93	2102 2013	ln(adistance_max) ^-0.5	adeq_maxdist ^-1.1	
+-0.93	2102 2213	ln(adistance_max) ^-0.5	exp(adeq_maxdist) ^-1.0	
+-0.93	2102 2218	ln(adistance_max) ^-0.4	exp(ddeq_maxAr_ratio) ^-1.0	
+-0.93	2102 2009	ln(adistance_max) ^-0.5	abranchdensity_noend ^-0.7	
+-0.93	2102 2209	ln(adistance_max) ^-0.4	exp(abranchdensity_noend) ^-0.9	
+-0.93	2102 2207	ln(adistance_max) ^-0.5	exp(abranchdensity) ^-1.0	
+-0.93	2102 2007	ln(adistance_max) ^-0.8	abranchdensity ^-1.0	
+-0.93	2102 2206	ln(adistance_max) ^-0.7	exp(ataper_mean) ^-0.7	
+-0.93	2102 2002	ln(adistance_max) ^-1.6	adistance_max ^-1.0	
+-0.93	2102 2217	ln(adistance_max) ^-1.6	exp(ddeq_maxdist) ^-1.0	
+-0.93	1011 1122	dAdr_ratio ^-1.0	ln(branchdensity_noend) ^-2.2	
+-0.93	2102 2117	ln(adistance_max) ^-1.7	ln(ddeq_maxdist) ^-1.1	
+-0.93	2102 2202	ln(adistance_max) ^-0.9	exp(adistance_max) ^-1.0	
+-0.92	1106 1206	ln(distance_max) ^-0.6	exp(distance_max) ^-0.8	
+0.91	1204 1106	exp(rallratio_mean) ^0.2	ln(distance_max) ^0.5	
+0.91	2102 2008	ln(adistance_max) ^-0.6	abranchdensityII ^0.2	
+-0.90	1215 1023	exp(d2area_maxAr_ratio) ^3.5	branchdensityII_noend ^4.1	
+-0.90	1011 1118	dAdr_ratio ^3.7	ln(branchdensity) ^0.5	
+-0.90	1215 2015	exp(d2area_maxAr_ratio) ^4.3	deq_ratio ^3.4	
+-0.90	2109 2010	ln(abranchdensity_noend) ^-1.2	abranchdensityII_noend ^3.2	
+0.90	1106 2215	ln(distance_max) ^-1.3	exp(deq_ratio) ^-0.4	
+-0.89	1015 1023	d2area_maxAr_ratio ^2.4	branchdensityII_noend ^3.7	
+-0.89	1011 1015	dAdr_ratio ^2.3	d2area_maxAr_ratio ^3.5	
+-0.89	2107 2010	ln(abranchdensity) ^-1.1	abranchdensityII_noend ^3.4	
+0.89	1106 1207	ln(distance_max) ^-1.4	exp(sections_max) ^-0.5	
+-0.89	1202 1019	exp(area_max) ^-4.7	branchdensityII ^4.0	
+0.89	1106 1219	ln(distance_max) ^-0.5	exp(branchdensityII) ^-0.2	
+-0.89	1015 2015	d2area_maxAr_ratio ^2.6	deq_ratio ^3.4	
+-0.89	1002 2015	area_max ^-2.3	deq_ratio ^4.1	
+-0.88	1215 1019	exp(d2area_maxAr_ratio) ^4.0	branchdensityII ^4.2	
+-0.88	1202 1023	exp(area_max) ^-3.4	branchdensityII_noend ^4.3	
+-0.88	1202 2008	exp(area_max) ^-4.7	abranchdensityII ^3.9	
+0.88	2102 2212	ln(adistance_max) ^-1.4	exp(adeq_max) ^-0.5	
+-0.88	1009 1019	sections_mean ^-1.4	branchdensityII ^4.2	
+-0.88	1015 1223	d2area_maxAr_ratio ^3.1	exp(branchdensityII_noend) ^3.8	
+-0.88	1202 1219	exp(area_max) ^-2.8	exp(branchdensityII) ^3.9	
+0.88	2102 2215	ln(adistance_max) ^-1.8	exp(deq_ratio) ^-0.9	
+-0.88	1209 2215	exp(sections_mean) ^-2.7	exp(deq_ratio) ^3.7	
+-0.88	1015 2215	d2area_maxAr_ratio ^2.5	exp(deq_ratio) ^4.2	
+-0.88	1209 1019	exp(sections_mean) ^-4.9	branchdensityII ^4.2	
+-0.88	1209 1219	exp(sections_mean) ^-2.3	exp(branchdensityII) ^3.6	
+-0.88	1013 1015	d2area_max ^4.6	d2area_maxAr_ratio ^3.4	
+-0.88	1203 1219	exp(branchpoints_num) ^-2.5	exp(branchdensityII) ^3.3	
+-0.87	2107 2208	ln(abranchdensity) ^-0.2	exp(abranchdensityII) ^4.5	
+-0.87	1215 1223	exp(d2area_maxAr_ratio) ^4.3	exp(branchdensityII_noend) ^3.6	
+0.87	1106 2216	ln(distance_max) ^-1.6	exp(ddeq_max) ^-0.6	
+-0.87	1015 1019	d2area_maxAr_ratio ^2.8	branchdensityII ^4.1	
+-0.87	1203 2015	exp(branchpoints_num) ^-4.9	deq_ratio ^4.0	
+-0.87	1202 2015	exp(area_max) ^-4.8	deq_ratio ^4.1	
+0.87	1106 2208	ln(distance_max) ^0.8	exp(abranchdensityII) ^0.3	
+-0.87	1006 1023	distance_max ^-3.2	branchdensityII_noend ^4.1	
+-0.87	1209 1023	exp(sections_mean) ^-2.8	branchdensityII_noend ^4.0	
+
+
+
+Double correlation against AP200 3010   (act7)
+
+-0.95	2102 2016	ln(adistance_max) ^-1.0	ddeq_max ^-1.0	
+-0.94	1106 2016	ln(distance_max) ^-1.0	ddeq_max ^-1.0	
+-0.94	1106 1013	ln(distance_max) ^-1.0	d2area_max ^-1.0	
+-0.94	1013 1122	d2area_max ^-1.0	ln(branchdensity_noend) ^-1.0	
+-0.94	1106 2116	ln(distance_max) ^-1.0	ln(ddeq_max) ^-1.0	
+-0.94	2102 2116	ln(adistance_max) ^-1.0	ln(ddeq_max) ^-1.0	
+-0.93	1011 1022	dAdr_ratio ^1.0	branchdensity_noend ^-1.0	
+-0.93	1018 1022	branchdensity ^1.0	branchdensity_noend ^-1.0	
+-0.93	1009 1022	sections_mean ^1.0	branchdensity_noend ^-1.0	
+-0.93	1106 2018	ln(distance_max) ^-1.0	ddeq_maxAr_ratio ^-1.0	
+-0.93	2102 2018	ln(adistance_max) ^-1.0	ddeq_maxAr_ratio ^-1.0	
+-0.93	1003 1022	branchpoints_num ^1.0	branchdensity_noend ^-1.0	
+-0.93	1000 1022	darea_max ^1.0	branchdensity_noend ^-1.0	
+-0.93	1012 1022	dAdr_relmax ^1.0	branchdensity_noend ^-1.0	
+-0.93	1002 1022	area_max ^1.0	branchdensity_noend ^-1.0	
+-0.93	1211 1022	exp(dAdr_ratio) ^1.0	branchdensity_noend ^-1.0	
+-0.93	1106 1015	ln(distance_max) ^-1.0	d2area_maxAr_ratio ^-1.0	
+-0.93	1013 1022	d2area_max ^1.0	branchdensity_noend ^-1.0	
+-0.93	1209 1022	exp(sections_mean) ^1.0	branchdensity_noend ^-1.0	
+-0.93	1203 1022	exp(branchpoints_num) ^1.0	branchdensity_noend ^-1.0	
+-0.93	1200 1022	exp(darea_max) ^1.0	branchdensity_noend ^-1.0	
+-0.93	1212 1022	exp(dAdr_relmax) ^1.0	branchdensity_noend ^-1.0	
+-0.93	1215 1022	exp(d2area_maxAr_ratio) ^-1.0	branchdensity_noend ^-1.0	
+-0.93	1005 1022	rallratio_peak ^-1.0	branchdensity_noend ^-1.0	
+-0.93	1022 1027	branchdensity_noend ^-1.0	rallratio_noend_peak ^-1.0	
+-0.93	1213 1022	exp(d2area_max) ^1.0	branchdensity_noend ^-1.0	
+-0.93	1202 1022	exp(area_max) ^1.0	branchdensity_noend ^-1.0	
+-0.93	1007 1022	sections_max ^1.0	branchdensity_noend ^-1.0	
+-0.93	1015 1122	d2area_maxAr_ratio ^-1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1205 1022	exp(rallratio_peak) ^-1.0	branchdensity_noend ^-1.0	
+-0.93	1207 1022	exp(sections_max) ^1.0	branchdensity_noend ^-1.0	
+-0.93	1022 1227	branchdensity_noend ^-1.0	exp(rallratio_noend_peak) ^-1.0	
+-0.93	1022 1026	branchdensity_noend ^-1.0	mean_stem_dendrite_diam ^-1.0	
+-0.93	1001 1022	darea_maxdist ^-1.0	branchdensity_noend ^-1.0	
+-0.93	1022 1028	branchdensity_noend ^-1.0	rallratio_noend_mean ^-1.0	
+-0.93	1008 1022	sections_maxdist ^1.0	branchdensity_noend ^-1.0	
+-0.93	1114 1022	ln(d2area_maxdist) ^1.0	branchdensity_noend ^-1.0	
+-0.93	1004 1022	rallratio_mean ^-1.0	branchdensity_noend ^-1.0	
+-0.93	1022 1025	branchdensity_noend ^-1.0	diamratio_noend_mean ^-1.0	
+-0.93	1010 1022	taper_mean ^1.0	branchdensity_noend ^-1.0	
+-0.93	1110 1022	ln(taper_mean) ^1.0	branchdensity_noend ^-1.0	
+-0.93	1017 1022	diam_mean ^1.0	branchdensity_noend ^-1.0	
+-0.93	1020 1022	diamratio_peak ^-1.0	branchdensity_noend ^-1.0	
+-0.93	1111 1022	ln(dAdr_ratio) ^1.0	branchdensity_noend ^-1.0	
+-0.93	1022 1226	branchdensity_noend ^-1.0	exp(mean_stem_dendrite_diam) ^-1.0	
+-0.93	1220 1022	exp(diamratio_peak) ^-1.0	branchdensity_noend ^-1.0	
+-0.93	1022 1225	branchdensity_noend ^-1.0	exp(diamratio_noend_mean) ^-1.0	
+-0.93	1022 1024	branchdensity_noend ^-1.0	diamratio_noend_peak ^-1.0	
+-0.93	1022 1224	branchdensity_noend ^-1.0	exp(diamratio_noend_peak) ^-1.0	
+-0.93	1022 1228	branchdensity_noend ^-1.0	exp(rallratio_noend_mean) ^-1.0	
+-0.93	1021 1022	diamratio_mean ^-1.0	branchdensity_noend ^-1.0	
+-0.93	1204 1022	exp(rallratio_mean) ^-1.0	branchdensity_noend ^-1.0	
+-0.93	1217 1022	exp(diam_mean) ^1.0	branchdensity_noend ^-1.0	
+-0.93	1221 1022	exp(diamratio_mean) ^-1.0	branchdensity_noend ^-1.0	
+-0.93	1208 1022	exp(sections_maxdist) ^1.0	branchdensity_noend ^-1.0	
+-0.93	1210 1022	exp(taper_mean) ^-1.0	branchdensity_noend ^-1.0	
+-0.93	1117 1022	ln(diam_mean) ^1.0	branchdensity_noend ^-1.0	
+-0.93	1100 1022	ln(darea_max) ^1.0	branchdensity_noend ^-1.0	
+-0.93	1102 1022	ln(area_max) ^1.0	branchdensity_noend ^-1.0	
+-0.93	1019 1022	branchdensityII ^1.0	branchdensity_noend ^-1.0	
+-0.93	1112 1022	ln(dAdr_relmax) ^1.0	branchdensity_noend ^-1.0	
+-0.93	1216 1022	exp(d2area_maxAr_percent) ^-1.0	branchdensity_noend ^-1.0	
+-0.93	1014 1022	d2area_maxdist ^1.0	branchdensity_noend ^-1.0	
+-0.93	1103 1022	ln(branchpoints_num) ^1.0	branchdensity_noend ^-1.0	
+-0.93	1201 1022	exp(darea_maxdist) ^-1.0	branchdensity_noend ^-1.0	
+-0.93	1107 1022	ln(sections_max) ^1.0	branchdensity_noend ^-1.0	
+-0.93	1109 1022	ln(sections_mean) ^1.0	branchdensity_noend ^-1.0	
+-0.93	1022 1023	branchdensity_noend ^-1.0	branchdensityII_noend ^1.0	
+-0.93	1119 1022	ln(branchdensityII) ^1.0	branchdensity_noend ^-1.0	
+-0.93	1113 1022	ln(d2area_max) ^1.0	branchdensity_noend ^-1.0	
+-0.93	1108 1022	ln(sections_maxdist) ^1.0	branchdensity_noend ^-1.0	
+-0.93	1206 1022	exp(distance_max) ^1.0	branchdensity_noend ^-1.0	
+-0.93	1121 1022	ln(diamratio_mean) ^1.0	branchdensity_noend ^-1.0	
+-0.93	1218 1022	exp(branchdensity) ^1.0	branchdensity_noend ^-1.0	
+-0.93	1022 1124	branchdensity_noend ^-1.0	ln(diamratio_noend_peak) ^1.0	
+-0.93	1222 1022	exp(branchdensity_noend) ^-1.0	branchdensity_noend ^-1.0	
+-0.93	1022 1222	branchdensity_noend ^-1.0	exp(branchdensity_noend) ^-1.0	
+-0.93	1022 1123	branchdensity_noend ^-1.0	ln(branchdensityII_noend) ^1.0	
+-0.93	1214 1022	exp(d2area_maxdist) ^1.0	branchdensity_noend ^-1.0	
+-0.93	1116 1022	ln(d2area_maxAr_percent) ^1.0	branchdensity_noend ^-1.0	
+-0.93	1115 1022	ln(d2area_maxAr_ratio) ^1.0	branchdensity_noend ^-1.0	
+-0.93	1219 1022	exp(branchdensityII) ^1.0	branchdensity_noend ^-1.0	
+-0.93	1022 1223	branchdensity_noend ^-1.0	exp(branchdensityII_noend) ^1.0	
+-0.93	1101 1022	ln(darea_maxdist) ^1.0	branchdensity_noend ^-1.0	
+-0.93	1120 1022	ln(diamratio_peak) ^1.0	branchdensity_noend ^-1.0	
+-0.93	1006 1022	distance_max ^1.0	branchdensity_noend ^-1.0	
+-0.93	1016 1022	d2area_maxAr_percent ^1.0	branchdensity_noend ^-1.0	
+-0.93	1022 1126	branchdensity_noend ^-1.0	ln(mean_stem_dendrite_diam) ^1.0	
+-0.93	1104 1022	ln(rallratio_mean) ^1.0	branchdensity_noend ^-1.0	
+-0.93	1022 1127	branchdensity_noend ^-1.0	ln(rallratio_noend_peak) ^1.0	
+-0.93	1022 1128	branchdensity_noend ^-1.0	ln(rallratio_noend_mean) ^1.0	
+-0.93	1022 1125	branchdensity_noend ^-1.0	ln(diamratio_noend_mean) ^1.0	
+-0.93	1105 1022	ln(rallratio_peak) ^1.0	branchdensity_noend ^-1.0	
+-0.93	1003 1106	branchpoints_num ^-1.0	ln(distance_max) ^-1.0	
+-0.93	1003 1122	branchpoints_num ^-1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1106 1012	ln(distance_max) ^-1.0	dAdr_relmax ^-1.0	
+-0.93	2000 2102	adarea_max ^-1.0	ln(adistance_max) ^-1.0	
+-0.93	1012 1122	dAdr_relmax ^-1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1015 1022	d2area_maxAr_ratio ^1.0	branchdensity_noend ^-1.0	
+-0.93	1000 1106	darea_max ^-1.0	ln(distance_max) ^-1.0	
+-0.93	1000 2102	darea_max ^-1.0	ln(adistance_max) ^-1.0	
+-0.93	1000 1122	darea_max ^-1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1106 1023	ln(distance_max) ^-1.0	branchdensityII_noend ^-1.0	
+-0.93	1122 1023	ln(branchdensity_noend) ^-1.0	branchdensityII_noend ^-1.0	
+-0.93	1106 1019	ln(distance_max) ^-1.0	branchdensityII ^-1.0	
+-0.93	2102 2003	ln(adistance_max) ^-1.0	asections_max ^-1.0	
+-0.93	1106 2010	ln(distance_max) ^-1.0	abranchdensityII_noend ^-1.0	
+-0.93	2102 2010	ln(adistance_max) ^-1.0	abranchdensityII_noend ^-1.0	
+-0.93	2102 2005	ln(adistance_max) ^-1.0	asections_mean ^-1.0	
+-0.93	1019 1122	branchdensityII ^-1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1106 1007	ln(distance_max) ^-1.0	sections_max ^-1.0	
+-0.93	1007 1122	sections_max ^-1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1106 1016	ln(distance_max) ^-1.0	d2area_maxAr_percent ^-1.0	
+-0.93	1106 1009	ln(distance_max) ^-1.0	sections_mean ^-1.0	
+-0.93	1106 2017	ln(distance_max) ^-1.0	ddeq_maxdist ^1.0	
+-0.93	2102 2017	ln(adistance_max) ^-1.0	ddeq_maxdist ^1.0	
+-0.93	1009 1122	sections_mean ^-1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1106 2008	ln(distance_max) ^-1.0	abranchdensityII ^-1.0	
+-0.93	1016 1122	d2area_maxAr_percent ^-1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	2102 2008	ln(adistance_max) ^-1.0	abranchdensityII ^-1.0	
+-0.93	1106 2014	ln(distance_max) ^-1.0	deq_relmax ^-1.0	
+-0.93	1106 2012	ln(distance_max) ^-1.0	adeq_max ^-1.0	
+-0.93	2102 2014	ln(adistance_max) ^-1.0	deq_relmax ^-1.0	
+-0.93	2102 2012	ln(adistance_max) ^-1.0	adeq_max ^-1.0	
+-0.93	1002 1106	area_max ^-1.0	ln(distance_max) ^-1.0	
+-0.93	1002 2102	area_max ^-1.0	ln(adistance_max) ^-1.0	
+-0.93	1002 1122	area_max ^-1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1001 1106	darea_maxdist ^-1.0	ln(distance_max) ^-1.0	
+-0.93	1106 1014	ln(distance_max) ^-1.0	d2area_maxdist ^1.0	
+-0.93	1001 2102	darea_maxdist ^-1.0	ln(adistance_max) ^-1.0	
+-0.93	1001 1122	darea_maxdist ^-1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1014 1122	d2area_maxdist ^1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	2001 2102	adarea_maxdist ^-1.0	ln(adistance_max) ^-1.0	
+-0.93	1022 1022	branchdensity_noend ^-1.0	branchdensity_noend ^-1.0	
+-0.93	1106 1011	ln(distance_max) ^-1.0	dAdr_ratio ^1.0	
+-0.93	2102 2002	ln(adistance_max) ^-1.0	adistance_max ^1.0	
+-0.93	2002 2102	adistance_max ^1.0	ln(adistance_max) ^-1.0	
+-0.93	1005 1106	rallratio_peak ^-1.0	ln(distance_max) ^-1.0	
+-0.93	1106 1021	ln(distance_max) ^-1.0	diamratio_mean ^-1.0	
+-0.93	1106 2013	ln(distance_max) ^-1.0	adeq_maxdist ^-1.0	
+-0.93	1106 1027	ln(distance_max) ^-1.0	rallratio_noend_peak ^-1.0	
+-0.93	2102 2013	ln(adistance_max) ^-1.0	adeq_maxdist ^-1.0	
+-0.93	1106 1216	ln(distance_max) ^-1.0	exp(d2area_maxAr_percent) ^-1.0	
+-0.93	1106 1006	ln(distance_max) ^-1.0	distance_max ^1.0	
+-0.93	1006 1106	distance_max ^1.0	ln(distance_max) ^-1.0	
+-0.93	1106 2011	ln(distance_max) ^-1.0	adiam_mean ^-1.0	
+-0.93	1005 1122	rallratio_peak ^-1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1021 1122	diamratio_mean ^-1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1106 1028	ln(distance_max) ^-1.0	rallratio_noend_mean ^-1.0	
+-0.93	1011 1122	dAdr_ratio ^1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1106 1018	ln(distance_max) ^-1.0	branchdensity ^-1.0	
+-0.93	2102 2011	ln(adistance_max) ^-1.0	adiam_mean ^-1.0	
+-0.93	1004 1106	rallratio_mean ^-1.0	ln(distance_max) ^-1.0	
+-0.93	1006 1122	distance_max ^1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1106 2217	ln(distance_max) ^-1.0	exp(ddeq_maxdist) ^1.0	
+-0.93	1122 1027	ln(branchdensity_noend) ^-1.0	rallratio_noend_peak ^-1.0	
+-0.93	1106 1020	ln(distance_max) ^-1.0	diamratio_peak ^-1.0	
+-0.93	1205 1106	exp(rallratio_peak) ^-1.0	ln(distance_max) ^-1.0	
+-0.93	1106 1008	ln(distance_max) ^-1.0	sections_maxdist ^1.0	
+-0.93	1216 1122	exp(d2area_maxAr_percent) ^-1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	2102 2217	ln(adistance_max) ^-1.0	exp(ddeq_maxdist) ^1.0	
+-0.93	1106 1221	ln(distance_max) ^-1.0	exp(diamratio_mean) ^-1.0	
+-0.93	1106 1211	ln(distance_max) ^-1.0	exp(dAdr_ratio) ^1.0	
+-0.93	1122 1028	ln(branchdensity_noend) ^-1.0	rallratio_noend_mean ^-1.0	
+-0.93	1106 1110	ln(distance_max) ^-1.0	ln(taper_mean) ^1.0	
+-0.93	1106 1025	ln(distance_max) ^-1.0	diamratio_noend_mean ^-1.0	
+-0.93	1106 1227	ln(distance_max) ^-1.0	exp(rallratio_noend_peak) ^-1.0	
+-0.93	1004 1122	rallratio_mean ^-1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1008 1122	sections_maxdist ^1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1020 1122	diamratio_peak ^-1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1221 1122	exp(diamratio_mean) ^-1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1106 2117	ln(distance_max) ^-1.0	ln(ddeq_maxdist) ^1.0	
+-0.93	1106 1114	ln(distance_max) ^-1.0	ln(d2area_maxdist) ^1.0	
+-0.93	1205 1122	exp(rallratio_peak) ^-1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1106 2015	ln(distance_max) ^-1.0	deq_ratio ^1.0	
+-0.93	1018 1122	branchdensity ^-1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1106 1220	ln(distance_max) ^-1.0	exp(diamratio_peak) ^-1.0	
+-0.93	1106 1010	ln(distance_max) ^-1.0	taper_mean ^1.0	
+-0.93	1106 1024	ln(distance_max) ^-1.0	diamratio_noend_peak ^-1.0	
+-0.93	1122 1025	ln(branchdensity_noend) ^-1.0	diamratio_noend_mean ^-1.0	
+-0.93	1203 1106	exp(branchpoints_num) ^1.0	ln(distance_max) ^-1.0	
+-0.93	1200 1106	exp(darea_max) ^1.0	ln(distance_max) ^-1.0	
+-0.93	2102 2117	ln(adistance_max) ^-1.0	ln(ddeq_maxdist) ^1.0	
+-0.93	1106 1212	ln(distance_max) ^-1.0	exp(dAdr_relmax) ^1.0	
+-0.93	1110 1122	ln(taper_mean) ^1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1122 1227	ln(branchdensity_noend) ^-1.0	exp(rallratio_noend_peak) ^-1.0	
+-0.93	1211 1122	exp(dAdr_ratio) ^1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1106 1213	ln(distance_max) ^-1.0	exp(d2area_max) ^1.0	
+-0.93	1106 1215	ln(distance_max) ^-1.0	exp(d2area_maxAr_ratio) ^-1.0	
+-0.93	2102 2015	ln(adistance_max) ^-1.0	deq_ratio ^1.0	
+-0.93	1106 1209	ln(distance_max) ^-1.0	exp(sections_mean) ^1.0	
+-0.93	1114 1122	ln(d2area_maxdist) ^1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1106 1225	ln(distance_max) ^-1.0	exp(diamratio_noend_mean) ^-1.0	
+-0.93	1106 2210	ln(distance_max) ^-1.0	exp(abranchdensityII_noend) ^-1.0	
+-0.93	1106 1026	ln(distance_max) ^-1.0	mean_stem_dendrite_diam ^1.0	
+-0.93	1220 1122	exp(diamratio_peak) ^-1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1200 2102	exp(darea_max) ^1.0	ln(adistance_max) ^-1.0	
+-0.93	1106 2215	ln(distance_max) ^-1.0	exp(deq_ratio) ^1.0	
+-0.93	1122 1024	ln(branchdensity_noend) ^-1.0	diamratio_noend_peak ^-1.0	
+-0.93	1106 1224	ln(distance_max) ^-1.0	exp(diamratio_noend_peak) ^-1.0	
+-0.93	1122 1026	ln(branchdensity_noend) ^-1.0	mean_stem_dendrite_diam ^1.0	
+-0.93	1204 1106	exp(rallratio_mean) ^-1.0	ln(distance_max) ^-1.0	
+-0.93	1106 1208	ln(distance_max) ^-1.0	exp(sections_maxdist) ^1.0	
+-0.93	1106 1214	ln(distance_max) ^-1.0	exp(d2area_maxdist) ^1.0	
+-0.93	1106 2211	ln(distance_max) ^-1.0	exp(adiam_mean) ^-1.0	
+-0.93	1010 1122	taper_mean ^1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1215 1122	exp(d2area_maxAr_ratio) ^-1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1106 1228	ln(distance_max) ^-1.0	exp(rallratio_noend_mean) ^-1.0	
+-0.93	1106 2218	ln(distance_max) ^-1.0	exp(ddeq_maxAr_ratio) ^-1.0	
+-0.93	1106 2213	ln(distance_max) ^-1.0	exp(adeq_maxdist) ^-1.0	
+-0.93	2201 2102	exp(adarea_maxdist) ^-1.0	ln(adistance_max) ^-1.0	
+-0.93	1203 1122	exp(branchpoints_num) ^1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1106 1207	ln(distance_max) ^-1.0	exp(sections_max) ^1.0	
+-0.93	1200 1122	exp(darea_max) ^1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1212 1122	exp(dAdr_relmax) ^1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	2102 2210	ln(adistance_max) ^-1.0	exp(abranchdensityII_noend) ^-1.0	
+-0.93	2102 2215	ln(adistance_max) ^-1.0	exp(deq_ratio) ^1.0	
+-0.93	1213 1122	exp(d2area_max) ^1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1208 1122	exp(sections_maxdist) ^1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1122 1225	ln(branchdensity_noend) ^-1.0	exp(diamratio_noend_mean) ^-1.0	
+-0.93	1122 1224	ln(branchdensity_noend) ^-1.0	exp(diamratio_noend_peak) ^-1.0	
+-0.93	1209 1122	exp(sections_mean) ^1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1204 1122	exp(rallratio_mean) ^-1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	2102 2211	ln(adistance_max) ^-1.0	exp(adiam_mean) ^-1.0	
+-0.93	1106 2009	ln(distance_max) ^-1.0	abranchdensity_noend ^-1.0	
+-0.93	2102 2205	ln(adistance_max) ^-1.0	exp(asections_mean) ^1.0	
+-0.93	1202 1106	exp(area_max) ^1.0	ln(distance_max) ^-1.0	
+-0.93	1017 1122	diam_mean ^-1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	2102 2218	ln(adistance_max) ^-1.0	exp(ddeq_maxAr_ratio) ^-1.0	
+-0.93	2102 2213	ln(adistance_max) ^-1.0	exp(adeq_maxdist) ^-1.0	
+-0.93	1122 1228	ln(branchdensity_noend) ^-1.0	exp(rallratio_noend_mean) ^-1.0	
+-0.93	1214 1122	exp(d2area_maxdist) ^1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1201 1106	exp(darea_maxdist) ^1.0	ln(distance_max) ^-1.0	
+-0.93	1106 1017	ln(distance_max) ^-1.0	diam_mean ^-1.0	
+-0.93	1106 2216	ln(distance_max) ^-1.0	exp(ddeq_max) ^1.0	
+-0.93	2102 2203	ln(adistance_max) ^-1.0	exp(asections_max) ^1.0	
+-0.93	1206 1106	exp(distance_max) ^1.0	ln(distance_max) ^-1.0	
+-0.93	1106 1206	ln(distance_max) ^-1.0	exp(distance_max) ^1.0	
+-0.93	1106 1219	ln(distance_max) ^-1.0	exp(branchdensityII) ^1.0	
+-0.93	1201 1122	exp(darea_maxdist) ^1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	2102 2009	ln(adistance_max) ^-1.0	abranchdensity_noend ^-1.0	
+-0.93	1106 1210	ln(distance_max) ^-1.0	exp(taper_mean) ^-1.0	
+-0.93	1106 2106	ln(distance_max) ^-1.0	ln(ataper_mean) ^1.0	
+-0.93	1106 1226	ln(distance_max) ^-1.0	exp(mean_stem_dendrite_diam) ^1.0	
+-0.93	1106 1126	ln(distance_max) ^-1.0	ln(mean_stem_dendrite_diam) ^1.0	
+-0.93	1207 1122	exp(sections_max) ^1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1201 2102	exp(darea_maxdist) ^1.0	ln(adistance_max) ^-1.0	
+-0.93	1206 1122	exp(distance_max) ^1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1202 2102	exp(area_max) ^1.0	ln(adistance_max) ^-1.0	
+-0.93	1202 1122	exp(area_max) ^1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1122 1226	ln(branchdensity_noend) ^-1.0	exp(mean_stem_dendrite_diam) ^1.0	
+-0.93	2102 2216	ln(adistance_max) ^-1.0	exp(ddeq_max) ^1.0	
+-0.93	1106 1223	ln(distance_max) ^-1.0	exp(branchdensityII_noend) ^1.0	
+-0.93	1106 2212	ln(distance_max) ^-1.0	exp(adeq_max) ^1.0	
+-0.93	1106 2214	ln(distance_max) ^-1.0	exp(deq_relmax) ^1.0	
+-0.93	1106 2006	ln(distance_max) ^-1.0	ataper_mean ^1.0	
+-0.93	1106 2209	ln(distance_max) ^-1.0	exp(abranchdensity_noend) ^-1.0	
+-0.93	1122 1126	ln(branchdensity_noend) ^-1.0	ln(mean_stem_dendrite_diam) ^1.0	
+-0.93	1210 1122	exp(taper_mean) ^-1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	2102 2106	ln(adistance_max) ^-1.0	ln(ataper_mean) ^1.0	
+-0.93	1219 1122	exp(branchdensityII) ^1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	2200 2102	exp(adarea_max) ^1.0	ln(adistance_max) ^-1.0	
+-0.93	2202 2102	exp(adistance_max) ^1.0	ln(adistance_max) ^-1.0	
+-0.93	2102 2202	ln(adistance_max) ^-1.0	exp(adistance_max) ^1.0	
+-0.93	1106 1222	ln(distance_max) ^-1.0	exp(branchdensity_noend) ^-1.0	
+-0.93	1106 2207	ln(distance_max) ^-1.0	exp(abranchdensity) ^-1.0	
+-0.93	2102 2006	ln(adistance_max) ^-1.0	ataper_mean ^1.0	
+-0.93	1106 2208	ln(distance_max) ^-1.0	exp(abranchdensityII) ^1.0	
+-0.93	1122 1223	ln(branchdensity_noend) ^-1.0	exp(branchdensityII_noend) ^1.0	
+-0.93	2102 2212	ln(adistance_max) ^-1.0	exp(adeq_max) ^1.0	
+-0.93	2102 2214	ln(adistance_max) ^-1.0	exp(deq_relmax) ^1.0	
+-0.93	2102 2209	ln(adistance_max) ^-1.0	exp(abranchdensity_noend) ^-1.0	
+-0.93	1106 2007	ln(distance_max) ^-1.0	abranchdensity ^-1.0	
+-0.93	1106 1217	ln(distance_max) ^-1.0	exp(diam_mean) ^-1.0	
+-0.93	1106 1111	ln(distance_max) ^-1.0	ln(dAdr_ratio) ^1.0	
+-0.93	1217 1122	exp(diam_mean) ^-1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1222 1122	exp(branchdensity_noend) ^-1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1122 1222	ln(branchdensity_noend) ^-1.0	exp(branchdensity_noend) ^-1.0	
+-0.93	1106 2206	ln(distance_max) ^-1.0	exp(ataper_mean) ^-1.0	
+-0.93	1106 1218	ln(distance_max) ^-1.0	exp(branchdensity) ^-1.0	
+-0.93	2102 2208	ln(adistance_max) ^-1.0	exp(abranchdensityII) ^1.0	
+-0.93	1106 1117	ln(distance_max) ^-1.0	ln(diam_mean) ^1.0	
+-0.93	1106 1124	ln(distance_max) ^-1.0	ln(diamratio_noend_peak) ^1.0	
+-0.93	2102 2207	ln(adistance_max) ^-1.0	exp(abranchdensity) ^-1.0	
+-0.93	1111 1122	ln(dAdr_ratio) ^1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1218 1122	exp(branchdensity) ^-1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1106 1108	ln(distance_max) ^-1.0	ln(sections_maxdist) ^1.0	
+-0.93	2102 2007	ln(adistance_max) ^-1.0	abranchdensity ^-1.0	
+-0.93	1122 1124	ln(branchdensity_noend) ^-1.0	ln(diamratio_noend_peak) ^1.0	
+-0.93	1117 1122	ln(diam_mean) ^1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1108 1122	ln(sections_maxdist) ^1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	2102 2206	ln(adistance_max) ^-1.0	exp(ataper_mean) ^-1.0	
+-0.93	1106 2115	ln(distance_max) ^-1.0	ln(deq_ratio) ^1.0	
+-0.93	1106 1022	ln(distance_max) ^-1.0	branchdensity_noend ^-1.0	
+-0.93	1122 1022	ln(branchdensity_noend) ^-1.0	branchdensity_noend ^-1.0	
+-0.93	1022 1122	branchdensity_noend ^-1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1106 1106	ln(distance_max) ^-1.0	ln(distance_max) ^-1.0	
+-0.93	1106 1122	ln(distance_max) ^-1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1122 1122	ln(branchdensity_noend) ^-1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	2102 2102	ln(adistance_max) ^-1.0	ln(adistance_max) ^-1.0	
+-0.93	1102 1106	ln(area_max) ^1.0	ln(distance_max) ^-1.0	
+-0.93	1106 2111	ln(distance_max) ^-1.0	ln(adiam_mean) ^1.0	
+-0.93	1102 1122	ln(area_max) ^1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1122 1127	ln(branchdensity_noend) ^-1.0	ln(rallratio_noend_peak) ^1.0	
+-0.93	1106 1127	ln(distance_max) ^-1.0	ln(rallratio_noend_peak) ^1.0	
+-0.93	2102 2115	ln(adistance_max) ^-1.0	ln(deq_ratio) ^1.0	
+-0.93	1106 2112	ln(distance_max) ^-1.0	ln(adeq_max) ^1.0	
+-0.93	1106 2114	ln(distance_max) ^-1.0	ln(deq_relmax) ^1.0	
+-0.93	1102 2102	ln(area_max) ^1.0	ln(adistance_max) ^-1.0	
+-0.93	2102 2111	ln(adistance_max) ^-1.0	ln(adiam_mean) ^1.0	
+-0.93	1106 2113	ln(distance_max) ^-1.0	ln(adeq_maxdist) ^1.0	
+-0.93	1121 1122	ln(diamratio_mean) ^1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1106 1121	ln(distance_max) ^-1.0	ln(diamratio_mean) ^1.0	
+-0.93	2100 2102	ln(adarea_max) ^1.0	ln(adistance_max) ^-1.0	
+-0.93	1105 1122	ln(rallratio_peak) ^1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	2102 2112	ln(adistance_max) ^-1.0	ln(adeq_max) ^1.0	
+-0.93	2102 2114	ln(adistance_max) ^-1.0	ln(deq_relmax) ^1.0	
+-0.93	1100 1122	ln(darea_max) ^1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1105 1106	ln(rallratio_peak) ^1.0	ln(distance_max) ^-1.0	
+-0.93	1100 1106	ln(darea_max) ^1.0	ln(distance_max) ^-1.0	
+-0.93	2102 2113	ln(adistance_max) ^-1.0	ln(adeq_maxdist) ^1.0	
+-0.93	1112 1122	ln(dAdr_relmax) ^1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1106 1112	ln(distance_max) ^-1.0	ln(dAdr_relmax) ^1.0	
+-0.93	1100 2102	ln(darea_max) ^1.0	ln(adistance_max) ^-1.0	
+-0.93	1122 1123	ln(branchdensity_noend) ^-1.0	ln(branchdensityII_noend) ^1.0	
+-0.93	1106 1123	ln(distance_max) ^-1.0	ln(branchdensityII_noend) ^1.0	
+-0.93	1106 2108	ln(distance_max) ^-1.0	ln(abranchdensityII) ^1.0	
+-0.93	1106 2109	ln(distance_max) ^-1.0	ln(abranchdensity_noend) ^-1.0	
+-0.93	1118 1122	ln(branchdensity) ^1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	2102 2108	ln(adistance_max) ^-1.0	ln(abranchdensityII) ^1.0	
+-0.93	2102 2109	ln(adistance_max) ^-1.0	ln(abranchdensity_noend) ^-1.0	
+-0.93	1101 1122	ln(darea_maxdist) ^1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1115 1122	ln(d2area_maxAr_ratio) ^1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	2101 2102	ln(adarea_maxdist) ^1.0	ln(adistance_max) ^-1.0	
+-0.93	1119 1122	ln(branchdensityII) ^1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1107 1122	ln(sections_max) ^1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1116 1122	ln(d2area_maxAr_percent) ^1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1122 1125	ln(branchdensity_noend) ^-1.0	ln(diamratio_noend_mean) ^1.0	
+-0.93	1103 1122	ln(branchpoints_num) ^1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1113 1122	ln(d2area_max) ^1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1109 1122	ln(sections_mean) ^1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1106 2107	ln(distance_max) ^-1.0	ln(abranchdensity) ^-1.0	
+-0.93	1101 1106	ln(darea_maxdist) ^1.0	ln(distance_max) ^-1.0	
+-0.93	1106 1119	ln(distance_max) ^-1.0	ln(branchdensityII) ^1.0	
+-0.93	1106 1107	ln(distance_max) ^-1.0	ln(sections_max) ^1.0	
+-0.93	1120 1122	ln(diamratio_peak) ^1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	1106 1115	ln(distance_max) ^-1.0	ln(d2area_maxAr_ratio) ^1.0	
+-0.93	2102 2107	ln(adistance_max) ^-1.0	ln(abranchdensity) ^-1.0	
+-0.93	1106 1118	ln(distance_max) ^-1.0	ln(branchdensity) ^1.0	
+-0.93	1103 1106	ln(branchpoints_num) ^1.0	ln(distance_max) ^-1.0	
+-0.93	1101 2102	ln(darea_maxdist) ^1.0	ln(adistance_max) ^-1.0	
+-0.93	1106 1116	ln(distance_max) ^-1.0	ln(d2area_maxAr_percent) ^1.0	
+-0.93	1106 1125	ln(distance_max) ^-1.0	ln(diamratio_noend_mean) ^1.0	
+-0.93	1122 1128	ln(branchdensity_noend) ^-1.0	ln(rallratio_noend_mean) ^1.0	
+-0.93	2102 2103	ln(adistance_max) ^-1.0	ln(asections_max) ^1.0	
+-0.93	1106 1113	ln(distance_max) ^-1.0	ln(d2area_max) ^1.0	
+-0.93	1106 1109	ln(distance_max) ^-1.0	ln(sections_mean) ^1.0	
+-0.93	1106 2110	ln(distance_max) ^-1.0	ln(abranchdensityII_noend) ^1.0	
+-0.93	1106 2118	ln(distance_max) ^-1.0	ln(ddeq_maxAr_ratio) ^1.0	
+-0.93	2102 2105	ln(adistance_max) ^-1.0	ln(asections_mean) ^1.0	
+-0.93	1104 1122	ln(rallratio_mean) ^1.0	ln(branchdensity_noend) ^-1.0	
+-0.93	2102 2110	ln(adistance_max) ^-1.0	ln(abranchdensityII_noend) ^1.0	
+-0.93	2102 2118	ln(adistance_max) ^-1.0	ln(ddeq_maxAr_ratio) ^1.0	
+-0.93	1106 1120	ln(distance_max) ^-1.0	ln(diamratio_peak) ^1.0	
+-0.93	1106 1128	ln(distance_max) ^-1.0	ln(rallratio_noend_mean) ^1.0	
+-0.93	1104 1106	ln(rallratio_mean) ^1.0	ln(distance_max) ^-1.0	
+-0.92	1118 1022	ln(branchdensity) ^1.0	branchdensity_noend ^-1.0	
+-0.84	1015 1018	d2area_maxAr_ratio ^1.0	branchdensity ^-1.0	
+-0.79	2006 2109	ataper_mean ^1.0	ln(abranchdensity_noend) ^-1.0	
+-0.77	2006 2107	ataper_mean ^1.0	ln(abranchdensity) ^-1.0	
+-0.77	2008 2109	abranchdensityII ^1.0	ln(abranchdensity_noend) ^-1.0	
+-0.76	2106 2109	ln(ataper_mean) ^1.0	ln(abranchdensity_noend) ^-1.0	
+-0.75	2008 2009	abranchdensityII ^1.0	abranchdensity_noend ^-1.0	
+-0.75	2107 2008	ln(abranchdensity) ^-1.0	abranchdensityII ^1.0	
+-0.75	2006 2009	ataper_mean ^1.0	abranchdensity_noend ^-1.0	
+-0.74	2007 2008	abranchdensity ^-1.0	abranchdensityII ^1.0	
+-0.74	2006 2007	ataper_mean ^1.0	abranchdensity ^-1.0	
+-0.74	1011 1015	dAdr_ratio ^1.0	d2area_maxAr_ratio ^1.0	
+-0.73	2106 2107	ln(ataper_mean) ^1.0	ln(abranchdensity) ^-1.0	
+-0.73	1015 1019	d2area_maxAr_ratio ^1.0	branchdensityII ^1.0	
+-0.73	1015 2015	d2area_maxAr_ratio ^1.0	deq_ratio ^1.0	
+-0.73	1015 1023	d2area_maxAr_ratio ^1.0	branchdensityII_noend ^1.0	
+-0.73	1215 1018	exp(d2area_maxAr_ratio) ^1.0	branchdensity ^-1.0	
+-0.72	2002 2015	adistance_max ^-1.0	deq_ratio ^1.0	
+-0.72	2009 2015	abranchdensity_noend ^-1.0	deq_ratio ^1.0	
+-0.71	2007 2015	abranchdensity ^-1.0	deq_ratio ^1.0	
+-0.71	2109 2015	ln(abranchdensity_noend) ^-1.0	deq_ratio ^1.0	
+-0.70	2107 2015	ln(abranchdensity) ^-1.0	deq_ratio ^1.0	
+-0.70	1215 2015	exp(d2area_maxAr_ratio) ^1.0	deq_ratio ^1.0	
+-0.70	1006 2015	distance_max ^-1.0	deq_ratio ^1.0	
+-0.69	2208 2215	exp(abranchdensityII) ^1.0	exp(deq_ratio) ^1.0	
+-0.69	1215 1019	exp(d2area_maxAr_ratio) ^1.0	branchdensityII ^1.0	
+-0.69	2008 2015	abranchdensityII ^1.0	deq_ratio ^1.0	
+-0.69	2002 2008	adistance_max ^-1.0	abranchdensityII ^1.0	
+-0.69	1202 2015	exp(area_max) ^-1.0	deq_ratio ^1.0	
+-0.69	1219 1223	exp(branchdensityII) ^1.0	exp(branchdensityII_noend) ^1.0	
+-0.69	1006 1019	distance_max ^-1.0	branchdensityII ^1.0	
+-0.69	1006 2008	distance_max ^-1.0	abranchdensityII ^1.0	
+-0.69	1215 1023	exp(d2area_maxAr_ratio) ^1.0	branchdensityII_noend ^1.0	
+-0.69	1006 1023	distance_max ^-1.0	branchdensityII_noend ^1.0	
+-0.68	1215 1223	exp(d2area_maxAr_ratio) ^1.0	exp(branchdensityII_noend) ^1.0	
+-0.68	1223 1223	exp(branchdensityII_noend) ^1.0	exp(branchdensityII_noend) ^1.0	
+-0.68	1219 1219	exp(branchdensityII) ^1.0	exp(branchdensityII) ^1.0	
+-0.68	2106 2009	ln(ataper_mean) ^1.0	abranchdensity_noend ^-1.0	
+-0.68	1215 1219	exp(d2area_maxAr_ratio) ^1.0	exp(branchdensityII) ^1.0	
+-0.68	1019 1023	branchdensityII ^1.0	branchdensityII_noend ^1.0	
+-0.68	2208 2208	exp(abranchdensityII) ^1.0	exp(abranchdensityII) ^1.0	
+-0.68	2002 2109	adistance_max ^-1.0	ln(abranchdensity_noend) ^-1.0	
+-0.68	2208 2015	exp(abranchdensityII) ^1.0	deq_ratio ^1.0	
+-0.68	2106 2007	ln(ataper_mean) ^1.0	abranchdensity ^-1.0	
+-0.68	1023 1023	branchdensityII_noend ^1.0	branchdensityII_noend ^1.0	
+-0.68	2002 2215	adistance_max ^-1.0	exp(deq_ratio) ^1.0	
+-0.67	1209 2015	exp(sections_mean) ^-1.0	deq_ratio ^1.0	
+-0.67	1019 1019	branchdensityII ^1.0	branchdensityII ^1.0	
+-0.67	2109 2016	ln(abranchdensity_noend) ^-1.0	ddeq_max ^1.0	
+-0.67	1006 1219	distance_max ^-1.0	exp(branchdensityII) ^1.0	
+-0.67	1018 1019	branchdensity ^-1.0	branchdensityII ^1.0	
+-0.67	1006 1223	distance_max ^-1.0	exp(branchdensityII_noend) ^1.0	
+-0.67	2008 2008	abranchdensityII ^1.0	abranchdensityII ^1.0	
+-0.67	1202 1019	exp(area_max) ^-1.0	branchdensityII ^1.0	
+-0.67	2008 2215	abranchdensityII ^1.0	exp(deq_ratio) ^1.0	
+-0.67	1215 2215	exp(d2area_maxAr_ratio) ^1.0	exp(deq_ratio) ^1.0	
+-0.67	1006 2215	distance_max ^-1.0	exp(deq_ratio) ^1.0	
+-0.67	1013 1015	d2area_max ^1.0	d2area_maxAr_ratio ^1.0	
+-0.67	2010 2015	abranchdensityII_noend ^1.0	deq_ratio ^1.0	
+-0.67	1200 2215	exp(darea_max) ^-1.0	exp(deq_ratio) ^1.0	
+-0.67	1019 1223	branchdensityII ^1.0	exp(branchdensityII_noend) ^1.0	
+-0.67	1006 2208	distance_max ^-1.0	exp(abranchdensityII) ^1.0	
+-0.67	1006 1018	distance_max ^-1.0	branchdensity ^-1.0	
+-0.66	1014 2015	d2area_maxdist ^-1.0	deq_ratio ^1.0	
+-0.66	1014 1019	d2area_maxdist ^-1.0	branchdensityII ^1.0	
+-0.66	2210 2015	exp(abranchdensityII_noend) ^1.0	deq_ratio ^1.0	
+-0.66	1212 2215	exp(dAdr_relmax) ^-1.0	exp(deq_ratio) ^1.0	
+-0.66	1219 1023	exp(branchdensityII) ^1.0	branchdensityII_noend ^1.0	
+-0.66	1219 1019	exp(branchdensityII) ^1.0	branchdensityII ^1.0	
+-0.66	1019 1219	branchdensityII ^1.0	exp(branchdensityII) ^1.0	
+-0.66	1018 1023	branchdensity ^-1.0	branchdensityII_noend ^1.0	
+-0.66	2002 2208	adistance_max ^-1.0	exp(abranchdensityII) ^1.0	
+-0.66	1223 1023	exp(branchdensityII_noend) ^1.0	branchdensityII_noend ^1.0	
+-0.66	1023 1223	branchdensityII_noend ^1.0	exp(branchdensityII_noend) ^1.0	
+-0.66	2208 2008	exp(abranchdensityII) ^1.0	abranchdensityII ^1.0	
+-0.66	2008 2208	abranchdensityII ^1.0	exp(abranchdensityII) ^1.0	
+-0.65	2107 2016	ln(abranchdensity) ^-1.0	ddeq_max ^1.0	
+-0.65	2210 2215	exp(abranchdensityII_noend) ^1.0	exp(deq_ratio) ^1.0	
+-0.65	2015 2015	deq_ratio ^1.0	deq_ratio ^1.0	
+-0.65	1217 1219	exp(diam_mean) ^-1.0	exp(branchdensityII) ^1.0	
+-0.65	2009 2016	abranchdensity_noend ^-1.0	ddeq_max ^1.0	
+-0.65	1209 1019	exp(sections_mean) ^-1.0	branchdensityII ^1.0	
+-0.65	1011 1215	dAdr_ratio ^1.0	exp(d2area_maxAr_ratio) ^1.0	
+-0.65	2000 2109	adarea_max ^1.0	ln(abranchdensity_noend) ^-1.0	
+-0.65	2215 2215	exp(deq_ratio) ^1.0	exp(deq_ratio) ^1.0	
+-0.65	2007 2016	abranchdensity ^-1.0	ddeq_max ^1.0	
+-0.65	1014 1018	d2area_maxdist ^-1.0	branchdensity ^-1.0	
+-0.64	1203 2015	exp(branchpoints_num) ^-1.0	deq_ratio ^1.0	
+-0.64	2000 2009	adarea_max ^1.0	abranchdensity_noend ^-1.0	
+-0.64	2008 2010	abranchdensityII ^1.0	abranchdensityII_noend ^1.0	
+0.64	1017 1017	diam_mean ^1.0	diam_mean ^-1.0	
+-0.64	2215 2015	exp(deq_ratio) ^1.0	deq_ratio ^1.0	
+-0.64	2015 2215	deq_ratio ^1.0	exp(deq_ratio) ^1.0	
+-0.64	1018 1027	branchdensity ^-1.0	rallratio_noend_peak ^1.0	
+-0.64	1018 1219	branchdensity ^-1.0	exp(branchdensityII) ^1.0	
+-0.64	1010 1018	taper_mean ^1.0	branchdensity ^-1.0	
+-0.64	2208 2210	exp(abranchdensityII) ^1.0	exp(abranchdensityII_noend) ^1.0	
+-0.64	1008 2015	sections_maxdist ^-1.0	deq_ratio ^1.0	
+-0.64	2008 2210	abranchdensityII ^1.0	exp(abranchdensityII_noend) ^1.0	
+-0.63	1007 1015	sections_max ^1.0	d2area_maxAr_ratio ^1.0	
+-0.63	1006 1006	distance_max ^-1.0	distance_max ^-1.0	
+-0.63	1005 1018	rallratio_peak ^1.0	branchdensity ^-1.0	
+-0.63	2000 2007	adarea_max ^1.0	abranchdensity ^-1.0	
+-0.63	2000 2107	adarea_max ^1.0	ln(abranchdensity) ^-1.0	
+-0.63	2109 2010	ln(abranchdensity_noend) ^-1.0	abranchdensityII_noend ^1.0	
+-0.63	1015 1219	d2area_maxAr_ratio ^1.0	exp(branchdensityII) ^1.0	
+-0.63	1018 1223	branchdensity ^-1.0	exp(branchdensityII_noend) ^1.0	
+-0.63	2002 2107	adistance_max ^-1.0	ln(abranchdensity) ^-1.0	
+-0.62	1015 1223	d2area_maxAr_ratio ^1.0	exp(branchdensityII_noend) ^1.0	
+-0.62	2205 2015	exp(asections_mean) ^-1.0	deq_ratio ^1.0	
+-0.62	1005 2015	rallratio_peak ^1.0	deq_ratio ^1.0	
+-0.62	1015 2016	d2area_maxAr_ratio ^1.0	ddeq_max ^1.0	
+-0.62	2002 2010	adistance_max ^-1.0	abranchdensityII_noend ^1.0	
+-0.62	1217 1019	exp(diam_mean) ^-1.0	branchdensityII ^1.0	
+-0.62	1014 1023	d2area_maxdist ^-1.0	branchdensityII_noend ^1.0	
+-0.62	2002 2002	adistance_max ^-1.0	adistance_max ^-1.0	
+-0.62	1203 1019	exp(branchpoints_num) ^-1.0	branchdensityII ^1.0	
+-0.62	1002 1011	area_max ^-1.0	dAdr_ratio ^1.0	
+-0.62	1203 1219	exp(branchpoints_num) ^-1.0	exp(branchdensityII) ^1.0	
+-0.61	1202 2008	exp(area_max) ^-1.0	abranchdensityII ^1.0	
+-0.61	1006 2109	distance_max ^-1.0	ln(abranchdensity_noend) ^-1.0	
+-0.61	1006 2210	distance_max ^-1.0	exp(abranchdensityII_noend) ^1.0	
+-0.61	1205 2015	exp(rallratio_peak) ^1.0	deq_ratio ^1.0	
+-0.61	1006 1015	distance_max ^-1.0	d2area_maxAr_ratio ^1.0	
+-0.61	2002 2210	adistance_max ^-1.0	exp(abranchdensityII_noend) ^1.0	
+-0.61	1009 1011	sections_mean ^-1.0	dAdr_ratio ^1.0	
+-0.61	1006 1215	distance_max ^-1.0	exp(d2area_maxAr_ratio) ^1.0	
+-0.61	1006 2010	distance_max ^-1.0	abranchdensityII_noend ^1.0	
+-0.61	1013 1215	d2area_max ^1.0	exp(d2area_maxAr_ratio) ^1.0	
+-0.61	1015 2215	d2area_maxAr_ratio ^1.0	exp(deq_ratio) ^1.0	
+-0.61	1006 1013	distance_max ^-1.0	d2area_max ^1.0	
+-0.61	1110 1018	ln(taper_mean) ^1.0	branchdensity ^-1.0	
+-0.61	1019 1021	branchdensityII ^1.0	diamratio_mean ^1.0	
+-0.61	1204 2215	exp(rallratio_mean) ^-1.0	exp(deq_ratio) ^1.0	
+-0.61	1019 1026	branchdensityII ^1.0	mean_stem_dendrite_diam ^-1.0	
+-0.60	2209 2015	exp(abranchdensity_noend) ^-1.0	deq_ratio ^1.0	
+-0.60	1019 1027	branchdensityII ^1.0	rallratio_noend_peak ^1.0	
+-0.60	2010 2215	abranchdensityII_noend ^1.0	exp(deq_ratio) ^1.0	
+-0.60	1005 1019	rallratio_peak ^1.0	branchdensityII ^1.0	
+-0.60	1018 1227	branchdensity ^-1.0	exp(rallratio_noend_peak) ^1.0	
+-0.60	2207 2015	exp(abranchdensity) ^-1.0	deq_ratio ^1.0	
+-0.60	1209 1011	exp(sections_mean) ^-1.0	dAdr_ratio ^1.0	
+-0.60	1012 1015	dAdr_relmax ^1.0	d2area_maxAr_ratio ^1.0	
+-0.60	1000 1015	darea_max ^1.0	d2area_maxAr_ratio ^1.0	
+-0.60	2209 2215	exp(abranchdensity_noend) ^-1.0	exp(deq_ratio) ^1.0	
+-0.60	1205 1018	exp(rallratio_peak) ^1.0	branchdensity ^-1.0	
+-0.60	1212 2015	exp(dAdr_relmax) ^-1.0	deq_ratio ^1.0	
+-0.60	1200 2015	exp(darea_max) ^-1.0	deq_ratio ^1.0	
+-0.60	1204 1219	exp(rallratio_mean) ^-1.0	exp(branchdensityII) ^1.0	
+-0.60	1208 2015	exp(sections_maxdist) ^-1.0	deq_ratio ^1.0	
+-0.60	1219 1225	exp(branchdensityII) ^1.0	exp(diamratio_noend_mean) ^-1.0	
+-0.60	1219 1228	exp(branchdensityII) ^1.0	exp(rallratio_noend_mean) ^-1.0	
+-0.60	1204 2208	exp(rallratio_mean) ^-1.0	exp(abranchdensityII) ^1.0	
+-0.60	1016 1019	d2area_maxAr_percent ^1.0	branchdensityII ^1.0	
+-0.60	2208 2209	exp(abranchdensityII) ^1.0	exp(abranchdensity_noend) ^-1.0	
+-0.60	1216 1019	exp(d2area_maxAr_percent) ^1.0	branchdensityII ^1.0	
+-0.59	1206 2015	exp(distance_max) ^-1.0	deq_ratio ^1.0	
+-0.59	1210 1019	exp(taper_mean) ^1.0	branchdensityII ^1.0	
+-0.59	1010 1015	taper_mean ^1.0	d2area_maxAr_ratio ^1.0	
+-0.59	1019 1226	branchdensityII ^1.0	exp(mean_stem_dendrite_diam) ^-1.0	
+-0.59	1019 1221	branchdensityII ^1.0	exp(diamratio_mean) ^1.0	
+-0.59	1013 1023	d2area_max ^1.0	branchdensityII_noend ^1.0	
+-0.59	1013 1019	d2area_max ^1.0	branchdensityII ^1.0	
+-0.59	1004 2015	rallratio_mean ^1.0	deq_ratio ^1.0	
+-0.59	1019 1227	branchdensityII ^1.0	exp(rallratio_noend_peak) ^1.0	
+-0.59	1205 1019	exp(rallratio_peak) ^1.0	branchdensityII ^1.0	
+-0.59	1105 2015	ln(rallratio_peak) ^1.0	deq_ratio ^1.0	
+-0.59	1223 1228	exp(branchdensityII_noend) ^1.0	exp(rallratio_noend_mean) ^-1.0	
+-0.59	1219 1220	exp(branchdensityII) ^1.0	exp(diamratio_peak) ^-1.0	
+-0.59	2001 2015	adarea_maxdist ^-1.0	deq_ratio ^1.0	
+-0.59	1223 1225	exp(branchdensityII_noend) ^1.0	exp(diamratio_noend_mean) ^-1.0	
+-0.59	2202 2015	exp(adistance_max) ^-1.0	deq_ratio ^1.0	
+-0.59	1204 1223	exp(rallratio_mean) ^-1.0	exp(branchdensityII_noend) ^1.0	
+-0.59	1017 1018	diam_mean ^1.0	branchdensity ^-1.0	
+-0.59	1017 1019	diam_mean ^-1.0	branchdensityII ^1.0	
+-0.59	1209 2215	exp(sections_mean) ^-1.0	exp(deq_ratio) ^1.0	
+-0.59	1019 1222	branchdensityII ^1.0	exp(branchdensity_noend) ^-1.0	
+-0.59	1209 1219	exp(sections_mean) ^-1.0	exp(branchdensityII) ^1.0	
+-0.59	1213 1219	exp(d2area_max) ^1.0	exp(branchdensityII) ^1.0	
+-0.59	2201 2215	exp(adarea_maxdist) ^-1.0	exp(deq_ratio) ^1.0	
+-0.59	2208 2010	exp(abranchdensityII) ^1.0	abranchdensityII_noend ^1.0	
+-0.59	1214 2015	exp(d2area_maxdist) ^-1.0	deq_ratio ^1.0	
+-0.59	1005 1011	rallratio_peak ^1.0	dAdr_ratio ^1.0	
+-0.59	1204 2015	exp(rallratio_mean) ^1.0	deq_ratio ^1.0	
+-0.59	1011 1027	dAdr_ratio ^1.0	rallratio_noend_peak ^1.0	
+-0.59	2211 2015	exp(adiam_mean) ^1.0	deq_ratio ^1.0	
+-0.59	2002 2016	adistance_max ^-1.0	ddeq_max ^1.0	
+-0.59	1213 1223	exp(d2area_max) ^1.0	exp(branchdensityII_noend) ^1.0	
+-0.58	1006 2016	distance_max ^-1.0	ddeq_max ^1.0	
+-0.58	2015 2217	deq_ratio ^1.0	exp(ddeq_maxdist) ^1.0	
+-0.58	1219 1222	exp(branchdensityII) ^1.0	exp(branchdensity_noend) ^-1.0	
+-0.58	2011 2015	adiam_mean ^1.0	deq_ratio ^1.0	
+-0.58	1210 2015	exp(taper_mean) ^1.0	deq_ratio ^1.0	
+-0.58	2015 2216	deq_ratio ^1.0	exp(ddeq_max) ^1.0	
+-0.58	2015 2218	deq_ratio ^1.0	exp(ddeq_maxAr_ratio) ^1.0	
+-0.58	2015 2016	deq_ratio ^1.0	ddeq_max ^1.0	
+-0.58	1008 1018	sections_maxdist ^-1.0	branchdensity ^-1.0	
+-0.58	2008 2209	abranchdensityII ^1.0	exp(abranchdensity_noend) ^-1.0	
+0.58	1113 2215	ln(d2area_max) ^1.0	exp(deq_ratio) ^-1.0	
+-0.58	1202 1011	exp(area_max) ^-1.0	dAdr_ratio ^1.0	
+-0.58	1016 1018	d2area_maxAr_percent ^1.0	branchdensity ^-1.0	
+-0.58	2015 2017	deq_ratio ^1.0	ddeq_maxdist ^-1.0	
+-0.58	1203 1011	exp(branchpoints_num) ^-1.0	dAdr_ratio ^1.0	
+-0.58	1110 2015	ln(taper_mean) ^1.0	deq_ratio ^1.0	
+-0.58	2201 2015	exp(adarea_maxdist) ^-1.0	deq_ratio ^1.0	
+-0.58	2015 2018	deq_ratio ^1.0	ddeq_maxAr_ratio ^1.0	
+-0.58	1006 1213	distance_max ^-1.0	exp(d2area_max) ^1.0	
+-0.58	1004 1019	rallratio_mean ^1.0	branchdensityII ^1.0	
+-0.58	1006 2216	distance_max ^-1.0	exp(ddeq_max) ^1.0	
+-0.58	1201 2015	exp(darea_maxdist) ^-1.0	deq_ratio ^1.0	
+-0.58	1219 1226	exp(branchdensityII) ^1.0	exp(mean_stem_dendrite_diam) ^-1.0	
+-0.58	1023 1027	branchdensityII_noend ^1.0	rallratio_noend_peak ^1.0	
+-0.58	1206 1019	exp(distance_max) ^-1.0	branchdensityII ^1.0	
+-0.58	1011 1014	dAdr_ratio ^1.0	d2area_maxdist ^-1.0	
+-0.58	1110 1019	ln(taper_mean) ^1.0	branchdensityII ^1.0	
+-0.58	1006 1110	distance_max ^-1.0	ln(taper_mean) ^1.0	
+-0.58	1118 1018	ln(branchdensity) ^1.0	branchdensity ^-1.0	
+-0.58	1018 1118	branchdensity ^-1.0	ln(branchdensity) ^1.0	
+-0.58	1219 1020	exp(branchdensityII) ^1.0	diamratio_peak ^-1.0	
+-0.58	1213 1019	exp(d2area_max) ^1.0	branchdensityII ^1.0	
+-0.58	1006 1011	distance_max ^-1.0	dAdr_ratio ^1.0	
+-0.58	1200 1219	exp(darea_max) ^-1.0	exp(branchdensityII) ^1.0	
+-0.58	2203 2015	exp(asections_max) ^-1.0	deq_ratio ^1.0	
+-0.58	2015 2116	deq_ratio ^1.0	ln(ddeq_max) ^1.0	
+-0.58	1208 2215	exp(sections_maxdist) ^-1.0	exp(deq_ratio) ^1.0	
+-0.58	2115 2015	ln(deq_ratio) ^1.0	deq_ratio ^1.0	
+-0.58	2015 2115	deq_ratio ^1.0	ln(deq_ratio) ^1.0	
+-0.58	1111 2015	ln(dAdr_ratio) ^1.0	deq_ratio ^1.0	
+-0.58	2113 2015	ln(adeq_maxdist) ^1.0	deq_ratio ^1.0	
+0.58	1219 1119	exp(branchdensityII) ^-1.0	ln(branchdensityII) ^1.0	
+0.58	1119 1219	ln(branchdensityII) ^1.0	exp(branchdensityII) ^-1.0	
+-0.58	1016 1023	d2area_maxAr_percent ^1.0	branchdensityII_noend ^1.0	
+-0.58	1019 1024	branchdensityII ^1.0	diamratio_noend_peak ^1.0	
+-0.58	2111 2015	ln(adiam_mean) ^1.0	deq_ratio ^1.0	
+-0.58	1219 1224	exp(branchdensityII) ^1.0	exp(diamratio_noend_peak) ^1.0	
+-0.58	2008 2016	abranchdensityII ^1.0	ddeq_max ^1.0	
+-0.58	1216 1023	exp(d2area_maxAr_percent) ^1.0	branchdensityII_noend ^1.0	
+-0.58	2207 2215	exp(abranchdensity) ^-1.0	exp(deq_ratio) ^1.0	
+-0.58	1213 1215	exp(d2area_max) ^1.0	exp(d2area_maxAr_ratio) ^1.0	
+-0.58	2108 2015	ln(abranchdensityII) ^1.0	deq_ratio ^1.0	
+-0.57	1210 1018	exp(taper_mean) ^-1.0	branchdensity ^-1.0	
+-0.57	2008 2018	abranchdensityII ^1.0	ddeq_maxAr_ratio ^1.0	
+-0.57	1005 1023	rallratio_peak ^1.0	branchdensityII_noend ^1.0	
+-0.57	1208 1019	exp(sections_maxdist) ^-1.0	branchdensityII ^1.0	
+-0.57	2213 2015	exp(adeq_maxdist) ^1.0	deq_ratio ^1.0	
+-0.57	2208 2216	exp(abranchdensityII) ^1.0	exp(ddeq_max) ^1.0	
+-0.57	1212 1219	exp(dAdr_relmax) ^-1.0	exp(branchdensityII) ^1.0	
+-0.57	1214 1019	exp(d2area_maxdist) ^-1.0	branchdensityII ^1.0	
+-0.57	1115 2015	ln(d2area_maxAr_ratio) ^1.0	deq_ratio ^1.0	
+-0.57	2207 2008	exp(abranchdensity) ^-1.0	abranchdensityII ^1.0	
+-0.57	1019 1028	branchdensityII ^1.0	rallratio_noend_mean ^1.0	
+-0.57	2100 2015	ln(adarea_max) ^1.0	deq_ratio ^1.0	
+-0.57	1019 1020	branchdensityII ^1.0	diamratio_peak ^1.0	
+-0.57	1206 1219	exp(distance_max) ^-1.0	exp(branchdensityII) ^1.0	
+-0.57	1216 1018	exp(d2area_maxAr_percent) ^1.0	branchdensity ^-1.0	
+-0.57	1218 1019	exp(branchdensity) ^-1.0	branchdensityII ^1.0	
+-0.57	2112 2015	ln(adeq_max) ^1.0	deq_ratio ^1.0	
+-0.57	1219 1227	exp(branchdensityII) ^1.0	exp(rallratio_noend_peak) ^1.0	
+-0.57	2008 2216	abranchdensityII ^1.0	exp(ddeq_max) ^1.0	
+-0.57	2114 2015	ln(deq_relmax) ^1.0	deq_ratio ^1.0	
+-0.57	2214 2015	exp(deq_relmax) ^-1.0	deq_ratio ^1.0	
+-0.57	2212 2015	exp(adeq_max) ^-1.0	deq_ratio ^1.0	
+-0.57	1019 1127	branchdensityII ^1.0	ln(rallratio_noend_peak) ^1.0	
+-0.57	1218 1219	exp(branchdensity) ^-1.0	exp(branchdensityII) ^1.0	
+-0.57	1019 1224	branchdensityII ^1.0	exp(diamratio_noend_peak) ^1.0	
+-0.57	1105 1019	ln(rallratio_peak) ^1.0	branchdensityII ^1.0	
+-0.57	1013 1223	d2area_max ^1.0	exp(branchdensityII_noend) ^1.0	
+-0.57	1019 1025	branchdensityII ^1.0	diamratio_noend_mean ^1.0	
+-0.57	2002 2216	adistance_max ^-1.0	exp(ddeq_max) ^1.0	
+-0.57	1219 1124	exp(branchdensityII) ^1.0	ln(diamratio_noend_peak) ^1.0	
+-0.57	1104 2015	ln(rallratio_mean) ^1.0	deq_ratio ^1.0	
+-0.57	1013 1219	d2area_max ^1.0	exp(branchdensityII) ^1.0	
+-0.57	2008 2218	abranchdensityII ^1.0	exp(ddeq_maxAr_ratio) ^1.0	
+-0.57	2110 2015	ln(abranchdensityII_noend) ^1.0	deq_ratio ^1.0	
+-0.57	1019 1121	branchdensityII ^1.0	ln(diamratio_mean) ^1.0	
+-0.57	1204 1019	exp(rallratio_mean) ^1.0	branchdensityII ^1.0	
+-0.57	1019 1220	branchdensityII ^1.0	exp(diamratio_peak) ^1.0	
+-0.57	1100 2015	ln(darea_max) ^1.0	deq_ratio ^1.0	
+-0.57	1206 2215	exp(distance_max) ^-1.0	exp(deq_ratio) ^1.0	
+-0.57	1108 2015	ln(sections_maxdist) ^1.0	deq_ratio ^1.0	
+-0.57	1110 1015	ln(taper_mean) ^1.0	d2area_maxAr_ratio ^1.0	
+-0.57	1211 1215	exp(dAdr_ratio) ^1.0	exp(d2area_maxAr_ratio) ^1.0	
+-0.57	2215 2216	exp(deq_ratio) ^1.0	exp(ddeq_max) ^1.0	
+-0.57	2107 2010	ln(abranchdensity) ^-1.0	abranchdensityII_noend ^1.0	
+-0.57	1213 1023	exp(d2area_max) ^1.0	branchdensityII_noend ^1.0	
+-0.57	2213 2215	exp(adeq_maxdist) ^-1.0	exp(deq_ratio) ^1.0	
+-0.57	1110 1219	ln(taper_mean) ^1.0	exp(branchdensityII) ^1.0	
+-0.57	1112 2015	ln(dAdr_relmax) ^1.0	deq_ratio ^1.0	
+-0.57	1004 2215	rallratio_mean ^-1.0	exp(deq_ratio) ^1.0	
+-0.57	2200 2015	exp(adarea_max) ^-1.0	deq_ratio ^1.0	
+0.57	2215 2118	exp(deq_ratio) ^-1.0	ln(ddeq_maxAr_ratio) ^1.0	
+0.57	2105 2215	ln(asections_mean) ^1.0	exp(deq_ratio) ^-1.0	
+-0.57	2202 2215	exp(adistance_max) ^-1.0	exp(deq_ratio) ^1.0	
+-0.57	1206 2008	exp(distance_max) ^-1.0	abranchdensityII ^1.0	
+-0.57	1023 1227	branchdensityII_noend ^1.0	exp(rallratio_noend_peak) ^1.0	
+-0.57	2101 2015	ln(adarea_maxdist) ^1.0	deq_ratio ^1.0	
+-0.57	1209 2216	exp(sections_mean) ^-1.0	exp(ddeq_max) ^1.0	
+-0.57	1102 2015	ln(area_max) ^1.0	deq_ratio ^1.0	
+-0.57	1223 1224	exp(branchdensityII_noend) ^1.0	exp(diamratio_noend_peak) ^1.0	
+-0.57	1019 1225	branchdensityII ^1.0	exp(diamratio_noend_mean) ^1.0	
+-0.57	1107 2015	ln(sections_max) ^1.0	deq_ratio ^1.0	
+-0.57	1219 1127	exp(branchdensityII) ^1.0	ln(rallratio_noend_peak) ^1.0	
+-0.57	2015 2118	deq_ratio ^1.0	ln(ddeq_maxAr_ratio) ^1.0	
+-0.57	1219 1025	exp(branchdensityII) ^1.0	diamratio_noend_mean ^-1.0	
+-0.57	2103 2015	ln(asections_max) ^1.0	deq_ratio ^1.0	
+-0.57	1113 2015	ln(d2area_max) ^1.0	deq_ratio ^1.0	
+-0.57	1006 2107	distance_max ^-1.0	ln(abranchdensity) ^-1.0	
+-0.57	1019 1228	branchdensityII ^1.0	exp(rallratio_noend_mean) ^1.0	
+-0.57	1019 1125	branchdensityII ^1.0	ln(diamratio_noend_mean) ^1.0	
+-0.57	1208 1219	exp(sections_maxdist) ^-1.0	exp(branchdensityII) ^1.0	
+-0.57	1216 1219	exp(d2area_maxAr_percent) ^1.0	exp(branchdensityII) ^1.0	
+-0.56	1103 2015	ln(branchpoints_num) ^1.0	deq_ratio ^1.0	
+-0.56	1002 1013	area_max ^-1.0	d2area_max ^1.0	
+-0.56	1202 1013	exp(area_max) ^-1.0	d2area_max ^1.0	
+-0.56	1013 2015	d2area_max ^1.0	deq_ratio ^1.0	
+-0.56	1101 2015	ln(darea_maxdist) ^1.0	deq_ratio ^1.0	
+-0.56	2012 2015	adeq_max ^1.0	deq_ratio ^1.0	
+-0.56	2014 2015	deq_relmax ^1.0	deq_ratio ^1.0	
+-0.56	1205 1023	exp(rallratio_peak) ^1.0	branchdensityII_noend ^1.0	
+-0.56	1110 2215	ln(taper_mean) ^1.0	exp(deq_ratio) ^1.0	
+-0.56	1007 2008	sections_max ^1.0	abranchdensityII ^1.0	
+-0.56	1223 1227	exp(branchdensityII_noend) ^1.0	exp(rallratio_noend_peak) ^1.0	
+-0.56	1111 1019	ln(dAdr_ratio) ^1.0	branchdensityII ^1.0	
+-0.56	2109 2012	ln(abranchdensity_noend) ^-1.0	adeq_max ^1.0	
+-0.56	2109 2014	ln(abranchdensity_noend) ^-1.0	deq_relmax ^1.0	
+-0.56	1019 1124	branchdensityII ^1.0	ln(diamratio_noend_peak) ^1.0	
+-0.56	2105 2015	ln(asections_mean) ^1.0	deq_ratio ^1.0	
+-0.56	2015 2117	deq_ratio ^1.0	ln(ddeq_maxdist) ^1.0	
+-0.56	1220 1223	exp(diamratio_peak) ^-1.0	exp(branchdensityII_noend) ^1.0	
+-0.56	2207 2208	exp(abranchdensity) ^-1.0	exp(abranchdensityII) ^1.0	
+-0.56	1223 1226	exp(branchdensityII_noend) ^1.0	exp(mean_stem_dendrite_diam) ^-1.0	
+-0.56	1215 2016	exp(d2area_maxAr_ratio) ^1.0	ddeq_max ^1.0	
+-0.56	1105 1219	ln(rallratio_peak) ^1.0	exp(branchdensityII) ^1.0	
+-0.56	1115 1019	ln(d2area_maxAr_ratio) ^1.0	branchdensityII ^1.0	
+-0.56	1210 1219	exp(taper_mean) ^1.0	exp(branchdensityII) ^1.0	
+-0.56	1018 1024	branchdensity ^-1.0	diamratio_noend_peak ^1.0	
+-0.56	1223 1025	exp(branchdensityII_noend) ^1.0	diamratio_noend_mean ^-1.0	
+-0.56	1019 1128	branchdensityII ^1.0	ln(rallratio_noend_mean) ^1.0	
+-0.56	1006 1007	distance_max ^-1.0	sections_max ^1.0	
+-0.56	1110 1215	ln(taper_mean) ^1.0	exp(d2area_maxAr_ratio) ^1.0	
+-0.56	1205 1219	exp(rallratio_peak) ^1.0	exp(branchdensityII) ^1.0	
+-0.56	1213 2015	exp(d2area_max) ^1.0	deq_ratio ^1.0	
+-0.56	2206 2015	exp(ataper_mean) ^1.0	deq_ratio ^1.0	
+-0.56	1207 2008	exp(sections_max) ^1.0	abranchdensityII ^1.0	
+-0.56	1002 1012	area_max ^-1.0	dAdr_relmax ^1.0	
+-0.56	1207 2208	exp(sections_max) ^1.0	exp(abranchdensityII) ^1.0	
+-0.56	1008 1019	sections_maxdist ^-1.0	branchdensityII ^1.0	
+-0.56	1104 1019	ln(rallratio_mean) ^1.0	branchdensityII ^1.0	
+-0.56	1215 2216	exp(d2area_maxAr_ratio) ^1.0	exp(ddeq_max) ^1.0	
+-0.56	1019 1120	branchdensityII ^1.0	ln(diamratio_peak) ^1.0	
+-0.56	1105 2215	ln(rallratio_peak) ^1.0	exp(deq_ratio) ^1.0	
+-0.56	1207 2015	exp(sections_max) ^-1.0	deq_ratio ^1.0	
+-0.56	1217 1018	exp(diam_mean) ^1.0	branchdensity ^-1.0	
+-0.56	1019 1123	branchdensityII ^1.0	ln(branchdensityII_noend) ^1.0	
+0.56	1113 1219	ln(d2area_max) ^1.0	exp(branchdensityII) ^-1.0	
+-0.56	1006 2012	distance_max ^-1.0	adeq_max ^1.0	
+-0.56	1111 1219	ln(dAdr_ratio) ^1.0	exp(branchdensityII) ^1.0	
+-0.56	1011 1212	dAdr_ratio ^1.0	exp(dAdr_relmax) ^-1.0	
+-0.56	1201 1019	exp(darea_maxdist) ^-1.0	branchdensityII ^1.0	
+-0.56	1200 1011	exp(darea_max) ^-1.0	dAdr_ratio ^1.0	
+-0.56	1005 2008	rallratio_peak ^1.0	abranchdensityII ^1.0	
+-0.56	1007 1215	sections_max ^1.0	exp(d2area_maxAr_ratio) ^1.0	
+-0.56	1109 2015	ln(sections_mean) ^1.0	deq_ratio ^1.0	
+-0.56	1110 1023	ln(taper_mean) ^1.0	branchdensityII_noend ^1.0	
+-0.56	1006 2014	distance_max ^-1.0	deq_relmax ^1.0	
+-0.56	1023 1226	branchdensityII_noend ^1.0	exp(mean_stem_dendrite_diam) ^-1.0	
+-0.56	1206 1223	exp(distance_max) ^-1.0	exp(branchdensityII_noend) ^1.0	
+0.56	1109 2215	ln(sections_mean) ^1.0	exp(deq_ratio) ^-1.0	
+-0.56	2202 2008	exp(adistance_max) ^-1.0	abranchdensityII ^1.0	
+-0.56	2000 2015	adarea_max ^1.0	deq_ratio ^1.0	
+-0.56	1119 1019	ln(branchdensityII) ^1.0	branchdensityII ^1.0	
+-0.56	1019 1119	branchdensityII ^1.0	ln(branchdensityII) ^1.0	
+-0.56	1207 1215	exp(sections_max) ^1.0	exp(d2area_maxAr_ratio) ^1.0	
+-0.56	1206 2208	exp(distance_max) ^-1.0	exp(abranchdensityII) ^1.0	
+-0.56	2009 2012	abranchdensity_noend ^-1.0	adeq_max ^1.0	
+-0.56	1206 1023	exp(distance_max) ^-1.0	branchdensityII_noend ^1.0	
+-0.56	1000 2002	darea_max ^1.0	adistance_max ^-1.0	
+-0.56	2009 2014	abranchdensity_noend ^-1.0	deq_relmax ^1.0	
+-0.56	1205 2215	exp(rallratio_peak) ^1.0	exp(deq_ratio) ^1.0	
+-0.56	1205 2008	exp(rallratio_peak) ^1.0	abranchdensityII ^1.0	
+-0.56	2008 2115	abranchdensityII ^1.0	ln(deq_ratio) ^1.0	
+-0.56	1205 1011	exp(rallratio_peak) ^1.0	dAdr_ratio ^1.0	
+-0.56	2013 2015	adeq_maxdist ^1.0	deq_ratio ^1.0	
+-0.56	1108 1219	ln(sections_maxdist) ^1.0	exp(branchdensityII) ^1.0	
+-0.56	1011 1227	dAdr_ratio ^1.0	exp(rallratio_noend_peak) ^1.0	
+-0.56	1116 1019	ln(d2area_maxAr_percent) ^1.0	branchdensityII ^1.0	
+-0.56	1006 1207	distance_max ^-1.0	exp(sections_max) ^1.0	
+-0.56	2211 2215	exp(adiam_mean) ^1.0	exp(deq_ratio) ^1.0	
+-0.56	1219 1024	exp(branchdensityII) ^1.0	diamratio_noend_peak ^1.0	
+-0.55	1223 1124	exp(branchdensityII_noend) ^1.0	ln(diamratio_noend_peak) ^1.0	
+-0.55	1018 1020	branchdensity ^-1.0	diamratio_peak ^1.0	
+0.55	1103 2215	ln(branchpoints_num) ^1.0	exp(deq_ratio) ^-1.0	
+-0.55	1211 1219	exp(dAdr_ratio) ^1.0	exp(branchdensityII) ^1.0	
+-0.55	2002 2012	adistance_max ^-1.0	adeq_max ^1.0	
+-0.55	1100 1019	ln(darea_max) ^1.0	branchdensityII ^1.0	
+-0.55	1007 1019	sections_max ^1.0	branchdensityII ^1.0	
+-0.55	2002 2014	adistance_max ^-1.0	deq_relmax ^1.0	
+-0.55	1110 1223	ln(taper_mean) ^1.0	exp(branchdensityII_noend) ^1.0	
+-0.55	1216 1223	exp(d2area_maxAr_percent) ^1.0	exp(branchdensityII_noend) ^1.0	
+-0.55	1112 1019	ln(dAdr_relmax) ^1.0	branchdensityII ^1.0	
+-0.55	2008 2217	abranchdensityII ^1.0	exp(ddeq_maxdist) ^1.0	
+-0.55	1007 2015	sections_max ^1.0	deq_ratio ^1.0	
+-0.55	1023 1024	branchdensityII_noend ^1.0	diamratio_noend_peak ^1.0	
+-0.55	1208 2008	exp(sections_maxdist) ^-1.0	abranchdensityII ^1.0	
+-0.55	1108 1019	ln(sections_maxdist) ^1.0	branchdensityII ^1.0	
+-0.55	1200 1019	exp(darea_max) ^-1.0	branchdensityII ^1.0	
+-0.55	1212 1019	exp(dAdr_relmax) ^-1.0	branchdensityII ^1.0	
+-0.55	1207 1019	exp(sections_max) ^1.0	branchdensityII ^1.0	
+-0.55	1004 1219	rallratio_mean ^-1.0	exp(branchdensityII) ^1.0	
+-0.55	1113 1019	ln(d2area_max) ^1.0	branchdensityII ^1.0	
+-0.55	1011 1019	dAdr_ratio ^1.0	branchdensityII ^1.0	
+-0.55	1006 2212	distance_max ^-1.0	exp(adeq_max) ^1.0	
+-0.55	1006 2214	distance_max ^-1.0	exp(deq_relmax) ^1.0	
+-0.55	1111 2215	ln(dAdr_ratio) ^1.0	exp(deq_ratio) ^1.0	
+-0.55	1018 1224	branchdensity ^-1.0	exp(diamratio_noend_peak) ^1.0	
+-0.55	1004 2008	rallratio_mean ^1.0	abranchdensityII ^1.0	
+-0.55	1105 2008	ln(rallratio_peak) ^1.0	abranchdensityII ^1.0	
+-0.55	2008 2213	abranchdensityII ^1.0	exp(adeq_maxdist) ^1.0	
+-0.55	1107 1019	ln(sections_max) ^1.0	branchdensityII ^1.0	
+-0.55	1203 2215	exp(branchpoints_num) ^-1.0	exp(deq_ratio) ^1.0	
+-0.55	1021 1023	diamratio_mean ^1.0	branchdensityII_noend ^1.0	
+-0.55	1011 1023	dAdr_ratio ^1.0	branchdensityII_noend ^1.0	
+-0.55	1213 2215	exp(d2area_max) ^1.0	exp(deq_ratio) ^1.0	
+-0.55	1101 1019	ln(darea_maxdist) ^1.0	branchdensityII ^1.0	
+-0.55	2009 2010	abranchdensity_noend ^-1.0	abranchdensityII_noend ^1.0	
+-0.55	1222 1223	exp(branchdensity_noend) ^-1.0	exp(branchdensityII_noend) ^1.0	
+-0.55	1204 2008	exp(rallratio_mean) ^1.0	abranchdensityII ^1.0	
+-0.55	2002 2009	adistance_max ^-1.0	abranchdensity_noend ^-1.0	
+-0.55	1211 1019	exp(dAdr_ratio) ^1.0	branchdensityII ^1.0	
+-0.55	1207 1219	exp(sections_max) ^1.0	exp(branchdensityII) ^1.0	
+-0.55	1108 2215	ln(sections_maxdist) ^1.0	exp(deq_ratio) ^1.0	
+-0.55	1102 1019	ln(area_max) ^1.0	branchdensityII ^1.0	
+-0.55	1222 1023	exp(branchdensity_noend) ^-1.0	branchdensityII_noend ^1.0	
+0.55	1103 1219	ln(branchpoints_num) ^1.0	exp(branchdensityII) ^-1.0	
+-0.55	1223 1127	exp(branchdensityII_noend) ^1.0	ln(rallratio_noend_peak) ^1.0	
+-0.55	1202 1023	exp(area_max) ^-1.0	branchdensityII_noend ^1.0	
+-0.55	1202 2215	exp(area_max) ^-1.0	exp(deq_ratio) ^1.0	
+-0.55	1117 1019	ln(diam_mean) ^1.0	branchdensityII ^1.0	
+-0.55	2008 2117	abranchdensityII ^1.0	ln(ddeq_maxdist) ^1.0	
+-0.55	1103 1019	ln(branchpoints_num) ^1.0	branchdensityII ^1.0	
+-0.55	2000 2002	adarea_max ^1.0	adistance_max ^-1.0	
+-0.55	2111 2215	ln(adiam_mean) ^1.0	exp(deq_ratio) ^1.0	
+-0.55	1111 1223	ln(dAdr_ratio) ^1.0	exp(branchdensityII_noend) ^1.0	
+-0.55	1219 1121	exp(branchdensityII) ^1.0	ln(diamratio_mean) ^1.0	
+-0.55	1211 1223	exp(dAdr_ratio) ^1.0	exp(branchdensityII_noend) ^1.0	
+-0.55	1023 1224	branchdensityII_noend ^1.0	exp(diamratio_noend_peak) ^1.0	
+-0.55	1202 1219	exp(area_max) ^-1.0	exp(branchdensityII) ^1.0	
+-0.55	2212 2215	exp(adeq_max) ^1.0	exp(deq_ratio) ^1.0	
+-0.55	2202 2208	exp(adistance_max) ^-1.0	exp(abranchdensityII) ^1.0	
+-0.55	2214 2215	exp(deq_relmax) ^1.0	exp(deq_ratio) ^1.0	
+-0.55	2007 2010	abranchdensity ^-1.0	abranchdensityII_noend ^1.0	
+-0.55	1211 2215	exp(dAdr_ratio) ^-1.0	exp(deq_ratio) ^1.0	
+-0.55	1203 2008	exp(branchpoints_num) ^-1.0	abranchdensityII ^1.0	
+-0.55	2215 2217	exp(deq_ratio) ^1.0	exp(ddeq_maxdist) ^1.0	
+-0.55	1013 1014	d2area_max ^1.0	d2area_maxdist ^-1.0	
+-0.55	1020 1023	diamratio_peak ^1.0	branchdensityII_noend ^1.0	
+-0.55	1007 1023	sections_max ^1.0	branchdensityII_noend ^1.0	
+-0.55	1003 1015	branchpoints_num ^1.0	d2area_maxAr_ratio ^1.0	
+-0.55	1018 1220	branchdensity ^-1.0	exp(diamratio_peak) ^1.0	
+-0.55	2008 2113	abranchdensityII ^1.0	ln(adeq_maxdist) ^1.0	
+-0.55	2008 2212	abranchdensityII ^1.0	exp(adeq_max) ^1.0	
+-0.55	2008 2214	abranchdensityII ^1.0	exp(deq_relmax) ^1.0	
+-0.55	2008 2012	abranchdensityII ^1.0	adeq_max ^1.0	
+0.55	2110 2215	ln(abranchdensityII_noend) ^1.0	exp(deq_ratio) ^-1.0	
+-0.55	1020 1223	diamratio_peak ^-1.0	exp(branchdensityII_noend) ^1.0	
+-0.55	2008 2014	abranchdensityII ^1.0	deq_relmax ^1.0	
+-0.55	1018 2018	branchdensity ^-1.0	ddeq_maxAr_ratio ^1.0	
+-0.55	2201 2008	exp(adarea_maxdist) ^1.0	abranchdensityII ^1.0	
+-0.55	2100 2008	ln(adarea_max) ^1.0	abranchdensityII ^1.0	
+-0.55	1201 2215	exp(darea_maxdist) ^-1.0	exp(deq_ratio) ^1.0	
+-0.55	2008 2114	abranchdensityII ^1.0	ln(deq_relmax) ^1.0	
+-0.55	2008 2112	abranchdensityII ^1.0	ln(adeq_max) ^1.0	
+-0.55	1205 1223	exp(rallratio_peak) ^1.0	exp(branchdensityII_noend) ^1.0	
+-0.54	1223 1024	exp(branchdensityII_noend) ^1.0	diamratio_noend_peak ^1.0	
+-0.54	2008 2211	abranchdensityII ^1.0	exp(adiam_mean) ^1.0	
+-0.54	1206 1018	exp(distance_max) ^-1.0	branchdensity ^-1.0	
+-0.54	2208 2016	exp(abranchdensityII) ^1.0	ddeq_max ^1.0	
+-0.54	2201 2208	exp(adarea_maxdist) ^-1.0	exp(abranchdensityII) ^1.0	
+-0.54	1004 2208	rallratio_mean ^-1.0	exp(abranchdensityII) ^1.0	
+-0.54	2208 2212	exp(abranchdensityII) ^1.0	exp(adeq_max) ^1.0	
+-0.54	1018 1021	branchdensity ^-1.0	diamratio_mean ^1.0	
+-0.54	1011 1219	dAdr_ratio ^1.0	exp(branchdensityII) ^1.0	
+-0.54	2208 2214	exp(abranchdensityII) ^1.0	exp(deq_relmax) ^1.0	
+-0.54	1221 1023	exp(diamratio_mean) ^1.0	branchdensityII_noend ^1.0	
+-0.54	1004 1223	rallratio_mean ^-1.0	exp(branchdensityII_noend) ^1.0	
+-0.54	2008 2111	abranchdensityII ^1.0	ln(adiam_mean) ^1.0	
+-0.54	1207 1223	exp(sections_max) ^1.0	exp(branchdensityII_noend) ^1.0	
+-0.54	1201 2008	exp(darea_maxdist) ^1.0	abranchdensityII ^1.0	
+-0.54	2007 2012	abranchdensity ^-1.0	adeq_max ^1.0	
+-0.54	1109 1019	ln(sections_mean) ^1.0	branchdensityII ^1.0	
+-0.54	2007 2014	abranchdensity ^-1.0	deq_relmax ^1.0	
+-0.54	1023 1127	branchdensityII_noend ^1.0	ln(rallratio_noend_peak) ^1.0	
+-0.54	1220 1023	exp(diamratio_peak) ^1.0	branchdensityII_noend ^1.0	
+-0.54	1011 1223	dAdr_ratio ^1.0	exp(branchdensityII_noend) ^1.0	
+-0.54	2200 2215	exp(adarea_max) ^1.0	exp(deq_ratio) ^1.0	
+-0.54	1100 2008	ln(darea_max) ^1.0	abranchdensityII ^1.0	
+-0.54	1111 1023	ln(dAdr_ratio) ^1.0	branchdensityII_noend ^1.0	
+-0.54	2100 2215	ln(adarea_max) ^1.0	exp(deq_ratio) ^1.0	
+-0.54	2215 2016	exp(deq_ratio) ^1.0	ddeq_max ^1.0	
+-0.54	1019 1126	branchdensityII ^1.0	ln(mean_stem_dendrite_diam) ^1.0	
+-0.54	2108 2008	ln(abranchdensityII) ^1.0	abranchdensityII ^1.0	
+-0.54	2008 2108	abranchdensityII ^1.0	ln(abranchdensityII) ^1.0	
+-0.54	1219 1126	exp(branchdensityII) ^1.0	ln(mean_stem_dendrite_diam) ^1.0	
+0.54	1119 1223	ln(branchdensityII) ^1.0	exp(branchdensityII_noend) ^-1.0	
+-0.54	2008 2011	abranchdensityII ^1.0	adiam_mean ^1.0	
+-0.54	1214 1219	exp(d2area_maxdist) ^-1.0	exp(branchdensityII) ^1.0	
+-0.54	2002 2007	adistance_max ^-1.0	abranchdensity ^-1.0	
+-0.54	2206 2008	exp(ataper_mean) ^1.0	abranchdensityII ^1.0	
+-0.54	1111 1018	ln(dAdr_ratio) ^1.0	branchdensity ^-1.0	
+-0.54	2000 2008	adarea_max ^1.0	abranchdensityII ^1.0	
+-0.54	1023 1026	branchdensityII_noend ^1.0	mean_stem_dendrite_diam ^-1.0	
+-0.54	1208 1018	exp(sections_maxdist) ^-1.0	branchdensity ^-1.0	
+-0.54	1006 1211	distance_max ^-1.0	exp(dAdr_ratio) ^1.0	
+-0.54	1108 2008	ln(sections_maxdist) ^1.0	abranchdensityII ^1.0	
+-0.54	1105 1223	ln(rallratio_peak) ^1.0	exp(branchdensityII_noend) ^1.0	
+-0.54	2200 2008	exp(adarea_max) ^1.0	abranchdensityII ^1.0	
+-0.54	1214 1023	exp(d2area_maxdist) ^-1.0	branchdensityII_noend ^1.0	
+-0.54	1201 1219	exp(darea_maxdist) ^1.0	exp(branchdensityII) ^1.0	
+-0.54	1108 2208	ln(sections_maxdist) ^1.0	exp(abranchdensityII) ^1.0	
+-0.54	1200 2208	exp(darea_max) ^1.0	exp(abranchdensityII) ^1.0	
+-0.54	1218 1223	exp(branchdensity) ^-1.0	exp(branchdensityII_noend) ^1.0	
+-0.54	1013 2215	d2area_max ^1.0	exp(deq_ratio) ^1.0	
+-0.54	2112 2215	ln(adeq_max) ^1.0	exp(deq_ratio) ^1.0	
+-0.54	1207 1023	exp(sections_max) ^1.0	branchdensityII_noend ^1.0	
+-0.54	1018 1127	branchdensity ^-1.0	ln(rallratio_noend_peak) ^1.0	
+-0.54	1102 2008	ln(area_max) ^1.0	abranchdensityII ^1.0	
+-0.54	1105 1023	ln(rallratio_peak) ^1.0	branchdensityII_noend ^1.0	
+-0.54	1202 2216	exp(area_max) ^-1.0	exp(ddeq_max) ^1.0	
+-0.54	2002 2003	adistance_max ^-1.0	asections_max ^1.0	
+-0.54	2114 2215	ln(deq_relmax) ^1.0	exp(deq_ratio) ^1.0	
+-0.54	1219 1221	exp(branchdensityII) ^1.0	exp(diamratio_mean) ^-1.0	
+-0.54	2200 2208	exp(adarea_max) ^1.0	exp(abranchdensityII) ^1.0	
+0.54	2208 2110	exp(abranchdensityII) ^-1.0	ln(abranchdensityII_noend) ^1.0	
+-0.54	1200 2008	exp(darea_max) ^1.0	abranchdensityII ^1.0	
+-0.54	1102 1219	ln(area_max) ^1.0	exp(branchdensityII) ^1.0	
+-0.54	1015 2216	d2area_maxAr_ratio ^1.0	exp(ddeq_max) ^1.0	
+-0.54	1117 1219	ln(diam_mean) ^1.0	exp(branchdensityII) ^1.0	
+-0.54	1114 2015	ln(d2area_maxdist) ^1.0	deq_ratio ^1.0	
+
+
+
+Double correlation against nathreshold 3000   (act7)
+
+0.90	2200 2002	exp(adarea_max) ^1.9	adistance_max ^0.5	
+0.90	1006 2212	distance_max ^0.2	exp(adeq_max) ^0.7	
+0.89	1006 2216	distance_max ^0.2	exp(ddeq_max) ^0.6	
+0.87	1206 2214	exp(distance_max) ^0.5	exp(deq_relmax) ^0.7	
+0.87	1206 2212	exp(distance_max) ^0.5	exp(adeq_max) ^0.7	
+0.87	2002 2216	adistance_max ^0.3	exp(ddeq_max) ^0.8	
+0.87	1202 1214	exp(area_max) ^1.7	exp(d2area_maxdist) ^0.5	
+0.87	1202 2217	exp(area_max) ^1.5	exp(ddeq_maxdist) ^0.6	
+0.87	1202 1014	exp(area_max) ^2.1	d2area_maxdist ^0.3	
+0.87	1002 1217	area_max ^1.1	exp(diam_mean) ^0.9	
+0.87	1002 1022	area_max ^1.6	branchdensity_noend ^0.2	
+0.86	1002 2209	area_max ^1.5	exp(abranchdensity_noend) ^1.0	
+0.86	1202 2013	exp(area_max) ^1.8	adeq_maxdist ^-0.2	
+0.86	1202 1217	exp(area_max) ^1.6	exp(diam_mean) ^0.5	
+0.86	1202 2209	exp(area_max) ^2.2	exp(abranchdensity_noend) ^0.6	
+0.86	1202 1016	exp(area_max) ^2.0	d2area_maxAr_percent ^-0.2	
+0.86	1002 2206	area_max ^1.1	exp(ataper_mean) ^-0.7	
+0.86	1201 1202	exp(darea_maxdist) ^-0.5	exp(area_max) ^1.6	
+0.86	1206 2216	exp(distance_max) ^0.9	exp(ddeq_max) ^1.0	
+0.86	1202 1224	exp(area_max) ^1.7	exp(diamratio_noend_peak) ^-1.0	
+0.86	1202 2213	exp(area_max) ^2.1	exp(adeq_maxdist) ^-0.9	
+0.86	1002 1017	area_max ^1.2	diam_mean ^0.4	
+0.86	2214 2215	exp(deq_relmax) ^1.5	exp(deq_ratio) ^-1.0	
+0.86	1002 2213	area_max ^1.0	exp(adeq_maxdist) ^-1.0	
+0.86	2212 2215	exp(adeq_max) ^1.5	exp(deq_ratio) ^-1.0	
+0.86	1202 1114	exp(area_max) ^1.8	ln(d2area_maxdist) ^0.8	
+0.86	1202 2017	exp(area_max) ^2.1	ddeq_maxdist ^0.3	
+0.86	1101 1002	ln(darea_maxdist) ^-0.3	area_max ^1.4	
+0.86	1202 2206	exp(area_max) ^2.1	exp(ataper_mean) ^-0.3	
+0.86	1202 1017	exp(area_max) ^1.9	diam_mean ^0.3	
+0.86	1002 1210	area_max ^1.2	exp(taper_mean) ^-0.6	
+0.86	1202 1216	exp(area_max) ^2.4	exp(d2area_maxAr_percent) ^-0.5	
+0.86	1202 1020	exp(area_max) ^1.8	diamratio_peak ^-0.9	
+0.86	1002 1222	area_max ^1.6	exp(branchdensity_noend) ^1.0	
+0.86	1202 1220	exp(area_max) ^1.7	exp(diamratio_peak) ^-0.9	
+0.86	1202 1222	exp(area_max) ^2.3	exp(branchdensity_noend) ^0.6	
+0.85	1202 1004	exp(area_max) ^2.0	rallratio_mean ^-1.0	
+0.85	2200 2202	exp(adarea_max) ^1.2	exp(adistance_max) ^0.8	
+0.85	1202 1204	exp(area_max) ^1.6	exp(rallratio_mean) ^-1.0	
+0.85	1001 1002	darea_maxdist ^-0.4	area_max ^1.2	
+0.85	1202 1210	exp(area_max) ^1.7	exp(taper_mean) ^-0.3	
+0.85	1202 1117	exp(area_max) ^2.2	ln(diam_mean) ^1.2	
+0.85	1202 1021	exp(area_max) ^2.7	diamratio_mean ^0.4	
+0.85	1002 2207	area_max ^1.6	exp(abranchdensity) ^0.9	
+0.85	1202 1102	exp(area_max) ^2.0	ln(area_max) ^3.1	
+0.85	1102 1202	ln(area_max) ^3.6	exp(area_max) ^2.0	
+0.85	1202 1215	exp(area_max) ^2.3	exp(d2area_maxAr_ratio) ^-0.3	
+0.85	1002 2018	area_max ^1.3	ddeq_maxAr_ratio ^-0.3	
+0.85	1202 1024	exp(area_max) ^2.1	diamratio_noend_peak ^-0.4	
+0.85	1002 1024	area_max ^1.3	diamratio_noend_peak ^-1.1	
+0.85	1002 1224	area_max ^1.1	exp(diamratio_noend_peak) ^-1.6	
+0.85	1002 1117	area_max ^1.3	ln(diam_mean) ^2.4	
+0.85	1202 1221	exp(area_max) ^2.5	exp(diamratio_mean) ^0.4	
+0.85	1202 1211	exp(area_max) ^2.1	exp(dAdr_ratio) ^-0.3	
+0.85	1002 2211	area_max ^1.4	exp(adiam_mean) ^0.7	
+0.85	1202 2218	exp(area_max) ^2.0	exp(ddeq_maxAr_ratio) ^-0.3	
+0.85	1202 2214	exp(area_max) ^1.8	exp(deq_relmax) ^0.2	
+0.85	1202 1208	exp(area_max) ^2.1	exp(sections_maxdist) ^-0.3	
+0.85	1202 2212	exp(area_max) ^1.8	exp(adeq_max) ^0.2	
+0.85	2202 2214	exp(adistance_max) ^0.5	exp(deq_relmax) ^0.7	
+0.85	1002 1202	area_max ^0.3	exp(area_max) ^1.8	
+0.85	1002 2214	area_max ^1.1	exp(deq_relmax) ^0.5	
+0.85	1002 2212	area_max ^1.1	exp(adeq_max) ^0.5	
+0.85	2202 2212	exp(adistance_max) ^0.5	exp(adeq_max) ^0.7	
+0.85	1202 1227	exp(area_max) ^1.9	exp(rallratio_noend_peak) ^-0.2	
+0.85	1202 1002	exp(area_max) ^1.9	area_max ^0.3	
+0.85	1002 2218	area_max ^1.2	exp(ddeq_maxAr_ratio) ^-0.7	
+0.85	1202 2207	exp(area_max) ^2.4	exp(abranchdensity) ^0.5	
+0.85	1202 2114	exp(area_max) ^2.3	ln(deq_relmax) ^0.3	
+0.85	1202 2103	exp(area_max) ^2.1	ln(asections_max) ^3.3	
+0.85	1202 2211	exp(area_max) ^2.4	exp(adiam_mean) ^0.3	
+0.85	1106 2212	ln(distance_max) ^4.2	exp(adeq_max) ^2.3	
+0.85	1106 2214	ln(distance_max) ^4.1	exp(deq_relmax) ^2.3	
+0.85	1202 1228	exp(area_max) ^1.9	exp(rallratio_noend_mean) ^-0.7	
+0.85	1002 1020	area_max ^1.2	diamratio_peak ^-1.1	
+0.85	1002 2013	area_max ^1.1	adeq_maxdist ^-0.4	
+0.85	1002 2203	area_max ^1.1	exp(asections_max) ^0.4	
+0.85	1202 1103	exp(area_max) ^2.2	ln(branchpoints_num) ^3.8	
+0.85	1002 2205	area_max ^1.1	exp(asections_mean) ^0.4	
+0.85	1002 2217	area_max ^1.2	exp(ddeq_maxdist) ^1.0	
+0.85	1202 1202	exp(area_max) ^0.9	exp(area_max) ^1.0	
+0.85	1002 2216	area_max ^1.2	exp(ddeq_max) ^0.3	
+0.85	1002 1220	area_max ^1.2	exp(diamratio_peak) ^-1.2	
+0.85	1002 1118	area_max ^1.6	ln(branchdensity) ^3.4	
+0.85	1002 1216	area_max ^1.3	exp(d2area_maxAr_percent) ^-0.6	
+0.84	1002 2011	area_max ^1.5	adiam_mean ^0.4	
+0.84	1202 1107	exp(area_max) ^2.2	ln(sections_max) ^3.2	
+0.84	1002 2116	area_max ^1.1	ln(ddeq_max) ^0.3	
+0.84	1002 1008	area_max ^1.3	sections_maxdist ^-0.4	
+0.84	1002 1214	area_max ^1.4	exp(d2area_maxdist) ^0.6	
+0.84	1002 2012	area_max ^1.3	adeq_max ^0.2	
+0.84	1002 2014	area_max ^1.3	deq_relmax ^0.2	
+0.84	1002 1122	area_max ^1.7	ln(branchdensity_noend) ^4.3	
+0.84	1002 1119	area_max ^1.3	ln(branchdensityII) ^0.9	
+0.84	1002 1114	area_max ^1.1	ln(d2area_maxdist) ^0.9	
+0.84	1206 1209	exp(distance_max) ^0.3	exp(sections_mean) ^0.5	
+0.84	1002 1207	area_max ^1.2	exp(sections_max) ^0.3	
+0.84	1002 1123	area_max ^1.3	ln(branchdensityII_noend) ^0.8	
+0.84	1002 1004	area_max ^1.3	rallratio_mean ^-0.9	
+0.84	1002 1103	area_max ^1.0	ln(branchpoints_num) ^4.0	
+0.84	1002 1218	area_max ^1.6	exp(branchdensity) ^0.8	
+0.84	1002 2210	area_max ^1.3	exp(abranchdensityII_noend) ^0.3	
+0.84	1002 2103	area_max ^1.1	ln(asections_max) ^3.9	
+0.84	1002 2114	area_max ^1.3	ln(deq_relmax) ^2.8	
+0.84	1002 2112	area_max ^1.3	ln(adeq_max) ^2.8	
+0.84	1002 1215	area_max ^1.3	exp(d2area_maxAr_ratio) ^-0.4	
+0.84	1002 1204	area_max ^1.3	exp(rallratio_mean) ^-1.4	
+0.84	1002 1211	area_max ^1.4	exp(dAdr_ratio) ^-0.3	
+0.84	1211 1212	exp(dAdr_ratio) ^-0.5	exp(dAdr_relmax) ^0.5	
+0.84	1002 1208	area_max ^1.6	exp(sections_maxdist) ^-0.8	
+0.84	1201 1002	exp(darea_maxdist) ^-0.3	area_max ^1.3	
+0.84	1002 2110	area_max ^1.5	ln(abranchdensityII_noend) ^0.8	
+0.84	1002 1209	area_max ^1.2	exp(sections_mean) ^0.3	
+0.84	1002 1016	area_max ^1.4	d2area_maxAr_percent ^-0.2	
+0.84	1002 1227	area_max ^1.3	exp(rallratio_noend_peak) ^-0.4	
+0.84	1002 2115	area_max ^1.4	ln(deq_ratio) ^0.2	
+0.84	1002 2202	area_max ^1.3	exp(adistance_max) ^-0.2	
+0.84	1002 1121	area_max ^1.4	ln(diamratio_mean) ^0.7	
+0.84	1206 2014	exp(distance_max) ^1.9	deq_relmax ^1.3	
+0.84	1002 1027	area_max ^1.3	rallratio_noend_peak ^-0.3	
+0.84	1002 1205	area_max ^1.3	exp(rallratio_peak) ^-0.3	
+0.84	1206 2012	exp(distance_max) ^1.9	adeq_max ^1.3	
+0.84	1002 1005	area_max ^1.3	rallratio_peak ^-0.3	
+0.84	1002 1107	area_max ^1.3	ln(sections_max) ^2.0	
+0.84	1100 1002	ln(darea_max) ^0.6	area_max ^1.3	
+0.84	1002 1025	area_max ^1.3	diamratio_noend_mean ^-0.2	
+0.84	1002 1102	area_max ^1.3	ln(area_max) ^0.4	
+0.84	1002 1225	area_max ^1.4	exp(diamratio_noend_mean) ^-0.2	
+0.84	1002 1112	area_max ^1.4	ln(dAdr_relmax) ^0.3	
+0.84	1102 1002	ln(area_max) ^0.3	area_max ^1.4	
+0.84	1002 2105	area_max ^1.3	ln(asections_mean) ^1.4	
+0.84	1002 2017	area_max ^0.9	ddeq_maxdist ^0.2	
+0.84	2000 2002	adarea_max ^1.1	adistance_max ^0.9	
+0.83	1202 1122	exp(area_max) ^2.9	ln(branchdensity_noend) ^4.5	
+0.83	1002 2111	area_max ^1.9	ln(adiam_mean) ^2.3	
+0.83	2208 2212	exp(abranchdensityII) ^-0.5	exp(adeq_max) ^0.7	
+0.83	1202 2105	exp(area_max) ^2.6	ln(asections_mean) ^3.3	
+0.83	2208 2214	exp(abranchdensityII) ^-0.5	exp(deq_relmax) ^0.7	
+0.83	1106 2216	ln(distance_max) ^4.8	exp(ddeq_max) ^1.8	
+0.83	1106 2014	ln(distance_max) ^3.4	deq_relmax ^1.1	
+0.83	1106 2012	ln(distance_max) ^3.4	adeq_max ^1.1	
+0.83	2202 2205	exp(adistance_max) ^0.5	exp(asections_mean) ^0.7	
+0.83	1006 2014	distance_max ^0.5	deq_relmax ^0.8	
+0.83	1006 2012	distance_max ^0.5	adeq_max ^0.7	
+0.83	1202 1109	exp(area_max) ^2.9	ln(sections_mean) ^2.9	
+0.83	1202 1113	exp(area_max) ^2.9	ln(d2area_max) ^3.1	
+0.82	2200 2208	exp(adarea_max) ^1.4	exp(abranchdensityII) ^-1.1	
+0.82	2200 2215	exp(adarea_max) ^1.4	exp(deq_ratio) ^-1.0	
+0.82	2202 2216	exp(adistance_max) ^0.8	exp(ddeq_max) ^0.9	
+0.82	1003 1106	branchpoints_num ^1.0	ln(distance_max) ^4.1	
+0.82	2200 2102	exp(adarea_max) ^2.3	ln(adistance_max) ^4.4	
+0.82	2002 2012	adistance_max ^0.3	adeq_max ^0.6	
+0.81	1206 1207	exp(distance_max) ^0.5	exp(sections_max) ^0.8	
+0.81	1114 2014	ln(d2area_maxdist) ^2.9	deq_relmax ^0.7	
+0.81	2002 2014	adistance_max ^0.3	deq_relmax ^0.6	
+0.81	2202 2014	exp(adistance_max) ^1.4	deq_relmax ^1.1	
+0.81	1007 1118	sections_max ^1.0	ln(branchdensity) ^3.0	
+0.81	1213 2214	exp(d2area_max) ^-0.3	exp(deq_relmax) ^0.5	
+0.81	2202 2012	exp(adistance_max) ^1.4	adeq_max ^1.1	
+0.81	1209 1211	exp(sections_mean) ^1.9	exp(dAdr_ratio) ^-1.2	
+0.81	1003 1006	branchpoints_num ^0.9	distance_max ^0.7	
+0.81	2000 2202	adarea_max ^0.5	exp(adistance_max) ^1.0	
+0.80	1211 2214	exp(dAdr_ratio) ^-0.5	exp(deq_relmax) ^0.7	
+0.80	1211 2212	exp(dAdr_ratio) ^-0.5	exp(adeq_max) ^0.7	
+0.80	1203 1006	exp(branchpoints_num) ^1.8	distance_max ^0.6	
+0.80	1003 1206	branchpoints_num ^0.5	exp(distance_max) ^0.6	
+
+
+
+Double correlation against nathreshold 3000   (act7)
+
+0.87	1002 1217	area_max ^1.0	exp(diam_mean) ^1.0	
+0.86	1206 2216	exp(distance_max) ^1.0	exp(ddeq_max) ^1.0	
+0.86	1002 2213	area_max ^1.0	exp(adeq_maxdist) ^-1.0	
+0.85	1002 2206	area_max ^1.0	exp(ataper_mean) ^-1.0	
+0.85	1002 1024	area_max ^1.0	diamratio_noend_peak ^-1.0	
+0.85	1002 1224	area_max ^1.0	exp(diamratio_noend_peak) ^-1.0	
+0.85	1002 1020	area_max ^1.0	diamratio_peak ^-1.0	
+0.85	1202 1202	exp(area_max) ^1.0	exp(area_max) ^1.0	
+0.85	1002 1220	area_max ^1.0	exp(diamratio_peak) ^-1.0	
+0.84	1002 1210	area_max ^1.0	exp(taper_mean) ^-1.0	
+0.84	1002 2218	area_max ^1.0	exp(ddeq_maxAr_ratio) ^-1.0	
+0.84	1202 1002	exp(area_max) ^1.0	area_max ^1.0	
+0.84	1002 1202	area_max ^1.0	exp(area_max) ^1.0	
+0.84	1002 2217	area_max ^1.0	exp(ddeq_maxdist) ^1.0	
+0.84	1002 1117	area_max ^1.0	ln(diam_mean) ^1.0	
+0.84	1002 2209	area_max ^1.0	exp(abranchdensity_noend) ^1.0	
+0.84	1202 1204	exp(area_max) ^1.0	exp(rallratio_mean) ^-1.0	
+0.84	1206 2206	exp(distance_max) ^1.0	exp(ataper_mean) ^-1.0	
+0.84	1002 1114	area_max ^1.0	ln(d2area_maxdist) ^1.0	
+0.84	1002 2211	area_max ^1.0	exp(adiam_mean) ^1.0	
+-0.84	2200 2202	exp(adarea_max) ^-1.0	exp(adistance_max) ^-1.0	
+0.84	1002 2214	area_max ^1.0	exp(deq_relmax) ^1.0	
+0.84	1002 2212	area_max ^1.0	exp(adeq_max) ^1.0	
+0.84	1002 1004	area_max ^1.0	rallratio_mean ^-1.0	
+0.84	1002 1123	area_max ^1.0	ln(branchdensityII_noend) ^1.0	
+0.84	1202 1217	exp(area_max) ^1.0	exp(diam_mean) ^1.0	
+0.84	1002 1204	area_max ^1.0	exp(rallratio_mean) ^-1.0	
+0.84	1002 1119	area_max ^1.0	ln(branchdensityII) ^1.0	
+0.84	1002 1017	area_max ^1.0	diam_mean ^1.0	
+-0.84	1203 1211	exp(branchpoints_num) ^-1.0	exp(dAdr_ratio) ^1.0	
+-0.84	2202 2216	exp(adistance_max) ^-1.0	exp(ddeq_max) ^-1.0	
+0.84	1202 1224	exp(area_max) ^1.0	exp(diamratio_noend_peak) ^-1.0	
+0.84	1002 2114	area_max ^1.0	ln(deq_relmax) ^1.0	
+0.84	1002 2112	area_max ^1.0	ln(adeq_max) ^1.0	
+0.84	1202 1220	exp(area_max) ^1.0	exp(diamratio_peak) ^-1.0	
+0.84	1002 1103	area_max ^1.0	ln(branchpoints_num) ^1.0	
+0.83	1102 1002	ln(area_max) ^1.0	area_max ^1.0	
+0.83	1002 1102	area_max ^1.0	ln(area_max) ^1.0	
+0.83	1002 2103	area_max ^1.0	ln(asections_max) ^1.0	
+0.83	1002 1121	area_max ^1.0	ln(diamratio_mean) ^1.0	
+0.83	1100 1002	ln(darea_max) ^1.0	area_max ^1.0	
+0.83	1002 1227	area_max ^1.0	exp(rallratio_noend_peak) ^-1.0	
+0.83	1002 1208	area_max ^1.0	exp(sections_maxdist) ^-1.0	
+0.83	1002 1112	area_max ^1.0	ln(dAdr_relmax) ^1.0	
+0.83	1002 1107	area_max ^1.0	ln(sections_max) ^1.0	
+0.83	1002 1225	area_max ^1.0	exp(diamratio_noend_mean) ^-1.0	
+0.83	1002 2205	area_max ^1.0	exp(asections_mean) ^1.0	
+0.83	1002 1228	area_max ^1.0	exp(rallratio_noend_mean) ^-1.0	
+0.83	1002 2110	area_max ^1.0	ln(abranchdensityII_noend) ^1.0	
+0.83	1002 2013	area_max ^1.0	adeq_maxdist ^-1.0	
+0.83	1002 1002	area_max ^1.0	area_max ^1.0	
+0.83	1002 2203	area_max ^1.0	exp(asections_max) ^1.0	
+0.83	1002 2105	area_max ^1.0	ln(asections_mean) ^1.0	
+0.83	1002 1126	area_max ^1.0	ln(mean_stem_dendrite_diam) ^1.0	
+0.83	1206 2212	exp(distance_max) ^1.0	exp(adeq_max) ^1.0	
+0.83	1206 2214	exp(distance_max) ^1.0	exp(deq_relmax) ^1.0	
+0.83	1201 1002	exp(darea_maxdist) ^-1.0	area_max ^1.0	
+0.83	1002 1118	area_max ^1.0	ln(branchdensity) ^1.0	
+0.83	1002 1025	area_max ^1.0	diamratio_noend_mean ^-1.0	
+0.83	1207 1211	exp(sections_max) ^1.0	exp(dAdr_ratio) ^-1.0	
+0.83	1002 2115	area_max ^1.0	ln(deq_ratio) ^1.0	
+0.83	1002 1108	area_max ^1.0	ln(sections_maxdist) ^1.0	
+0.83	1002 1127	area_max ^1.0	ln(rallratio_noend_peak) ^1.0	
+0.83	1002 1205	area_max ^1.0	exp(rallratio_peak) ^-1.0	
+0.83	1002 1124	area_max ^1.0	ln(diamratio_noend_peak) ^1.0	
+0.83	1200 1211	exp(darea_max) ^1.0	exp(dAdr_ratio) ^-1.0	
+0.83	1002 1113	area_max ^1.0	ln(d2area_max) ^1.0	
+0.83	1202 1102	exp(area_max) ^1.0	ln(area_max) ^1.0	
+0.83	1102 1202	ln(area_max) ^1.0	exp(area_max) ^1.0	
+0.83	1211 1212	exp(dAdr_ratio) ^-1.0	exp(dAdr_relmax) ^1.0	
+0.83	1002 1216	area_max ^1.0	exp(d2area_maxAr_percent) ^-1.0	
+0.83	1002 1109	area_max ^1.0	ln(sections_mean) ^1.0	
+0.83	1202 1114	exp(area_max) ^1.0	ln(d2area_maxdist) ^1.0	
+0.82	1002 1215	area_max ^1.0	exp(d2area_maxAr_ratio) ^-1.0	
+0.82	1002 1105	area_max ^1.0	ln(rallratio_peak) ^1.0	
+0.82	1002 1111	area_max ^1.0	ln(dAdr_ratio) ^1.0	
+-0.82	2202 2212	exp(adistance_max) ^-1.0	exp(adeq_max) ^-1.0	
+-0.82	2202 2214	exp(adistance_max) ^-1.0	exp(deq_relmax) ^-1.0	
+0.82	1202 1225	exp(area_max) ^1.0	exp(diamratio_noend_mean) ^-1.0	
+0.82	2003 2215	asections_max ^1.0	exp(deq_ratio) ^-1.0	
+0.82	1002 1207	area_max ^1.0	exp(sections_max) ^1.0	
+0.82	1202 1228	exp(area_max) ^1.0	exp(rallratio_noend_mean) ^-1.0	
+0.82	1002 2118	area_max ^1.0	ln(ddeq_maxAr_ratio) ^1.0	
+0.82	1002 1028	area_max ^1.0	rallratio_noend_mean ^-1.0	
+0.82	1002 1122	area_max ^1.0	ln(branchdensity_noend) ^1.0	
+0.82	1002 1209	area_max ^1.0	exp(sections_mean) ^1.0	
+0.82	1002 1214	area_max ^1.0	exp(d2area_maxdist) ^1.0	
+-0.82	1206 1209	exp(distance_max) ^-1.0	exp(sections_mean) ^-1.0	
+0.82	1002 1128	area_max ^1.0	ln(rallratio_noend_mean) ^1.0	
+0.82	1002 1218	area_max ^1.0	exp(branchdensity) ^-1.0	
+0.82	1002 1027	area_max ^1.0	rallratio_noend_peak ^-1.0	
+0.82	1202 2114	exp(area_max) ^1.0	ln(deq_relmax) ^1.0	
+0.82	1002 2207	area_max ^1.0	exp(abranchdensity) ^1.0	
+0.82	1206 2014	exp(distance_max) ^1.0	deq_relmax ^1.0	
+0.82	1202 2112	exp(area_max) ^1.0	ln(adeq_max) ^1.0	
+0.82	1002 1120	area_max ^1.0	ln(diamratio_peak) ^1.0	
+0.82	1206 2012	exp(distance_max) ^1.0	adeq_max ^1.0	
+0.82	1002 1222	area_max ^1.0	exp(branchdensity_noend) ^1.0	
+0.82	1007 1211	sections_max ^1.0	exp(dAdr_ratio) ^-1.0	
+-0.82	1206 1210	exp(distance_max) ^-1.0	exp(taper_mean) ^1.0	
+0.82	1002 1116	area_max ^1.0	ln(d2area_maxAr_percent) ^1.0	
+0.82	1100 1202	ln(darea_max) ^1.0	exp(area_max) ^1.0	
+0.82	1202 1020	exp(area_max) ^1.0	diamratio_peak ^-1.0	
+0.82	1002 1115	area_max ^1.0	ln(d2area_maxAr_ratio) ^1.0	
+0.82	1202 2214	exp(area_max) ^1.0	exp(deq_relmax) ^1.0	
+0.82	1002 1005	area_max ^1.0	rallratio_peak ^-1.0	
+0.82	1002 1104	area_max ^1.0	ln(rallratio_mean) ^1.0	
+0.82	1202 2212	exp(area_max) ^1.0	exp(adeq_max) ^1.0	
+0.82	1002 2216	area_max ^1.0	exp(ddeq_max) ^1.0	
+-0.81	1202 1203	exp(area_max) ^-1.0	exp(branchpoints_num) ^-1.0	
+0.81	1101 1002	ln(darea_maxdist) ^1.0	area_max ^1.0	
+-0.81	2202 2205	exp(adistance_max) ^-1.0	exp(asections_mean) ^-1.0	
+0.81	1002 2111	area_max ^1.0	ln(adiam_mean) ^1.0	
+0.81	1202 1117	exp(area_max) ^1.0	ln(diam_mean) ^1.0	
+0.81	1002 2113	area_max ^1.0	ln(adeq_maxdist) ^1.0	
+0.81	1003 2215	branchpoints_num ^1.0	exp(deq_ratio) ^-1.0	
+0.81	1002 1221	area_max ^1.0	exp(diamratio_mean) ^1.0	
+0.81	2014 2215	deq_relmax ^1.0	exp(deq_ratio) ^-1.0	
+0.81	2012 2215	adeq_max ^1.0	exp(deq_ratio) ^-1.0	
+0.81	2000 2002	adarea_max ^1.0	adistance_max ^1.0	
+0.81	1202 2203	exp(area_max) ^1.0	exp(asections_max) ^1.0	
+-0.81	2202 2206	exp(adistance_max) ^-1.0	exp(ataper_mean) ^1.0	
+0.81	1202 1112	exp(area_max) ^1.0	ln(dAdr_relmax) ^1.0	
+0.81	1002 2210	area_max ^1.0	exp(abranchdensityII_noend) ^1.0	
+0.81	1002 1211	area_max ^1.0	exp(dAdr_ratio) ^-1.0	
+0.81	1002 2202	area_max ^1.0	exp(adistance_max) ^-1.0	
+0.81	1002 2117	area_max ^1.0	ln(ddeq_maxdist) ^1.0	
+0.81	1002 2011	area_max ^1.0	adiam_mean ^1.0	
+0.81	1002 1125	area_max ^1.0	ln(diamratio_noend_mean) ^1.0	
+-0.80	1202 2217	exp(area_max) ^-1.0	exp(ddeq_maxdist) ^-1.0	
+0.80	1202 2205	exp(area_max) ^1.0	exp(asections_mean) ^1.0	
+0.80	1202 2213	exp(area_max) ^1.0	exp(adeq_maxdist) ^-1.0	
+0.80	1003 1213	branchpoints_num ^1.0	exp(d2area_max) ^-1.0	
+0.80	1003 1211	branchpoints_num ^1.0	exp(dAdr_ratio) ^-1.0	
+0.80	1007 2215	sections_max ^1.0	exp(deq_ratio) ^-1.0	
+0.80	2202 2014	exp(adistance_max) ^1.0	deq_relmax ^1.0	
+0.80	2000 2215	adarea_max ^1.0	exp(deq_ratio) ^-1.0	
+0.80	2202 2012	exp(adistance_max) ^1.0	adeq_max ^1.0	
+-0.80	1202 1207	exp(area_max) ^-1.0	exp(sections_max) ^-1.0	
+-0.80	1203 1206	exp(branchpoints_num) ^-1.0	exp(distance_max) ^-1.0	
+0.80	1213 2014	exp(d2area_max) ^-1.0	deq_relmax ^1.0	
+-0.80	2202 2203	exp(adistance_max) ^-1.0	exp(asections_max) ^-1.0	
+-0.80	1206 1207	exp(distance_max) ^-1.0	exp(sections_max) ^-1.0	
+0.80	1007 1213	sections_max ^1.0	exp(d2area_max) ^-1.0	
+0.80	1002 1106	area_max ^1.0	ln(distance_max) ^1.0	
+0.80	1202 1108	exp(area_max) ^1.0	ln(sections_maxdist) ^1.0	
+0.80	1211 2014	exp(dAdr_ratio) ^-1.0	deq_relmax ^1.0	
+0.80	1002 1203	area_max ^1.0	exp(branchpoints_num) ^1.0	
+0.80	1003 1219	branchpoints_num ^1.0	exp(branchdensityII) ^-1.0	
+-0.80	1202 2202	exp(area_max) ^-1.0	exp(adistance_max) ^-1.0	
+0.80	1211 2012	exp(dAdr_ratio) ^-1.0	adeq_max ^1.0	
+0.80	1002 1021	area_max ^1.0	diamratio_mean ^1.0	
+0.80	1202 1209	exp(area_max) ^1.0	exp(sections_mean) ^1.0	
+0.80	1202 2206	exp(area_max) ^1.0	exp(ataper_mean) ^-1.0	
+-0.79	1200 1202	exp(darea_max) ^-1.0	exp(area_max) ^-1.0	
+0.79	1200 2003	exp(darea_max) ^-1.0	asections_max ^1.0	
+0.79	2208 2014	exp(abranchdensityII) ^-1.0	deq_relmax ^1.0	
+0.79	1002 1206	area_max ^1.0	exp(distance_max) ^-1.0	
+-0.79	1202 1212	exp(area_max) ^-1.0	exp(dAdr_relmax) ^-1.0	
+0.79	2208 2012	exp(abranchdensityII) ^-1.0	adeq_max ^1.0	
+0.79	1202 1121	exp(area_max) ^1.0	ln(diamratio_mean) ^1.0	
+0.79	2003 2208	asections_max ^1.0	exp(abranchdensityII) ^-1.0	
+0.79	1202 1004	exp(area_max) ^1.0	rallratio_mean ^-1.0	
+0.79	1002 1223	area_max ^1.0	exp(branchdensityII_noend) ^1.0	
+0.79	1202 1210	exp(area_max) ^1.0	exp(taper_mean) ^-1.0	
+0.79	1002 1226	area_max ^1.0	exp(mean_stem_dendrite_diam) ^-1.0	
+0.79	1202 1017	exp(area_max) ^1.0	diam_mean ^1.0	
+-0.79	1202 1206	exp(area_max) ^-1.0	exp(distance_max) ^-1.0	
+0.79	1002 1008	area_max ^1.0	sections_maxdist ^-1.0	
+0.79	1007 1118	sections_max ^1.0	ln(branchdensity) ^1.0	
+0.79	1202 1025	exp(area_max) ^1.0	diamratio_noend_mean ^-1.0	
+0.79	1201 1202	exp(darea_maxdist) ^-1.0	exp(area_max) ^1.0	
+0.79	1002 2014	area_max ^1.0	deq_relmax ^1.0	
+0.79	1202 2103	exp(area_max) ^1.0	ln(asections_max) ^1.0	
+0.79	1002 2012	area_max ^1.0	adeq_max ^1.0	
+0.79	2003 2210	asections_max ^1.0	exp(abranchdensityII_noend) ^-1.0	
+0.79	2200 2208	exp(adarea_max) ^1.0	exp(abranchdensityII) ^-1.0	
+0.79	1211 2214	exp(dAdr_ratio) ^-1.0	exp(deq_relmax) ^1.0	
+0.79	1202 1124	exp(area_max) ^1.0	ln(diamratio_noend_peak) ^1.0	
+0.79	1002 2208	area_max ^1.0	exp(abranchdensityII) ^1.0	
+0.79	1211 2212	exp(dAdr_ratio) ^-1.0	exp(adeq_max) ^1.0	
+0.79	1002 2102	area_max ^1.0	ln(adistance_max) ^1.0	
+0.78	1002 2003	area_max ^1.0	asections_max ^1.0	
+0.78	1202 1103	exp(area_max) ^1.0	ln(branchpoints_num) ^1.0	
+0.78	1006 2014	distance_max ^1.0	deq_relmax ^1.0	
+0.78	1009 1211	sections_mean ^1.0	exp(dAdr_ratio) ^-1.0	
+0.78	2005 2215	asections_mean ^1.0	exp(deq_ratio) ^-1.0	
+0.78	1006 2012	distance_max ^1.0	adeq_max ^1.0	
+0.78	2000 2208	adarea_max ^1.0	exp(abranchdensityII) ^-1.0	
+0.78	1007 1223	sections_max ^1.0	exp(branchdensityII_noend) ^-1.0	
+-0.78	1202 1219	exp(area_max) ^-1.0	exp(branchdensityII) ^-1.0	
+0.78	1003 1006	branchpoints_num ^1.0	distance_max ^1.0	
+0.78	1002 2116	area_max ^1.0	ln(ddeq_max) ^1.0	
+0.78	1002 1213	area_max ^1.0	exp(d2area_max) ^-1.0	
+0.78	1007 1219	sections_max ^1.0	exp(branchdensityII) ^-1.0	
+-0.78	1202 2216	exp(area_max) ^-1.0	exp(ddeq_max) ^-1.0	
+0.78	1202 1123	exp(area_max) ^1.0	ln(branchdensityII_noend) ^1.0	
+0.78	1206 1007	exp(distance_max) ^1.0	sections_max ^1.0	
+0.78	1202 1127	exp(area_max) ^1.0	ln(rallratio_noend_peak) ^1.0	
+0.78	1202 2003	exp(area_max) ^1.0	asections_max ^1.0	
+0.78	1006 2016	distance_max ^1.0	ddeq_max ^1.0	
+0.78	2210 2012	exp(abranchdensityII_noend) ^-1.0	adeq_max ^1.0	
+0.78	2210 2014	exp(abranchdensityII_noend) ^-1.0	deq_relmax ^1.0	
+0.78	1002 1009	area_max ^1.0	sections_mean ^1.0	
+0.78	1202 1107	exp(area_max) ^1.0	ln(sections_max) ^1.0	
+0.78	1202 1218	exp(area_max) ^1.0	exp(branchdensity) ^-1.0	
+0.78	1003 1223	branchpoints_num ^1.0	exp(branchdensityII_noend) ^-1.0	
+-0.78	1202 2108	exp(area_max) ^-1.0	ln(abranchdensityII) ^1.0	
+0.78	1106 2014	ln(distance_max) ^1.0	deq_relmax ^1.0	
+0.78	1002 1007	area_max ^1.0	sections_max ^1.0	
+-0.78	1202 1213	exp(area_max) ^-1.0	exp(d2area_max) ^-1.0	
+0.78	1106 2012	ln(distance_max) ^1.0	adeq_max ^1.0	
+-0.78	1003 2103	branchpoints_num ^-1.0	ln(asections_max) ^1.0	
+0.78	2215 2216	exp(deq_ratio) ^-1.0	exp(ddeq_max) ^1.0	
+0.78	2202 2005	exp(adistance_max) ^1.0	asections_mean ^1.0	
+0.77	2003 2209	asections_max ^1.0	exp(abranchdensity_noend) ^1.0	
+0.77	1002 2005	area_max ^1.0	asections_mean ^1.0	
+0.77	1202 1227	exp(area_max) ^1.0	exp(rallratio_noend_peak) ^-1.0	
+-0.77	1003 2105	branchpoints_num ^-1.0	ln(asections_mean) ^1.0	
+-0.77	1003 1109	branchpoints_num ^-1.0	ln(sections_mean) ^1.0	
+-0.77	1202 1211	exp(area_max) ^-1.0	exp(dAdr_ratio) ^-1.0	
+-0.77	1103 1003	ln(branchpoints_num) ^1.0	branchpoints_num ^-1.0	
+-0.77	1003 1103	branchpoints_num ^-1.0	ln(branchpoints_num) ^1.0	
+0.77	1202 2014	exp(area_max) ^1.0	deq_relmax ^1.0	
+0.77	1201 2003	exp(darea_maxdist) ^1.0	asections_max ^1.0	
+0.77	1002 1219	area_max ^1.0	exp(branchdensityII) ^1.0	
+0.77	1002 1016	area_max ^1.0	d2area_maxAr_percent ^1.0	
+0.77	1202 2012	exp(area_max) ^1.0	adeq_max ^1.0	
+0.77	1202 1126	exp(area_max) ^1.0	ln(mean_stem_dendrite_diam) ^1.0	
+0.77	1200 1002	exp(darea_max) ^1.0	area_max ^1.0	
+0.77	1002 1212	area_max ^1.0	exp(dAdr_relmax) ^1.0	
+0.77	1000 1006	darea_max ^1.0	distance_max ^1.0	
+0.77	1206 1009	exp(distance_max) ^1.0	sections_mean ^1.0	
+0.77	1003 2208	branchpoints_num ^1.0	exp(abranchdensityII) ^-1.0	
+0.77	1106 1007	ln(distance_max) ^1.0	sections_max ^1.0	
+0.77	2202 2003	exp(adistance_max) ^1.0	asections_max ^1.0	
+0.77	1003 1212	branchpoints_num ^1.0	exp(dAdr_relmax) ^-1.0	
+0.77	1200 1003	exp(darea_max) ^-1.0	branchpoints_num ^1.0	
+0.77	1003 1026	branchpoints_num ^1.0	mean_stem_dendrite_diam ^1.0	
+0.77	1007 2208	sections_max ^1.0	exp(abranchdensityII) ^-1.0	
+0.77	1007 1026	sections_max ^1.0	mean_stem_dendrite_diam ^1.0	
+-0.77	1200 1206	exp(darea_max) ^-1.0	exp(distance_max) ^-1.0	
+0.77	1006 1012	distance_max ^1.0	dAdr_relmax ^1.0	
+0.77	2208 2216	exp(abranchdensityII) ^-1.0	exp(ddeq_max) ^1.0	
+0.77	1209 1211	exp(sections_mean) ^1.0	exp(dAdr_ratio) ^-1.0	
+0.77	1007 1226	sections_max ^1.0	exp(mean_stem_dendrite_diam) ^1.0	
+-0.77	1200 2202	exp(darea_max) ^-1.0	exp(adistance_max) ^-1.0	
+-0.77	1206 1212	exp(distance_max) ^-1.0	exp(dAdr_relmax) ^-1.0	
+0.77	1202 1105	exp(area_max) ^1.0	ln(rallratio_peak) ^1.0	
+0.77	1202 2115	exp(area_max) ^1.0	ln(deq_ratio) ^1.0	
+0.77	1202 2211	exp(area_max) ^1.0	exp(adiam_mean) ^1.0	
+0.77	1202 1007	exp(area_max) ^1.0	sections_max ^1.0	
+0.77	1007 1212	sections_max ^1.0	exp(dAdr_relmax) ^-1.0	
+0.77	1200 1007	exp(darea_max) ^-1.0	sections_max ^1.0	
+0.77	1002 2017	area_max ^1.0	ddeq_maxdist ^-1.0	
+0.77	1202 2105	exp(area_max) ^1.0	ln(asections_mean) ^1.0	
+
+
+
